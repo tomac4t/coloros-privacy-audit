@@ -1,0 +1,146 @@
+# ColorOS 14 隐私审计 - 埋点/广告/画像类域名
+# 生成: 2026-11-05 | 来源: app_backup.zip 345 APK 静态扫描
+# 建议: 直接加入 AdGuard Home 黑名单
+pantanal-svcres-cn.allawnfs.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+asdt-server-sg.allawnos.com  # 设备画像 | 设备指纹/用户画像
+asdt-server5-fr.allawnos.com  # 设备画像 | 设备指纹/用户画像
+asdt-server5-in.allawnos.com  # 设备画像 | 设备指纹/用户画像
+asdt-server5-sg.allawnos.com  # 设备画像 | 设备指纹/用户画像
+asdt-server5-us.allawnos.com  # 设备画像 | 设备指纹/用户画像
+adps-sys-cn.allawntech.com  # 设备画像 | 设备指纹/用户画像
+asdt-server5-cn.allawntech.com  # 设备画像 | 设备指纹/用户画像
+fourier-videoclip-cn.allawntech.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+odin-distrib-cn.allawntech.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+odin-inference-cn.allawntech.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+pantanal-intelli-cn.allawntech.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+pantanal-intent-cn.allawntech.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+pantanal-sys-cn.allawntech.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+rl-videoclip-cn.allawntech.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+translate-service-cn.allawntech.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+videoclip-pretest-cn.allawntech.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+videocliprl-pretest-cn.allawntech.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+asdt.coloros.com  # 设备画像 | 设备指纹/用户画像
+compass-translate.apps.coloros.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+sceneservice-model.coloros.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+sceneservice-modelfs.coloros.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+videoclipfs.coloros.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+appconf-eu.heytapdl.com  # 埋点配置 | ★ 埋点配置下发(决定真实上报域名)
+appconf-in.heytapdl.com  # 埋点配置 | ★ 埋点配置下发(决定真实上报域名)
+appconf-sgp.heytapdl.com  # 埋点配置 | ★ 埋点配置下发(决定真实上报域名)
+bsp-resources-in.heytapdl.com  # 广告 | 广告投放/程序化竞价
+appconf.heytapdownload.com  # 埋点配置 | ★ 埋点配置下发(决定真实上报域名)
+bsp-resources-cn.heytapdownload.com  # 广告 | 广告投放/程序化竞价
+actcpc.heytapimage.com  # 广告 | 广告投放/程序化竞价
+activity-cpc.heytapimage.com  # 广告 | 广告投放/程序化竞价
+bact.cpc.heytapimage.com  # 广告 | 广告投放/程序化竞价
+bot-static-cn.heytapimage.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-virtualhuman-cn.heytapimage.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+magazine-static-cpc.heytapimage.com  # 广告 | 广告投放/程序化竞价
+static-cpc.heytapimage.com  # 广告 | 广告投放/程序化竞价
+ums-rum-cn.heytapimage.com  # 遥测 | UMS/遥测
+a.cpc.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+activity-cn.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+adx.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+airecognition-ocr-cn.heytapmobi.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+aitool-cuiocr-cn.heytapmobi.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+album-idcard.heytapmobi.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+andesbrain-ai-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+api-cn.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+api-gl.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+apisnd.heytapmobi.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+bact.cpc.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+bot-aibrief-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-brain-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-braingray-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-brainpre-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-claw-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-cs-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-intent-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-rcmd-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-rcmdquic-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-v3-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bot-virtualhuman-cn.heytapmobi.com  # AI/推荐 | AI 助手/场景推荐/用户画像
+bsp-di-cn.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+bundle-mgr.cpc.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+cl-data.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+conf-cn.dc.heytapmobi.com  # 数据收集 | DC 数据采集(事件/日志)
+cubefs-norths3-cn.heytapmobi.com  # 日志存储 | Olc 日志包对象存储
+dragate-cn.dc.heytapmobi.com  # 数据收集 | DC 数据采集(事件/日志)
+epoch-cn.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-gl.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-id.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-in.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-my.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-ph.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-th.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-tw.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+epoch-vn.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+event.dc.heytapmobi.com  # 数据收集 | DC 数据采集(事件/日志)
+fupload-cn.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+gslb-cn.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+gslb-gl.cdo.heytapmobi.com  # 数据收集 | CDO/epoch 统计流水
+httpdns.ocloud.heytapmobi.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+httpdns.push.heytapmobi.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+kernel.cpc.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+mdp-usertrace-cn.heytapmobi.com  # 埋点追踪 | 用户行为轨迹上报
+obus-cn.dc.heytapmobi.com  # 埋点上报 | OBUS 运营埋点(曝光/点击)
+obus-conft-cn.heytapmobi.com  # 埋点上报 | OBUS 运营埋点(曝光/点击)
+obus-dct-cn.heytapmobi.com  # 埋点上报 | OBUS 运营埋点(曝光/点击)
+obus-jssdk-cn.heytapmobi.com  # 埋点上报 | OBUS 运营埋点(曝光/点击)
+ocloud-httpdns-cn.heytapmobi.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+sms.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+sport.health.heytapmobi.com  # 健康 | 健康数据
+ssp-adx.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+stat.browser.heytapmobi.com  # 统计 | 统计上报
+stg-data-f.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+stg-data-id.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+stg-data-in.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+stg-data-sg.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+stg-data.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+support.browser.heytapmobi.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+uapi.ads.heytapmobi.com  # 广告 | 广告投放/程序化竞价
+ums-telemetry-cn.heytapmobi.com  # 遥测 | UMS/遥测
+bsp-di-in.heytapmobile.com  # 广告 | 广告投放/程序化竞价
+bsp-di-sg.heytapmobile.com  # 广告 | 广告投放/程序化竞价
+event-in-dc.heytapmobile.com  # 数据收集 | DC 数据采集(事件/日志)
+event-sg-dc.heytapmobile.com  # 数据收集 | DC 数据采集(事件/日志)
+httpdns-euex-push.heytapmobile.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+httpdns-push.heytapmobile.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+obus-jssdk-fr.heytapmobile.com  # 埋点上报 | OBUS 运营埋点(曝光/点击)
+obus-jssdk-sg.heytapmobile.com  # 埋点上报 | OBUS 运营埋点(曝光/点击)
+obus-sg.dc.heytapmobile.com  # 埋点上报 | OBUS 运营埋点(曝光/点击)
+com.heytap.nearx.net  # 埋点上报 | NearX 埋点框架
+com.oplus.nearx.net  # 埋点上报 | NearX 埋点框架
+com.oplus.ai  # AI/推荐 | AI 助手/场景推荐/用户画像
+oplus.ai  # AI/推荐 | AI 助手/场景推荐/用户画像
+hio.oppo.com  # 设备画像 | 设备指纹/用户画像
+ua.prof.oppo.com  # 设备画像 | 设备指纹/用户画像
+pantanal-mock.oppoer.me  # AI/推荐 | AI 助手/场景推荐/用户画像
+adx.ads.oppomobile.com  # 广告 | 广告投放/程序化竞价
+api.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+api.dns.oppomobile.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+data.ads.oppomobile.com  # 广告 | 广告投放/程序化竞价
+epoch.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+event.dc.oppomobile.com  # 数据收集 | DC 数据采集(事件/日志)
+glepoch.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+gslb.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+httpdns.ocloud.oppomobile.com  # ★HTTPDNS | ★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS
+id-epoch.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+idepoch.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+iepoch.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+igslb.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+inepoch.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+intlapi.cdo.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+my-epoch.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+nearby.dc.oppomobile.com  # 数据收集 | DC 数据采集(事件/日志)
+ph-epoch.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+scene.dc.oppomobile.com  # 数据收集 | DC 数据采集(事件/日志)
+stat-in.dc.oppomobile.com  # 数据收集 | DC 数据采集(事件/日志)
+stat-sg.dc.oppomobile.com  # 数据收集 | DC 数据采集(事件/日志)
+th-epoch.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+translate.apps.oppomobile.com  # AI识别 | OCR/翻译/视频剪辑(AI 上云)
+tw-epoch.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+vn-epoch.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
+
+# ── 来自 u5/n.java （XOR 0x08 解码，静态扫描抓不到）──
+dcc-httpdns-cn.wanyol.com  # ★HTTPDNS | devTools 分支硬编码，release 不生效，兜底屏蔽

@@ -1,0 +1,16 @@
+# 通配版（按注册域名屏蔽）。仅包含 TierA 占该域 >=90% 的域名。
+# 其余域名因含功能子域，请用 01-telemetry-ads.txt 逐条屏蔽。
+# 跳过 heytapmobi.com: 仅 62/194 属 TierA，逐条屏蔽见 01
+# 跳过 oppomobile.com: 仅 25/96 属 TierA，逐条屏蔽见 01
+# 跳过 allawntech.com: 仅 12/45 属 TierA，逐条屏蔽见 01
+# 跳过 heytapmobile.com: 仅 9/30 属 TierA，逐条屏蔽见 01
+# 跳过 heytapimage.com: 仅 8/34 属 TierA，逐条屏蔽见 01
+# 跳过 allawnos.com: 仅 5/13 属 TierA，逐条屏蔽见 01
+# 跳过 coloros.com: 仅 5/29 属 TierA，逐条屏蔽见 01
+# 跳过 heytapdl.com: 仅 4/6 属 TierA，逐条屏蔽见 01
+# 跳过 heytapdownload.com: 仅 2/11 属 TierA，逐条屏蔽见 01
+||nearx.net^  # TierA 2/2
+||oplus.ai^  # TierA 2/2
+# 跳过 oppo.com: 仅 2/11 属 TierA，逐条屏蔽见 01
+# 跳过 allawnfs.com: 仅 1/4 属 TierA，逐条屏蔽见 01
+# 跳过 oppoer.me: 仅 1/5 属 TierA，逐条屏蔽见 01

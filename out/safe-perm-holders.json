@@ -1,0 +1,992 @@
+[
+ {
+  "pkg": "com.oplus.aiunit",
+  "label": "AI 服务引擎",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "oplus",
+  "label": "Android 系统",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.lockassistant",
+  "label": "Assistant",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.athena",
+  "label": "Athena",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.audio.effectcenter",
+  "label": "AudioEffectCenter",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.bttestmode",
+  "label": "BTtestmode",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.oemextensions",
+  "label": "Camera Extensions Service",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.cameraextensions",
+  "label": "CameraExtensionsProxy",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.ocar",
+  "label": "Car  车联",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.opluscarlink",
+  "label": "CarLink",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.opos.ads",
+  "label": "Commercial Service",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.crashbox",
+  "label": "CrashBox",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.customize.coreapp",
+  "label": "CustCoreApp",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.ndsf",
+  "label": "DSF",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.eid",
+  "label": "Eid-Service",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.ether",
+  "label": "Ether",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.synergy",
+  "label": "HeySynergy",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.interconnectcollectkit",
+  "label": "InterconnectCollectKit",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.nfc",
+  "label": "NFC服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.obrain",
+  "label": "OBrain",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.acc.gac",
+  "label": "OPPO智慧云加速",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.ovoicemanager",
+  "label": "OVoiceManagerSkillService",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.olc",
+  "label": "Olc",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.omoji",
+  "label": "Omoji",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oneplus.wallpaper",
+  "label": "OnePlus Wallpaper",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.onetrace",
+  "label": "OneTrace",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.ocs",
+  "label": "OpenCapabilityService",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.openid",
+  "label": "OpenID",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.lfeh",
+  "label": "OplusLFEHer",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.owkservice",
+  "label": "Owk服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.cmccslice.proxyapp",
+  "label": "ProxyApp",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.qualityprotect",
+  "label": "QualityProtect",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.sauhelper",
+  "label": "SAUHelper",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.stk",
+  "label": "SIM 卡工具包",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.sos",
+  "label": "SOS 紧急联络",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.se",
+  "label": "SecureElementApplication",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.smartengine",
+  "label": "SmartEngine",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.stdsp",
+  "label": "StdSP Core",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.vpndialogs",
+  "label": "VpnDialogs",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.wifibackuprestore",
+  "label": "WifiBackupRestore",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.atlas",
+  "label": "atlasService",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.carrierconfig",
+  "label": "com.android.carrierconfig",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oneplus.camera.pictureprocessing",
+  "label": "com.oneplus.camera.pictureprocessing",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.oshare",
+  "label": "一加互传",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.providers.downloads",
+  "label": "下载管理服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.themestore",
+  "label": "主题基础服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.pictorial",
+  "label": "乐划锁屏",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.cloud",
+  "label": "云服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.portrait",
+  "label": "人像绘影",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.mms",
+  "label": "信息",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.mms.service",
+  "label": "信息服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.healthservice",
+  "label": "健康数据平台",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.childrenspace",
+  "label": "儿童模式",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.quicksearchbox",
+  "label": "全局搜索",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.upgradeguide",
+  "label": "升级指南",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.logkit",
+  "label": "反馈工具箱",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.phonenoareainquire",
+  "label": "号码归属地",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.viewtalk",
+  "label": "图片描述",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.wallpapers",
+  "label": "壁纸",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.uxdesign",
+  "label": "壁纸与个性化",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.vdc",
+  "label": "外设融合框架",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.colorfulengine",
+  "label": "多彩引擎",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.weather.service",
+  "label": "天气服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.video",
+  "label": "媒体播放器",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.safecenter",
+  "label": "安全中心",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.securityguard",
+  "label": "安全事件",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.pay",
+  "label": "安全支付",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.securitykeyboard",
+  "label": "安全键盘",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.codebook",
+  "label": "密码本",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.keychain",
+  "label": "密钥链",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.speechassist",
+  "label": "小布助手",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.ocrscanner",
+  "label": "小布扫一扫",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.directui",
+  "label": "小布识屏",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.sharescreen",
+  "label": "屏幕共享",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.screenrecorder",
+  "label": "屏幕录制",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.engineermode",
+  "label": "工程模式",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.engineercamera",
+  "label": "工程相机",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.operationManual",
+  "label": "帮助与反馈",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.healthcheck",
+  "label": "常规检测",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.multiapp",
+  "label": "应用分身",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.packageinstaller",
+  "label": "应用包安装程序",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.cosa",
+  "label": "应用增强服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.appplatform",
+  "label": "应用服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.bootreg",
+  "label": "开机注册",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.nearme.instant.platform",
+  "label": "快应用",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.aod",
+  "label": "息屏",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.floatassistant",
+  "label": "悬浮球",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.screenshot",
+  "label": "截屏",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.gesture",
+  "label": "手势体感",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.exserviceui",
+  "label": "手势体感服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.cast",
+  "label": "手机投屏",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.phonemanager",
+  "label": "手机管家",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.printspooler",
+  "label": "打印处理服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.supertextinput",
+  "label": "扫描输入",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.apprecover",
+  "label": "找回系统应用",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.eyeprotect",
+  "label": "护眼模式",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.securepay",
+  "label": "支付保护",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.digitalwellbeing",
+  "label": "数字健康",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.cardigitalkey",
+  "label": "数字车钥匙服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.statistics.rom",
+  "label": "数据基础服务",
+  "safe_perm": true,
+  "donate_action": true
+ },
+ {
+  "pkg": "com.oplus.wirelesssettings",
+  "label": "无线设置",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.providers.calendar",
+  "label": "日历存储",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.metis",
+  "label": "智慧决策服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.travelengine",
+  "label": "智慧出行",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.pantanal.ums",
+  "label": "智慧建议服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.sceneservice",
+  "label": "智慧数据增强服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.deepthinker",
+  "label": "智慧能力服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.audiomonitor",
+  "label": "智慧语音",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.smartsidebar",
+  "label": "智能侧边栏",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.thirdkit",
+  "label": "智能应用检测",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.smartlock",
+  "label": "智能解锁",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.ted.number",
+  "label": "智能识别陌生号码",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.romupdate",
+  "label": "更新服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.permissioncontroller",
+  "label": "权限控制器",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.securitypermission",
+  "label": "权限管理",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.findmyphone",
+  "label": "查找",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.trafficmonitor",
+  "label": "流量管理",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.browser",
+  "label": "浏览器",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.battery",
+  "label": "电池",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.incallui",
+  "label": "电话",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.phone",
+  "label": "电话服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.contacts",
+  "label": "电话本",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.uiengine",
+  "label": "百变引擎",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.gallery3d",
+  "label": "相册",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oneplus.camera",
+  "label": "相机",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.encryption",
+  "label": "私密保险箱",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.htms",
+  "label": "移动服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.scenemode",
+  "label": "简易模式",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.systemclone",
+  "label": "系统分身",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.sau",
+  "label": "系统升级服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.tas",
+  "label": "系统卡包",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.exsystemservice",
+  "label": "系统服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.launcher",
+  "label": "系统桌面",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.mcs",
+  "label": "系统消息",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.systemui",
+  "label": "系统界面",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.traceur",
+  "label": "系统跟踪",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.nhs",
+  "label": "网络健康服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.location",
+  "label": "网络定位服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.nas",
+  "label": "网络服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.translate.engine",
+  "label": "翻译服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.powermonitor",
+  "label": "耗电监控服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.karaoke",
+  "label": "耳机返听",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.providers.contacts",
+  "label": "联系人存储",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.bluetooth",
+  "label": "蓝牙",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.dmp",
+  "label": "融合搜索服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.linker",
+  "label": "设备互联服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.accessory",
+  "label": "设备快连",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.mydevices",
+  "label": "设备空间",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.settings",
+  "label": "设置",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.providers.settings",
+  "label": "设置存储",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.settings.intelligence",
+  "label": "设置建议",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.colordirectservice",
+  "label": "识屏服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.postmanservice",
+  "label": "诊断工具服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.accessibilityassistant",
+  "label": "语音识别文字",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.account",
+  "label": "账号中心",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.heytap.market",
+  "label": "软件商店",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.ota",
+  "label": "软件更新",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.remoteguardservice",
+  "label": "远程守护服务",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.notificationmanager",
+  "label": "通知管理",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.fido.fido2client",
+  "label": "通行密钥",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.server.telecom",
+  "label": "通话管理",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.coloros.assistantscreen",
+  "label": "速览",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.owork",
+  "label": "随身工作台",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.oplus.blacklistapp",
+  "label": "骚扰拦截",
+  "safe_perm": true,
+  "donate_action": false
+ },
+ {
+  "pkg": "com.android.bips",
+  "label": "默认打印服务",
+  "safe_perm": true,
+  "donate_action": false
+ }
+]

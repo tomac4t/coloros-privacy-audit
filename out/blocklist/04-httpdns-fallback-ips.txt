@@ -1,0 +1,68 @@
+# HTTPDNS 备用 IP 硬编码清单
+
+> 来源：`com.oplus.statistics.rom` → `c2/d.java:24`
+> ```java
+> f949b = "120.246.123.112,106.3.18.112,111.206.136.5,120.238.145.15,119.147.175.11,157.148.79.10";
+> ```
+> 当 `support.browser.heytapmobi.com` 解析失败时，直接连这些 IP。
+
+## ⚠️ 为什么要注意
+
+AdGuard Home 是 **DNS 层** 拦截。如果客户端已经拿到 IP，直接连 IP + SNI 建连，
+**DNS 拦截完全失效**。
+
+## 清单
+
+| IP | 端口 | 备注 |
+|---|---|---|
+| `120.246.123.112` | 443 | HTTPDNS 备用 1 |
+| `106.3.18.112` | 443 | 备用 2 |
+| `111.206.136.5` | 443 | 备用 3 |
+| `120.238.145.15` | 443 | 备用 4 |
+| `119.147.175.11` | 443 | 备用 5 |
+| `157.148.79.10` | 443 | 备用 6 |
+
+## 处理建议
+
+### 方案 A：路由器/防火墙层丢包（推荐）
+```bash
+# OpenWrt / iptables（需要能拦截手机流量）
+iptables -I FORWARD -d 120.246.123.112 -j DROP
+iptables -I FORWARD -d 106.3.18.112  -j DROP
+iptables -I FORWARD -d 111.206.136.5 -j DROP
+iptables -I FORWARD -d 120.238.145.15 -j DROP
+iptables -I FORWARD -d 119.147.175.11 -j DROP
+iptables -I FORWARD -d 157.148.79.10 -j DROP
+```
+
+### 方案 B：如果你用 AdGuard Home 的「DNS rewrite」阻挡不了
+DNS 层做不到。必须走方案 A。
+
+### 方案 C：先验证这些 IP 是否真在用
+```bash
+# 抓包看有没有直接连这些 IP 的流量
+sudo tcpdump -i any -n 'host 120.246.123.112 or host 106.3.18.112 \
+  or host 111.206.136.5 or host 120.238.145.15 \
+  or host 119.147.175.11 or host 157.148.79.10'
+```
+
+## 验证：HTTPDNS 是否真在工作
+
+```bash
+# 1. 查这个域名在不在你的 DNS 查询日志里
+#    AdGuard Home → 查询日志 → 搜索 support.browser.heytapmobi.com
+
+# 2. 抓包看 TLS SNI
+sudo tcpdump -i any -n -A 'tcp port 443' | grep -o 'support\.browser\.[a-z.]*'
+
+# 3. 如果看到 httpdns 相关 SNI，说明 HTTPDNS 在工作
+```
+
+## 相关路径（如果走 HTTP）
+```
+/httpdns/get
+/getDNList
+/getHttpDnsServerList
+/v2/d
+```
+（来自 `com/heytap/httpdns/serverHost/a.java`）

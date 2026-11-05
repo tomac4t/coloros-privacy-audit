@@ -1,0 +1,345 @@
+com.android.internal.systemui.navbar.threebutton|3 Button Navigation Bar_com.android.internal.systemui.navbar.threebutton.apk
+com.qualcomm.qti.gpudrivers.kona.api30|Adreno Graphics Drivers_com.qualcomm.qti.gpudrivers.kona.api30.apk
+com.tencent.soter.soterserver|aidlserverdemo_com.tencent.soter.soterserver.apk
+com.oplus.aiunit|AI 鏈嶅姟寮曟搸_com.oplus.aiunit.apk
+com.android.egg|Android Easter Egg_com.android.egg.apk
+android.frameworkres.overlay|android.frameworkres.overlay_android.frameworkres.overlay.apk
+android.frameworkres.overlay.display.product|android.frameworkres.overlay.display.product_android.frameworkres.overlay.display.product.apk
+android.frameworkres.overlay.Network|android.frameworkres.overlay.Network_android.frameworkres.overlay.Network.apk
+android.overlay.common|android.overlay.common_android.overlay.common.apk
+android.overlay.target|android.overlay.target_android.overlay.target.apk
+android.ext.services|Android Services Library_android.ext.services.apk
+com.google.android.ext.shared|Android Shared Library_com.google.android.ext.shared.apk
+android.systemuithreekey.overlay.product|android.systemuithreekey.overlay.product_android.systemuithreekey.overlay.product.apk
+com.google.android.marvin.talkback|Android 无障碍套件_com.google.android.marvin.talkback.apk
+android|Android 绯荤粺_android.apk
+com.android.adservices.api|Android 绯荤粺_com.android.adservices.api.apk
+com.android.ext.adservices.api|Android 绯荤粺_com.android.ext.adservices.api.apk
+oplus|Android 绯荤粺_oplus.apk
+com.google.ar.core|ARCore_com.google.ar.core.apk
+com.coloros.lockassistant|Assistant_com.coloros.lockassistant.apk
+com.oplus.athena|Athena_com.oplus.athena.apk
+com.oplus.atlas|atlasService_com.oplus.atlas.apk
+com.oplus.audio.effectcenter|AudioEffectCenter_com.oplus.audio.effectcenter.apk
+com.android.bluetoothmidiservice|Bluetooth MIDI Service_com.android.bluetoothmidiservice.apk
+com.android.bookmarkprovider|Bookmark Provider_com.android.bookmarkprovider.apk
+com.oplus.bttestmode|BTtestmode_com.oplus.bttestmode.apk
+vendor.qti.hardware.cacert.server|CACertApp_vendor.qti.hardware.cacert.server.apk
+com.android.cameraextensions|CameraExtensionsProxy_com.android.cameraextensions.apk
+com.android.oemextensions|Camera Extensions Service_com.android.oemextensions.apk
+com.heytap.opluscarlink|CarLink_com.heytap.opluscarlink.apk
+com.oplus.ocar|Car  杞﹁仈_com.oplus.ocar.apk
+com.google.android.cellbroadcastreceiver.overlay|CellBroadcastReceiverModuleOverlay_com.google.android.cellbroadcastreceiver.overlay.apk
+com.android.cellbroadcastservice|Cell Broadcast Service_com.android.cellbroadcastservice.apk
+com.google.android.cellbroadcastservice.overlay|CellBroadcastServiceModuleOverlay_com.google.android.cellbroadcastservice.overlay.apk
+com.qualcomm.qti.cne|CneApp_com.qualcomm.qti.cne.apk
+com.android.backupconfirm|com.android.backupconfirm_com.android.backupconfirm.apk
+com.android.bluetooth.oplus.overlay|com.android.bluetooth.oplus.overlay_com.android.bluetooth.oplus.overlay.apk
+com.android.carrierconfig|com.android.carrierconfig_com.android.carrierconfig.apk
+com.android.carrierconfig.oplus.overlay|com.android.carrierconfig.oplus.overlay_com.android.carrierconfig.oplus.overlay.apk
+com.android.carrierconfig.overlay.common|com.android.carrierconfig.overlay.common_com.android.carrierconfig.overlay.common.apk
+com.android.carrierconfig.platform|com.android.carrierconfig.platform_com.android.carrierconfig.platform.apk
+com.android.cellbroadcastreceiver|com.android.cellbroadcastreceiver_com.android.cellbroadcastreceiver.apk
+com.android.cellbroadcastreceiver.overlay.common|com.android.cellbroadcastreceiver.overlay.common_com.android.cellbroadcastreceiver.overlay.common.apk
+com.android.connectivity.resources.overlay.oplus|com.android.connectivity.resources.overlay.oplus_com.android.connectivity.resources.overlay.oplus.apk
+com.android.cts.ctsshim|com.android.cts.ctsshim_com.android.cts.ctsshim.apk
+com.android.cts.priv.ctsshim|com.android.cts.priv.ctsshim_com.android.cts.priv.ctsshim.apk
+com.android.federatedcompute.services|com.android.federatedcompute.services_com.android.federatedcompute.services.apk
+com.android.health.connect.backuprestore|com.android.health.connect.backuprestore_com.android.health.connect.backuprestore.apk
+com.android.localtransport|com.android.localtransport_com.android.localtransport.apk
+com.android.nearby.halfsheet|com.android.nearby.halfsheet_com.android.nearby.halfsheet.apk
+com.android.ondevicepersonalization.services|com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication_com.android.ondevicepersonalization.services.apk
+com.android.ons|com.android.ons_com.android.ons.apk
+com.android.phone.overlay.common|com.android.phone.overlay.common_com.android.phone.overlay.common.apk
+com.android.providers.media|com.android.providers.media_com.android.providers.media.apk
+com.android.safetycenter.resources.overlay|com.android.safetycenter.resources.overlay_com.android.safetycenter.resources.overlay.apk
+com.android.safetycenter.styles.overlay|com.android.safetycenter.styles.overlay_com.android.safetycenter.styles.overlay.apk
+com.android.sdksandbox|com.android.sdksandbox_com.android.sdksandbox.apk
+com.android.server.telecom.overlay.common|com.android.server.telecom.overlay.common_com.android.server.telecom.overlay.common.apk
+com.android.settings.overlay.common|com.android.settings.overlay.common_com.android.settings.overlay.common.apk
+com.android.sharedstoragebackup|com.android.sharedstoragebackup_com.android.sharedstoragebackup.apk
+com.android.systemui.accessibility.accessibilitymenu|com.android.systemui.accessibility.accessibilitymenu_com.android.systemui.accessibility.accessibilitymenu.apk
+com.android.systemui.overlay.common|com.android.systemui.overlay.common_com.android.systemui.overlay.common.apk
+com.android.virtualmachine.res|com.android.virtualmachine.res_com.android.virtualmachine.res.apk
+com.android.wallpaperbackup|com.android.wallpaperbackup_com.android.wallpaperbackup.apk
+com.android.wifi.dialog|com.android.wifi.dialog_com.android.wifi.dialog.apk
+com.android.wifi.resources.overlay.common|com.android.wifi.resources.overlay.common_com.android.wifi.resources.overlay.common.apk
+com.android.wifi.resources.overlay.oplus|com.android.wifi.resources.overlay.oplus_com.android.wifi.resources.overlay.oplus.apk
+com.android.wifi.resources.overlay.target|com.android.wifi.resources.overlay.target_com.android.wifi.resources.overlay.target.apk
+com.google.android.networkstack.overlay|com.google.android.networkstack.overlay_com.google.android.networkstack.overlay.apk
+com.google.android.overlay.gmsconfig.common|com.google.android.overlay.gmsconfig.common_com.google.android.overlay.gmsconfig.common.apk
+com.google.android.overlay.gmsconfig.nosafetycenter|com.google.android.overlay.gmsconfig.nosafetycenter_com.google.android.overlay.gmsconfig.nosafetycenter.apk
+com.google.android.permissioncontroller.overlay.oplus|com.google.android.permissioncontroller.overlay.oplus_com.google.android.permissioncontroller.overlay.oplus.apk
+com.google.android.wifi.resources.overlay.common|com.google.android.wifi.resources.overlay.common_com.google.android.wifi.resources.overlay.common.apk
+com.google.android.wifi.resources.overlay.target|com.google.android.wifi.resources.overlay.target_com.google.android.wifi.resources.overlay.target.apk
+com.opos.ads|Commercial Service_com.opos.ads.apk
+com.microsoftsdk.crossdeviceservicebroker|com.microsoftsdk.crossdeviceservicebroker_com.microsoftsdk.crossdeviceservicebroker.apk
+com.oneplus.camera.pictureprocessing|com.oneplus.camera.pictureprocessing_com.oneplus.camera.pictureprocessing.apk
+bluetooth.overlay|com.oplus.framework_bluetooth.overlay_bluetooth.overlay.apk
+com.oplus.framework.rro.oneplus|com.oplus.framework.rro.oneplus_com.oplus.framework.rro.oneplus.apk
+com.oplus.ocloud|com.oplus.ocloud_com.oplus.ocloud.apk
+com.oplus.overlay.comms|com.oplus.overlay.comms_com.oplus.overlay.comms.apk
+com.qti.qualcomm.datastatusnotification|com.qti.qualcomm.datastatusnotification_com.qti.qualcomm.datastatusnotification.apk
+com.qti.service.colorservice|com.qti.service.colorservice_com.qti.service.colorservice.apk
+com.qualcomm.atfwd2|com.qualcomm.atfwd2_com.qualcomm.atfwd2.apk
+com.qualcomm.atfwd|com.qualcomm.atfwd_com.qualcomm.atfwd.apk
+com.qualcomm.qcrilmsgtunnel|com.qualcomm.qcrilmsgtunnel_com.qualcomm.qcrilmsgtunnel.apk
+com.qualcomm.qti.devicestatisticsservice|com.qualcomm.qti.devicestatisticsservice_com.qualcomm.qti.devicestatisticsservice.apk
+com.qualcomm.qti.ims|com.qualcomm.qti.ims_com.qualcomm.qti.ims.apk
+com.qualcomm.qtil.btdsda|com.qualcomm.qtil.btdsda_com.qualcomm.qtil.btdsda.apk
+com.qualcomm.qti.lpa|com.qualcomm.qti.lpa_com.qualcomm.qti.lpa.apk
+com.qualcomm.qti.remoteSimlockAuth|com.qualcomm.qti.remoteSimlockAuth_com.qualcomm.qti.remoteSimlockAuth.apk
+com.qualcomm.qti.telephonyservice|com.qualcomm.qti.telephonyservice_com.qualcomm.qti.telephonyservice.apk
+com.qualcomm.qti.uim|com.qualcomm.qti.uim_com.qualcomm.qti.uim.apk
+com.qualcomm.qti.uimGbaApp|com.qualcomm.qti.uimGbaApp_com.qualcomm.qti.uimGbaApp.apk
+com.qualcomm.qti.workloadclassifier|com.qualcomm.qti.workloadclassifier_com.qualcomm.qti.workloadclassifier.apk
+com.qualcomm.timeservice|com.qualcomm.timeservice_com.qualcomm.timeservice.apk
+com.qualcomm.uimremoteclient|com.qualcomm.uimremoteclient_com.qualcomm.uimremoteclient.apk
+com.qualcomm.uimremoteserver|com.qualcomm.uimremoteserver_com.qualcomm.uimremoteserver.apk
+com.qti.confuridialer|Conference URI Dialer_com.qti.confuridialer.apk
+com.google.android.configupdater|ConfigUpdater_com.google.android.configupdater.apk
+com.oplus.crashbox|CrashBox_com.oplus.crashbox.apk
+com.android.credentialmanager|Credential Manager_com.android.credentialmanager.apk
+com.oppo.ctautoregist|CTAutoRegist_com.oppo.ctautoregist.apk
+com.oplus.customize.coreapp|CustCoreApp_com.oplus.customize.coreapp.apk
+com.qti.dcf|dcf_com.qti.dcf.apk
+com.oppo.instant.local.service|DeliverServer_com.oppo.instant.local.service.apk
+com.microsoft.deviceintegrationservice|Device Integration Service_com.microsoft.deviceintegrationservice.apk
+com.android.devicelockcontroller|DeviceLockController_com.android.devicelockcontroller.apk
+com.oplus.ndsf|DSF_com.oplus.ndsf.apk
+com.android.dynsystem|Dynamic System Updates_com.android.dynsystem.apk
+com.oplus.eid|Eid-Service_com.oplus.eid.apk
+com.oplus.ether|Ether_com.oplus.ether.apk
+com.oneplus.faceunlock|Face Unlock_com.oneplus.faceunlock.apk
+com.fido.uafclient|FIDO UAF1.0 Client_com.fido.uafclient.apk
+com.android.internal.systemui.navbar.gestural|Gestural Navigation Bar_com.android.internal.systemui.navbar.gestural.apk
+back|Gestural Navigation Bar_extra_wide_back.apk
+back|Gestural Navigation Bar_narrow_back.apk
+back|Gestural Navigation Bar_wide_back.apk
+com.google.android.onetimeinitializer|Google One Time Init_com.google.android.onetimeinitializer.apk
+com.oplus.synergy|HeySynergy_com.oplus.synergy.apk
+com.android.htmlviewer|HTML 鏌ョ湅绋嬪簭_com.android.htmlviewer.apk
+com.android.statementservice|Intent Filter Verification Service_com.android.statementservice.apk
+com.android.intentresolver|IntentResolver_com.android.intentresolver.apk
+com.oplus.interconnectcollectkit|InterconnectCollectKit_com.oplus.interconnectcollectkit.apk
+com.qualcomm.location|LocationServices_com.qualcomm.location.apk
+com.coloros.mapcom.frame|MapComFrame_com.coloros.mapcom.frame.apk
+com.android.modulemetadata|Module Metadata_com.android.modulemetadata.apk
+com.fido.asm|MOTO FIDO UAF1.0 ASM_com.fido.asm.apk
+com.android.mtp|MTP 涓绘満_com.android.mtp.apk
+com.android.nfc|NFC鏈嶅姟_com.android.nfc.apk
+com.android.role.notes.enabled|Notes Role enabled_com.android.role.notes.enabled.apk
+com.oplus.obrain|OBrain_com.oplus.obrain.apk
+com.oplus.olc|Olc_com.oplus.olc.apk
+com.oplus.omoji|Omoji_com.oplus.omoji.apk
+com.oneplus.camera.service|OnePlus Camera Service_com.oneplus.camera.service.apk
+com.oneplus.wallpaper|OnePlus Wallpaper_com.oneplus.wallpaper.apk
+com.oplus.onetrace|OneTrace_com.oplus.onetrace.apk
+com.oplus.ocs|OpenCapabilityService_com.oplus.ocs.apk
+com.heytap.openid|OpenID_com.heytap.openid.apk
+oplus.frameworkres.overlay.camera.product|oplus.frameworkres.overlay.camera.product_oplus.frameworkres.overlay.camera.product.apk
+com.oplus.gpudrivers.sm8250.api30|OplusGpudriver_com.oplus.gpudrivers.sm8250.api30.apk
+com.oplus.lfeh|OplusLFEHer_com.oplus.lfeh.apk
+com.oplus.nrMode|OplusNrModeControl_com.oplus.nrMode.apk
+com.oplus.virtualcomm|OplusVirtualComm_com.oplus.virtualcomm.apk
+OPPO鏅烘収浜戝姞閫焈com.oplus.acc.gac|OPPO鏅烘収浜戝姞閫焈com.oplus.acc.gac.apk
+net.oneplus.wallpaperresources|OPWallpaperResources_net.oneplus.wallpaperresources.apk
+org.codeaurora.ims|org.codeaurora.ims.ImsApp_org.codeaurora.ims.apk
+com.android.hotspot2.osulogin|OsuLogin_com.android.hotspot2.osulogin.apk
+com.oplus.ovoicemanager|OVoiceManagerSkillService_com.oplus.ovoicemanager.apk
+com.oplus.owkservice|Owk鏈嶅姟_com.oplus.owkservice.apk
+com.android.pacprocessor|PacProcessor_com.android.pacprocessor.apk
+com.google.android.printservice.recommendation|Print Service Recommendation Service_com.google.android.printservice.recommendation.apk
+com.cmccslice.proxyapp|ProxyApp_com.cmccslice.proxyapp.apk
+com.android.proxyhandler|ProxyHandler_com.android.proxyhandler.apk
+com.qti.qcc|QCC_com.qti.qcc.apk
+com.oplus.qualityprotect|QualityProtect_com.oplus.qualityprotect.apk
+com.android.rkpdapp|RemoteProvisioner_com.android.rkpdapp.apk
+com.oplus.sauhelper|SAUHelper_com.oplus.sauhelper.apk
+com.android.se|SecureElementApplication_com.android.se.apk
+com.android.shell|Shell_com.android.shell.apk
+com.android.simappdialog|Sim App Dialog_com.android.simappdialog.apk
+com.qualcomm.qti.simcontacts|SIM鍗¤仈绯讳汉_com.qualcomm.qti.simcontacts.apk
+com.android.stk|SIM 鍗″伐鍏峰寘_com.android.stk.apk
+com.oplus.smartengine|SmartEngine_com.oplus.smartengine.apk
+SOS 绱ф€ヨ仈缁淿com.oplus.sos|SOS 绱ф€ヨ仈缁淿com.oplus.sos.apk
+com.oplus.stdsp|StdSP Core_com.oplus.stdsp.apk
+com.android.uwb.resources|System UWB Resources_com.android.uwb.resources.apk
+com.android.apps.tag|Tags_com.android.apps.tag.apk
+com.android.networkstack.tethering|Tethering_com.android.networkstack.tethering.apk
+com.android.internal.systemui.navbar.transparent|Transparent navigation bar_com.android.internal.systemui.navbar.transparent.apk
+com.qualcomm.qti.uceShimService|uceShimService_com.qualcomm.qti.uceShimService.apk
+com.qualcomm.qti.powersavemode|Usable Power Mode_com.qualcomm.qti.powersavemode.apk
+vendor.qti.imsdatachannel|vendor.qti.imsdatachannel_vendor.qti.imsdatachannel.apk
+vendor.qti.imsrcs|vendor.qti.imsrcs_vendor.qti.imsrcs.apk
+vendor.qti.iwlan|vendor.qti.iwlan_vendor.qti.iwlan.apk
+com.android.vpndialogs|VpnDialogs_com.android.vpndialogs.apk
+com.oplus.vulkanLayer|vulkan_layer_com.oplus.vulkanLayer.apk
+com.wapi.wapicertmanage|WAPI璇佷功_com.wapi.wapicertmanage.apk
+com.qualcomm.wfd.service|Wfd Service_com.qualcomm.wfd.service.apk
+com.oplus.wifibackuprestore|WifiBackupRestore_com.oplus.wifibackuprestore.apk
+com.qualcomm.qti.xrcb|XRCB_com.qualcomm.qti.xrcb.apk
+com.qualcomm.qti.xrvd.service|XRVD_com.qualcomm.qti.xrvd.service.apk
+com.oplus.themestore|主题基础服务_com.oplus.themestore.apk
+com.heytap.cloud|云服务_com.heytap.cloud.apk
+com.coloros.childrenspace|儿童模式_com.coloros.childrenspace.apk
+com.android.certinstaller|凭证安装_com.android.certinstaller.apk
+com.oplus.logkit|反馈工具箱_com.oplus.logkit.apk
+com.oplus.vdc|外设融合框架_com.oplus.vdc.apk
+com.android.externalstorage|外部存储设备_com.android.externalstorage.apk
+com.android.systemui.overlay.fingerprint.anim.sw|姘寸汗_com.android.systemui.overlay.fingerprint.anim.sw.apk
+com.android.systemui.overlay.fingerprint.anim.xklc|娑熸吉_com.android.systemui.overlay.fingerprint.anim.xklc.apk
+com.oplus.trafficmonitor|娴侀噺绠＄悊_com.oplus.trafficmonitor.apk
+com.android.systemui.overlay.fingerprint.anim.xw|婕╂丁_com.android.systemui.overlay.fingerprint.anim.xw.apk
+com.coloros.video|媒体播放器_com.coloros.video.apk
+com.oplus.subsys|子系统服务框架_com.oplus.subsys.apk
+com.oplus.safecenter|安全中心_com.oplus.safecenter.apk
+com.android.safetycenter.resources|安全中心资源_com.android.safetycenter.resources.apk
+com.oplus.pay|安全支付_com.oplus.pay.apk
+com.oplus.securitykeyboard|安全键盘_com.oplus.securitykeyboard.apk
+com.android.managedprovisioning|宸ヤ綔璁剧疆_com.android.managedprovisioning.apk
+com.oplus.engineermode|宸ョ▼妯″紡_com.oplus.engineermode.apk
+com.oplus.engineercamera|宸ョ▼鐩告満_com.oplus.engineercamera.apk
+寮€鍏虫帶鍒禵com.google.android.accessibility.switchaccess|寮€鍏虫帶鍒禵com.google.android.accessibility.switchaccess.apk
+寮€鏈烘敞鍐宊com.coloros.bootreg|寮€鏈烘敞鍐宊com.coloros.bootreg.apk
+com.android.captiveportallogin|寮哄埗闂ㄦ埛鐧诲綍_com.android.captiveportallogin.apk
+com.coloros.ocrscanner|小布扫一扫_com.coloros.ocrscanner.apk
+com.coloros.operationManual|帮助与反馈_com.coloros.operationManual.apk
+com.coloros.healthcheck|常规检测_com.coloros.healthcheck.apk
+com.oplus.appdetail|应用安装器_com.oplus.appdetail.apk
+com.nearme.instant.platform|快应用_com.nearme.instant.platform.apk
+com.oplus.aod|息屏_com.oplus.aod.apk
+com.coloros.floatassistant|悬浮球_com.coloros.floatassistant.apk
+com.oplus.screenshot|截屏_com.oplus.screenshot.apk
+com.coloros.phonemanager|手机管家_com.coloros.phonemanager.apk
+com.oplus.supertextinput|扫描输入_com.oplus.supertextinput.apk
+com.oplus.cosa|搴旂敤澧炲己鏈嶅姟_com.oplus.cosa.apk
+com.oplus.multiapp|搴旂敤鍒嗚韩_com.oplus.multiapp.apk
+搴旂敤鍖呭畨瑁呯▼搴廮com.android.packageinstaller|搴旂敤鍖呭畨瑁呯▼搴廮com.android.packageinstaller.apk
+com.oplus.appplatform|搴旂敤鏈嶅姟_com.oplus.appplatform.apk
+com.coloros.securepay|支付保护_com.coloros.securepay.apk
+com.oplus.cardigitalkey|数字车钥匙服务_com.oplus.cardigitalkey.apk
+com.oplus.statistics.rom|数据基础服务_com.oplus.statistics.rom.apk
+com.android.cellbroadcastreceiver.module|无线紧急警报_com.android.cellbroadcastreceiver.module.apk
+com.oplus.travelengine|智慧出行_com.oplus.travelengine.apk
+com.oplus.pantanal.ums|智慧建议服务_com.oplus.pantanal.ums.apk
+com.oplus.audiomonitor|智慧语音_com.oplus.audiomonitor.apk
+com.android.carrierdefaultapp|杩愯惀鍟嗛€氱煡_com.android.carrierdefaultapp.apk
+com.coloros.remoteguardservice|杩滅▼瀹堟姢鏈嶅姟_com.coloros.remoteguardservice.apk
+com.oplus.blacklistapp|楠氭壈鎷︽埅_com.oplus.blacklistapp.apk
+com.heytap.browser|浏览器_com.heytap.browser.apk
+com.oplus.portrait|浜哄儚缁樺奖_com.oplus.portrait.apk
+com.android.systemui.overlay.fingerprint.anim.fy|浮游_com.android.systemui.overlay.fingerprint.anim.fy.apk
+com.android.location.fused|涓€浣撳寲浣嶇疆淇℃伅_com.android.location.fused.apk
+涓€鍔犱簰浼燺com.coloros.oshare|涓€鍔犱簰浼燺com.coloros.oshare.apk
+com.android.providers.downloads.ui|涓嬭浇_com.android.providers.downloads.ui.apk
+com.android.providers.downloads|涓嬭浇绠＄悊鏈嶅姟_com.android.providers.downloads.apk
+com.heytap.pictorial|涔愬垝閿佸睆_com.heytap.pictorial.apk
+com.android.mms|淇℃伅_com.android.mms.apk
+com.android.mms.service|淇℃伅鏈嶅姟_com.android.mms.service.apk
+com.heytap.colorfulengine|澶氬僵寮曟搸_com.heytap.colorfulengine.apk
+com.coloros.weather.service|澶╂皵鏈嶅姟_com.coloros.weather.service.apk
+com.oplus.wallpapers|澹佺焊_com.oplus.wallpapers.apk
+com.oplus.uxdesign|澹佺焊涓庝釜鎬у寲_com.oplus.uxdesign.apk
+com.android.providers.media.module|濯掍綋_com.android.providers.media.module.apk
+com.android.providers.blockednumber|瀛樺偍宸插睆钄界殑鍙风爜_com.android.providers.blockednumber.apk
+瀛樺偍绌洪棿绠＄悊鍣╛com.android.storagemanager|瀛樺偍绌洪棿绠＄悊鍣╛com.android.storagemanager.apk
+瀵嗙爜鏈琠com.coloros.codebook|瀵嗙爜鏈琠com.coloros.codebook.apk
+瀵嗛挜閾綺com.android.keychain|瀵嗛挜閾綺com.android.keychain.apk
+com.coloros.securityguard|瀹夊叏浜嬩欢_com.coloros.securityguard.apk
+com.coloros.directui|灏忓竷璇嗗睆_com.coloros.directui.apk
+com.heytap.speechassist|灏忓竷鍔╂墜_com.heytap.speechassist.apk
+com.oplus.screenrecorder|灞忓箷褰曞埗_com.oplus.screenrecorder.apk
+com.coloros.sharescreen|灞忓箷鍏变韩_com.coloros.sharescreen.apk
+com.android.settings|璁剧疆_com.android.settings.apk
+com.android.providers.settings|璁剧疆瀛樺偍_com.android.providers.settings.apk
+com.coloros.colordirectservice|璇嗗睆鏈嶅姟_com.coloros.colordirectservice.apk
+com.oplus.postmanservice|璇婃柇宸ュ叿鏈嶅姟_com.oplus.postmanservice.apk
+com.heytap.vip|甯愬彿鏈嶅姟_com.heytap.vip.apk
+绉佸瘑淇濋櫓绠盻com.oplus.encryption|绉佸瘑淇濋櫓绠盻com.oplus.encryption.apk
+com.heytap.htms|绉诲姩鏈嶅姟_com.heytap.htms.apk
+绠€鏄撴ā寮廮com.coloros.scenemode|绠€鏄撴ā寮廮com.coloros.scenemode.apk
+com.android.wifi.resources|绯荤粺 WLAN 璧勬簮_com.android.wifi.resources.apk
+com.android.launcher|绯荤粺妗岄潰_com.android.launcher.apk
+com.heytap.mcs|绯荤粺娑堟伅_com.heytap.mcs.apk
+com.android.traceur|绯荤粺璺熻釜_com.android.traceur.apk
+com.android.connectivity.resources|绯荤粺缃戠粶杩炴帴璧勬簮_com.android.connectivity.resources.apk
+com.coloros.systemclone|绯荤粺鍒嗚韩_com.coloros.systemclone.apk
+com.oplus.sau|绯荤粺鍗囩骇鏈嶅姟_com.oplus.sau.apk
+com.heytap.tas|绯荤粺鍗″寘_com.heytap.tas.apk
+com.oplus.exsystemservice|绯荤粺鏈嶅姟_com.oplus.exsystemservice.apk
+com.android.systemui|绯荤粺鐣岄潰_com.android.systemui.apk
+com.android.systemui.overlay.fingerprint.anim.ccyh|缁芥斁_com.android.systemui.overlay.fingerprint.anim.ccyh.apk
+com.oplus.location|缃戠粶瀹氫綅鏈嶅姟_com.oplus.location.apk
+缃戠粶绠＄悊鍣╛com.android.networkstack|缃戠粶绠＄悊鍣╛com.android.networkstack.apk
+com.oplus.nhs|缃戠粶鍋ュ悍鏈嶅姟_com.oplus.nhs.apk
+com.oplus.nas|缃戠粶鏈嶅姟_com.oplus.nas.apk
+com.coloros.translate.engine|缈昏瘧鏈嶅姟_com.coloros.translate.engine.apk
+com.oplus.linker|设备互联服务_com.oplus.linker.apk
+com.heytap.accessory|设备快连_com.heytap.accessory.apk
+com.heytap.mydevices|设备空间_com.heytap.mydevices.apk
+com.android.settings.intelligence|设置建议_com.android.settings.intelligence.apk
+com.oneplus.voicewakeup|语音唤醒服务_com.oneplus.voicewakeup.apk
+com.iflytek.speechsuite|语音设置_com.iflytek.speechsuite.apk
+com.coloros.accessibilityassistant|语音识别文字_com.coloros.accessibilityassistant.apk
+com.oplus.account|账号中心_com.oplus.account.apk
+com.heytap.market|软件商店_com.heytap.market.apk
+com.oplus.ota|软件更新_com.oplus.ota.apk
+com.android.inputdevices|输入设备_com.android.inputdevices.apk
+com.android.internal.display.cutout.emulation.corner|边角刘海屏_com.android.internal.display.cutout.emulation.corner.apk
+com.microsoft.appmanager|连接至 Windows_com.microsoft.appmanager.apk
+com.fido.fido2client|通行密钥_com.fido.fido2client.apk
+com.coloros.assistantscreen|速览_com.coloros.assistantscreen.apk
+com.android.companiondevicemanager|配套设备管理器_com.android.companiondevicemanager.apk
+com.oplus.healthservice|鍋ュ悍鏁版嵁骞冲彴_com.oplus.healthservice.apk
+com.heytap.quicksearchbox|鍏ㄥ眬鎼滅储_com.heytap.quicksearchbox.apk
+com.oplus.upgradeguide|鍗囩骇鎸囧崡_com.oplus.upgradeguide.apk
+com.android.internal.display.cutout.emulation.double|鍙屽垬娴峰睆_com.android.internal.display.cutout.emulation.double.apk
+鍙风爜褰掑睘鍦癬com.oplus.phonenoareainquire|鍙风爜褰掑睘鍦癬com.oplus.phonenoareainquire.apk
+com.oplus.viewtalk|鍥剧墖鎻忚堪_com.oplus.viewtalk.apk
+com.android.dreams.basic|鍩烘湰浜掑姩灞忎繚_com.android.dreams.basic.apk
+com.qualcomm.qti.performancemode|鎬ц兘妯″紡_com.qualcomm.qti.performancemode.apk
+com.oplus.gesture|鎵嬪娍浣撴劅_com.oplus.gesture.apk
+com.oplus.exserviceui|鎵嬪娍浣撴劅鏈嶅姟_com.oplus.exserviceui.apk
+com.oplus.cast|鎵嬫満鎶曞睆_com.oplus.cast.apk
+com.oplus.apprecover|鎵惧洖绯荤粺搴旂敤_com.oplus.apprecover.apk
+com.android.printspooler|鎵撳嵃澶勭悊鏈嶅姟_com.android.printspooler.apk
+鎵撳瓟灞廮com.android.internal.display.cutout.emulation.hole|鎵撳瓟灞廮com.android.internal.display.cutout.emulation.hole.apk
+com.oplus.eyeprotect|鎶ょ溂妯″紡_com.oplus.eyeprotect.apk
+com.coloros.digitalwellbeing|鏁板瓧鍋ュ悍_com.coloros.digitalwellbeing.apk
+com.android.documentsui|鏂囦欢_com.android.documentsui.apk
+com.android.providers.calendar|鏃ュ巻瀛樺偍_com.android.providers.calendar.apk
+鏃犲姩鐢籣com.android.systemui.overlay.fingerprint.anim.none|鏃犲姩鐢籣com.android.systemui.overlay.fingerprint.anim.none.apk
+com.oplus.wirelesssettings|鏃犵嚎璁剧疆_com.oplus.wirelesssettings.apk
+com.oplus.metis|鏅烘収鍐崇瓥鏈嶅姟_com.oplus.metis.apk
+com.coloros.sceneservice|鏅烘収鏁版嵁澧炲己鏈嶅姟_com.coloros.sceneservice.apk
+com.oplus.deepthinker|鏅烘収鑳藉姏鏈嶅姟_com.oplus.deepthinker.apk
+鏅鸿兘搴旂敤妫€娴媉com.oplus.thirdkit|鏅鸿兘搴旂敤妫€娴媉com.oplus.thirdkit.apk
+鏅鸿兘渚ц竟鏍廮com.coloros.smartsidebar|鏅鸿兘渚ц竟鏍廮com.coloros.smartsidebar.apk
+com.coloros.smartlock|鏅鸿兘瑙ｉ攣_com.coloros.smartlock.apk
+com.ted.number|鏅鸿兘璇嗗埆闄岀敓鍙风爜_com.ted.number.apk
+com.oplus.romupdate|鏇存柊鏈嶅姟_com.oplus.romupdate.apk
+com.oplus.securitypermission|鏉冮檺绠＄悊_com.oplus.securitypermission.apk
+鏉冮檺鎺у埗鍣╛com.android.permissioncontroller|鏉冮檺鎺у埗鍣╛com.android.permissioncontroller.apk
+com.coloros.findmyphone|鏌ユ壘_com.coloros.findmyphone.apk
+鐎戝竷鍒樻捣灞廮com.android.internal.display.cutout.emulation.waterfall|鐎戝竷鍒樻捣灞廮com.android.internal.display.cutout.emulation.waterfall.apk
+com.android.providers.userdictionary|鐢ㄦ埛瀛楀吀_com.android.providers.userdictionary.apk
+com.android.incallui|鐢佃瘽_com.android.incallui.apk
+com.android.phone|鐢佃瘽鏈嶅姟_com.android.phone.apk
+鐢佃瘽鏈琠com.android.contacts|鐢佃瘽鏈琠com.android.contacts.apk
+com.oplus.battery|鐢垫睜_com.oplus.battery.apk
+oppo|鐧惧害杈撳叆娉曞畾鍒剁増_oppo.apk
+com.oplus.uiengine|鐧惧彉寮曟搸_com.oplus.uiengine.apk
+com.oneplus.camera|鐩告満_com.oneplus.camera.apk
+com.coloros.gallery3d|鐩稿唽_com.coloros.gallery3d.apk
+com.oplus.powermonitor|鑰楃數鐩戞帶鏈嶅姟_com.oplus.powermonitor.apk
+com.coloros.karaoke|鑰虫満杩斿惉_com.coloros.karaoke.apk
+鑱旂郴浜哄瓨鍌╛com.android.providers.contacts|鑱旂郴浜哄瓨鍌╛com.android.providers.contacts.apk
+com.android.bluetooth|钃濈墮_com.android.bluetooth.apk
+com.oplus.dmp|铻嶅悎鎼滅储鏈嶅姟_com.oplus.dmp.apk
+com.oplus.engineernetwork|閫氫俊缃戠粶宸ユā_com.oplus.engineernetwork.apk
+com.oplus.notificationmanager|閫氱煡绠＄悊_com.oplus.notificationmanager.apk
+com.android.server.telecom|閫氳瘽绠＄悊_com.android.server.telecom.apk
+闀垮瀷鍒樻捣灞廮com.android.internal.display.cutout.emulation.tall|闀垮瀷鍒樻捣灞廮com.android.internal.display.cutout.emulation.tall.apk
+闅忚韩宸ヤ綔鍙癬com.oplus.owork|闅忚韩宸ヤ綔鍙癬com.oplus.owork.apk
+com.android.bips|默认打印服务_com.android.bips.apk

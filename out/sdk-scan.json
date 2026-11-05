@@ -1,0 +1,688 @@
+{
+ "com.coloros.gallery3d": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.browser": [
+  "com.alibaba",
+  "com.bytedance",
+  "com.google.android.gms",
+  "com.huawei.hms",
+  "com.oplus.statistics",
+  "com.tencent.bugly",
+  "com.tencent.stat"
+ ],
+ "com.oneplus.camera": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.aiunit": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.settings": [
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.nas": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.systemui": [
+  "com.alibaba",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.stdsp": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.speechassist": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.heytap.statistics",
+  "com.netease"
+ ],
+ "com.heytap.pictorial": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.tencent.stat"
+ ],
+ "com.oneplus.wallpaper": [],
+ "com.heytap.quicksearchbox": [
+  "com.google.android.gms",
+  "com.oplus.statistics",
+  "com.tencent.bugly"
+ ],
+ "com.oplus.account": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics",
+  "com.tencent.bugly",
+  "com.tencent.stat"
+ ],
+ "com.oplus.pantanal.ums": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.assistantscreen": [
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.ocrscanner": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.nearme.instant.platform": [
+  "com.alibaba",
+  "com.bytedance",
+  "com.google.android.gms",
+  "com.oplus.statistics",
+  "com.tencent.bugly",
+  "com.tencent.stat"
+ ],
+ "com.heytap.market": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "oppo": [
+  "com.alibaba",
+  "com.huawei.hms",
+  "com.netease",
+  "com.tencent.stat"
+ ],
+ "com.coloros.phonemanager": [
+  "com.google.android.gms",
+  "com.nearme.statistics",
+  "com.netease",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.android.mms": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.sceneservice": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "鐢佃瘽鏈琠com.android.contacts": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.omoji": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.childrenspace": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "net.oneplus.wallpaperresources": [],
+ "com.oplus.aod": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.launcher": [
+  "com.alibaba",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.findmyphone": [
+  "com.google.android.gms"
+ ],
+ "com.oplus.portrait": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.linker": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.ocar": [
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "寮€鏈烘敞鍐宊com.coloros.bootreg": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oneplus.voicewakeup": [],
+ "com.oplus.wallpapers": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.cosa": [
+  "com.alibaba",
+  "com.netease",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.floatassistant": [
+  "com.nearme.statistics"
+ ],
+ "android": [],
+ "OPPO鏅烘収浜戝姞閫焈com.oplus.acc.gac": [
+  "com.google.android.gms",
+  "com.oplus.statistics",
+  "com.tencent.bugly"
+ ],
+ "com.oplus.metis": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.cloud": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.server.telecom": [],
+ "com.oplus.supertextinput": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.postmanservice": [
+  "com.google.android.gms",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.htms": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.colordirectservice": [
+  "com.alibaba",
+  "com.bytedance",
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.translate.engine": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.themestore": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.gesture": [
+  "com.oplus.statistics"
+ ],
+ "com.android.adservices.api": [
+  "com.google.android.gms"
+ ],
+ "com.heytap.tas": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.engineercamera": [],
+ "com.android.bluetooth": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.pay": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.engineermode": [
+  "com.google.android.gms",
+  "com.oplus.olc"
+ ],
+ "com.oplus.screenshot": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.accessory": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.video": [
+  "com.oplus.statistics"
+ ],
+ "com.android.phone": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.mapcom.frame": [
+  "com.nearme.statistics"
+ ],
+ "com.oplus.battery": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.colorfulengine": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.sharescreen": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.appdetail": [
+  "com.google.android.gms",
+  "com.nearme.statistics"
+ ],
+ "鏉冮檺鎺у埗鍣╛com.android.permissioncontroller": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.securitypermission": [
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.notificationmanager": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.logkit": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.viewtalk": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.uxdesign": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.ted.number": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.operationManual": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics",
+  "com.tencent.stat"
+ ],
+ "com.heytap.opluscarlink": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.mcs": [
+  "com.google.android.gms"
+ ],
+ "com.coloros.directui": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.statistics.rom": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.smartengine": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.dmp": [
+  "com.oplus.statistics"
+ ],
+ "SOS 绱ф€ヨ仈缁淿com.oplus.sos": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.incallui": [
+  "com.oplus.statistics"
+ ],
+ "com.android.ext.adservices.api": [
+  "com.google.android.gms"
+ ],
+ "com.oplus.engineernetwork": [
+  "com.google.android.gms"
+ ],
+ "com.oplus.safecenter": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.securepay": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.digitalwellbeing": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.cast": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.wirelesssettings": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.cellbroadcastreceiver.module": [],
+ "涓€鍔犱簰浼燺com.coloros.oshare": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.cmccslice.proxyapp": [],
+ "com.oplus.location": [
+  "com.oplus.statistics"
+ ],
+ "com.oneplus.camera.pictureprocessing": [],
+ "瀵嗙爜鏈琠com.coloros.codebook": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.deepthinker": [
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.upgradeguide": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.healthcheck": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.nfc": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "绠€鏄撴ā寮廮com.coloros.scenemode": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.weather.service": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.mydevices": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.ota": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.ocs": [
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.uiengine": [
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.android.providers.media.module": [],
+ "com.coloros.systemclone": [
+  "com.nearme.statistics",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.trafficmonitor": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.coloros.karaoke": [
+  "com.oplus.statistics"
+ ],
+ "鏅鸿兘渚ц竟鏍廮com.coloros.smartsidebar": [
+  "com.google.android.gms",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.heytap.openid": [
+  "com.oplus.statistics"
+ ],
+ "com.android.htmlviewer": [],
+ "瀛樺偍绌洪棿绠＄悊鍣╛com.android.storagemanager": [],
+ "com.coloros.accessibilityassistant": [
+  "com.oplus.statistics"
+ ],
+ "oplus": [],
+ "com.coloros.securityguard": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.wifibackuprestore": [
+  "com.google.android.gms"
+ ],
+ "com.oplus.sau": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.blacklistapp": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.cardigitalkey": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "闅忚韩宸ヤ綔鍙癬com.oplus.owork": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.exsystemservice": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.netease",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.vdc": [
+  "com.oplus.statistics"
+ ],
+ "绉佸瘑淇濋櫓绠盻com.oplus.encryption": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.printspooler": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.exserviceui": [
+  "com.oplus.statistics"
+ ],
+ "搴旂敤鍖呭畨瑁呯▼搴廮com.android.packageinstaller": [
+  "com.google.android.gms",
+  "com.nearme.statistics",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.eyeprotect": [
+  "com.oplus.statistics"
+ ],
+ "com.android.bips": [
+  "com.oplus.statistics"
+ ],
+ "鏅鸿兘搴旂敤妫€娴媉com.oplus.thirdkit": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.fido.fido2client": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.screenrecorder": [
+  "com.oplus.statistics"
+ ],
+ "com.android.systemui.overlay.fingerprint.anim.xw": [],
+ "com.android.settings.intelligence": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.stk": [],
+ "com.coloros.smartlock": [
+  "com.oplus.statistics"
+ ],
+ "鑱旂郴浜哄瓨鍌╛com.android.providers.contacts": [
+  "com.oplus.statistics"
+ ],
+ "com.android.systemui.overlay.fingerprint.anim.xklc": [],
+ "com.oplus.multiapp": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.ndsf": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.audiomonitor": [
+  "com.oplus.statistics"
+ ],
+ "com.coloros.lockassistant": [
+  "com.oplus.statistics"
+ ],
+ "com.android.systemui.overlay.fingerprint.anim.fy": [],
+ "com.android.traceur": [
+  "com.oplus.olc"
+ ],
+ "com.android.systemui.overlay.fingerprint.anim.ccyh": [],
+ "com.oplus.apprecover": [
+  "com.oplus.statistics"
+ ],
+ "android.ext.services": [],
+ "com.android.systemui.overlay.fingerprint.anim.sw": [],
+ "com.android.documentsui": [],
+ "com.android.managedprovisioning": [],
+ "com.android.devicelockcontroller": [
+  "com.google.android.gms"
+ ],
+ "com.oplus.audio.effectcenter": [],
+ "com.oplus.vulkanLayer": [],
+ "com.android.credentialmanager": [],
+ "com.oplus.ocloud": [
+  "com.google.android.gms"
+ ],
+ "com.android.providers.settings": [],
+ "com.oplus.crashbox": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.travelengine": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.ovoicemanager": [
+  "com.oplus.statistics"
+ ],
+ "com.android.intentresolver": [],
+ "com.opos.ads": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.nearby.halfsheet": [],
+ "com.oplus.customize.coreapp": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.synergy": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.nhs": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.qualcomm.location": [],
+ "com.oneplus.faceunlock": [],
+ "鍙风爜褰掑睘鍦癬com.oplus.phonenoareainquire": [],
+ "com.oplus.athena": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.obrain": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.olc": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.onetrace": [
+  "com.oplus.statistics"
+ ],
+ "com.qualcomm.qti.simcontacts": [],
+ "com.coloros.remoteguardservice": [
+  "com.google.android.gms"
+ ],
+ "com.oplus.powermonitor": [
+  "com.alibaba",
+  "com.google.android.gms",
+  "com.nearme.statistics",
+  "com.netease",
+  "com.oplus.olc",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.qualityprotect": [
+  "com.oplus.statistics"
+ ],
+ "com.oplus.romupdate": [
+  "com.google.android.gms"
+ ],
+ "com.android.companiondevicemanager": [],
+ "com.android.certinstaller": [],
+ "com.oplus.ether": [
+  "com.oplus.statistics"
+ ],
+ "瀵嗛挜閾綺com.android.keychain": [],
+ "com.android.egg": [],
+ "com.oplus.appplatform": [
+  "com.oplus.statistics"
+ ],
+ "com.android.mms.service": [
+  "com.oplus.statistics"
+ ],
+ "com.android.statementservice": [],
+ "com.android.ondevicepersonalization.services": [
+  "com.google.android.gms"
+ ],
+ "com.android.providers.blockednumber": [],
+ "com.android.providers.calendar": [],
+ "org.codeaurora.ims": [],
+ "com.android.systemui.accessibility.accessibilitymenu": [],
+ "com.android.wifi.resources": [],
+ "com.qti.qcc": [],
+ "com.android.mtp": [],
+ "缃戠粶绠＄悊鍣╛com.android.networkstack": [],
+ "com.oplus.virtualcomm": [],
+ "com.android.networkstack.tethering": [
+  "com.google.android.gms"
+ ],
+ "com.android.providers.media": [],
+ "com.android.cellbroadcastreceiver": [],
+ "vendor.qti.iwlan": [],
+ "com.android.wifi.dialog": [],
+ "com.android.rkpdapp": [],
+ "com.google.android.permissioncontroller.overlay.oplus": [],
+ "com.oplus.healthservice": [],
+ "com.android.apps.tag": [],
+ "com.android.bluetooth.oplus.overlay": [],
+ "com.android.se": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.oplus.atlas": [],
+ "com.android.shell": [],
+ "com.android.captiveportallogin": [],
+ "com.android.safetycenter.resources": [],
+ "com.android.providers.downloads": [
+  "com.google.android.gms",
+  "com.oplus.statistics"
+ ],
+ "com.android.simappdialog": [],
+ "com.heytap.vip": [],
+ "vendor.qti.imsrcs": [],
+ "com.oplus.securitykeyboard": [
+  "com.oplus.statistics"
+ ],
+ "com.qualcomm.qti.uceShimService": [],
+ "com.fido.asm": [],
+ "com.qualcomm.qti.cne": []
+}

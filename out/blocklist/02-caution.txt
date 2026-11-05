@@ -1,0 +1,186 @@
+# ColorOS 14 - 功能相关域名（屏蔽会掉功能，谨慎）
+pagekitpage-cdnfs-cn.allawnfs.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+dfs-server-gl.allawntech.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+ota-recruit-cn.allawntech.com  # 升级/下载 | 系统升级/资源下载 | 屏蔽=收不到更新
+qualitycloud-service-cn.allawntech.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+com.coloros.cloud  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+smartcardfs.coloros.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+com.heytap.cloud  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+heytap.cloud  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+brand.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+chat.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+cloud.heytap.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+e.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+game.heytap.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+hd.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+id.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+muc.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+pay.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+wj.heytap.com  # 账号/内容 | 账号与内容 API | 按需
+frontend-static-common-in.heytapdl.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+static-common.heytapdl.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+dl-gs.heytapdownload.com  # 升级/下载 | 系统升级/资源下载 | 屏蔽=收不到更新
+fs-lehua-magazine.heytapdownload.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+heytapdownload.com  # 升级/下载 | 系统升级/资源下载 | 屏蔽=收不到更新
+magazine-staticapi-cn.heytapdownload.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+magazine.heytapdownload.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+news.heytapdownload.com  # 升级/下载 | 系统升级/资源下载 | 屏蔽=收不到更新
+security-speed.heytapdownload.com  # 升级/下载 | 系统升级/资源下载 | 屏蔽=收不到更新
+static-common.heytapdownload.com  # 升级/下载 | 系统升级/资源下载 | 屏蔽=收不到更新
+adsfs-sdkconfig.heytapimage.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+adsfs.heytapimage.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+ai-chat.heytapimage.com  # 账号/内容 | 账号与内容 API | 按需
+ai-search.heytapimage.com  # 搜索 | 搜索/热搜 | 可屏蔽
+cdofs.heytapimage.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+dhfs.heytapimage.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+magazine-detail-cn.heytapimage.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+magazine.heytapimage.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+prod-search.heytapimage.com  # 搜索 | 搜索/热搜 | 可屏蔽
+static-doc-cn.heytapimage.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+static-usop-cn.heytapimage.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+store.heytapimage.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+ai-repair.ocloud.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+ai-search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+api-cn-test.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-cn.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-cn.theme.heytapmobi.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-gl.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-id.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-in.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-my.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-ph.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-th.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-tw.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-vn.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+appstore-openapi-cn.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+bot-ttscloud-cn.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+browser.heytapmobi.com  # 浏览器 | 浏览器内核/日志 | 按需
+captcha-sec.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+cloudi.browser.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+cloudkit-api-cn.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+comsec-intelligence-cn.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+config-pre.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+config.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+datasec-kmsex-cn.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+dc.push.heytapmobi.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+fs-gl.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+fs-id.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+fs-in.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+fs-my.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+fs-ph.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+fs-th.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+fs-tw.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+fs-vn.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+g.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+i-cn01a.ocloud.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+i-pre.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+i.browser.heytapmobi.com  # 浏览器 | 浏览器内核/日志 | 按需
+i.magazine.heytapmobi.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+i.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+iapp.magazine.heytapmobi.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+ibrowser.feeds.heytapmobi.com  # 浏览器 | 浏览器内核/日志 | 按需
+kernellog.browser.heytapmobi.com  # 浏览器 | 浏览器内核/日志 | 按需
+logforward.browser.heytapmobi.com  # 浏览器 | 浏览器内核/日志 | 按需
+long.push.heytapmobi.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+magazine-low-cn.heytapmobi.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+ms-eval.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+ms-pre.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+ms.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+ocloud-webdata-cn.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+ocloud.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+ocna-cloud-cn.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+omes-cableserver-cn.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+omes-passkey-cn.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+omes-sec-stdsrp-cn.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+omes-sec.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+omes-stdspa-cn.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+omkms-sec.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+osec-srp-cn.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+ouis-pre.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+ouis.search.heytapmobi.com  # 搜索 | 搜索/热搜 | 可屏蔽
+push.heytapmobi.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+readermode.browser.heytapmobi.com  # 浏览器 | 浏览器内核/日志 | 按需
+share-cn01a.ocloud.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+short.push.heytapmobi.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+static-cn01a.ocloud.heytapmobi.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+tv-cn.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+virusinfo-sec.heytapmobi.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+watch-cn.store.heytapmobi.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+api-gl.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-id.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-in.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-my.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-ph.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-th.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-tw.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+api-vn.theme.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+captcha-ind-sec.heytapmobile.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+captcha-sgp-sec.heytapmobile.com  # 安全校验 | 安全/风控校验 | 屏蔽可能影响支付/登录
+dc-push.heytapmobile.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+i-in.magazine.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+i-sg.magazine.heytapmobile.com  # 内容推荐 | 锁屏/杂志/主题内容 | 可屏蔽，观感下降
+long-push.heytapmobile.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+push.heytapmobile.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+short-push.heytapmobile.com  # 推送 | 消息推送通道 | 屏蔽=收不到推送
+appimg-search.nearme.com.cn  # 搜索 | 搜索/热搜 | 可屏蔽
+dict-search.nearme.com.cn  # 搜索 | 搜索/热搜 | 可屏蔽
+i2.store.nearme.com.cn  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+i3.store.nearme.com.cn  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+imgconvert-search.nearme.com.cn  # 搜索 | 搜索/热搜 | 可屏蔽
+prod-search.nearme.com.cn  # 搜索 | 搜索/热搜 | 可屏蔽
+sd-search.nearme.com.cn  # 搜索 | 搜索/热搜 | 可屏蔽
+searchfs-origin-cbcff7.nearme.com.cn  # 搜索 | 搜索/热搜 | 可屏蔽
+searchfs.nearme.com.cn  # 搜索 | 搜索/热搜 | 可屏蔽
+static-bot.nearme.com.cn  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+static2-bot.nearme.com.cn  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+chat.oppo.com  # 账号/内容 | 账号与内容 API | 按需
+cloud.oppo.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+hd.oppo.com  # 账号/内容 | 账号与内容 API | 按需
+cms.browser.oppoer.me  # 浏览器 | 浏览器内核/日志 | 按需
+kernellog.browser.oppoer.me  # 浏览器 | 浏览器内核/日志 | 按需
+static-common.oppoer.me  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+adsfs.oppomobile.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+cdofs.oppomobile.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+cloudi.browser.oppomobile.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+dhfs.oppomobile.com  # 静态资源 | CDN/静态资源 | 屏蔽可能白屏
+g-pre.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+g.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+game.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+gl-gamesdk.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+i-pre.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+i.browser.oppomobile.com  # 浏览器 | 浏览器内核/日志 | 按需
+i.flow.browser.oppomobile.com  # 浏览器 | 浏览器内核/日志 | 按需
+i.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+id-gamesdk.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+id-store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+idapi.store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+in-gamesdk.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+in-store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+inapi.store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+intlapi.store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+istore.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+kernellog.browser.oppomobile.com  # 浏览器 | 浏览器内核/日志 | 按需
+m.store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+ms-pre.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+ms.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+my-store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+openapi.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+opsapi.store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+ph-store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+searchfsf.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+th-store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+tw-store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+uploadapi.search.oppomobile.com  # 搜索 | 搜索/热搜 | 可屏蔽
+vn-store.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+wap.game.oppomobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+hd.opposhop.cn  # 账号/内容 | 账号与内容 API | 按需
+cloud.realme.com  # 云服务 | 云同步/云相册 | 屏蔽会失去云功能
+gl-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+id-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+in-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+my-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+ph-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+th-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+tw-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用
+vn-store.realmemobile.com  # 应用商店 | 商店/游戏中心 API | 屏蔽后商店不可用

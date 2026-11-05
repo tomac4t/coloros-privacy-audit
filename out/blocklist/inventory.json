@@ -1,0 +1,6334 @@
+{
+ "tierA": [
+  {
+   "host": "pantanal-svcres-cn.allawnfs.com",
+   "base": "allawnfs.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "asdt-server-sg.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "asdt-server5-fr.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "asdt-server5-in.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "asdt-server5-sg.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "asdt-server5-us.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "adps-sys-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.aiunit"
+   ]
+  },
+  {
+   "host": "asdt-server5-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "fourier-videoclip-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "odin-distrib-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.oplus.deepthinker"
+   ]
+  },
+  {
+   "host": "odin-inference-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.phonemanager",
+    "com.oplus.aiunit"
+   ]
+  },
+  {
+   "host": "pantanal-intelli-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "pantanal-intent-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "pantanal-sys-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "rl-videoclip-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "translate-service-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.ocrscanner"
+   ]
+  },
+  {
+   "host": "videoclip-pretest-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "videocliprl-pretest-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "asdt.coloros.com",
+   "base": "coloros.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "compass-translate.apps.coloros.com",
+   "base": "coloros.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.translate.engine"
+   ]
+  },
+  {
+   "host": "sceneservice-model.coloros.com",
+   "base": "coloros.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "sceneservice-modelfs.coloros.com",
+   "base": "coloros.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "videoclipfs.coloros.com",
+   "base": "coloros.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "appconf-eu.heytapdl.com",
+   "base": "heytapdl.com",
+   "cat": "埋点配置",
+   "purpose": "★ 埋点配置下发(决定真实上报域名)",
+   "risk": "屏蔽=埋点断粮；可能影响主题/商店配置，需实测",
+   "apps": [
+    "com.coloros.sharescreen"
+   ]
+  },
+  {
+   "host": "appconf-in.heytapdl.com",
+   "base": "heytapdl.com",
+   "cat": "埋点配置",
+   "purpose": "★ 埋点配置下发(决定真实上报域名)",
+   "risk": "屏蔽=埋点断粮；可能影响主题/商店配置，需实测",
+   "apps": [
+    "com.coloros.sharescreen"
+   ]
+  },
+  {
+   "host": "appconf-sgp.heytapdl.com",
+   "base": "heytapdl.com",
+   "cat": "埋点配置",
+   "purpose": "★ 埋点配置下发(决定真实上报域名)",
+   "risk": "屏蔽=埋点断粮；可能影响主题/商店配置，需实测",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.coloros.sharescreen",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "bsp-resources-in.heytapdl.com",
+   "base": "heytapdl.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "appconf.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "埋点配置",
+   "purpose": "★ 埋点配置下发(决定真实上报域名)",
+   "risk": "屏蔽=埋点断粮；可能影响主题/商店配置，需实测",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.coloros.sharescreen",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "bsp-resources-cn.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "actcpc.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.gallery3d",
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "activity-cpc.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "bact.cpc.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "bot-static-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bot-virtualhuman-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "magazine-static-cpc.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "static-cpc.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "ums-rum-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "遥测",
+   "purpose": "UMS/遥测",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "a.cpc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "activity-cn.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "adx.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform",
+    "com.oplus.metis",
+    "com.opos.ads"
+   ]
+  },
+  {
+   "host": "airecognition-ocr-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "aitool-cuiocr-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.colordirectservice",
+    "com.coloros.gallery3d",
+    "com.coloros.phonemanager"
+   ]
+  },
+  {
+   "host": "album-idcard.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "andesbrain-ai-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.android.nfc",
+    "com.oplus.acc.gac",
+    "com.oplus.cosa",
+    "com.oplus.ether",
+    "com.oplus.nas"
+   ]
+  },
+  {
+   "host": "api-cn.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.coloros.phonemanager",
+    "com.heytap.market",
+    "com.nearme.instant.platform",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-gl.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.nearme.instant.platform",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "apisnd.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.heytap.mydevices",
+    "com.heytap.pictorial",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bact.cpc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "bot-aibrief-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "bot-brain-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist",
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "bot-braingray-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bot-brainpre-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bot-claw-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.sceneservice"
+   ]
+  },
+  {
+   "host": "bot-cs-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bot-intent-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "bot-rcmd-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bot-rcmdquic-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bot-v3-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bot-virtualhuman-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "bsp-di-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "bundle-mgr.cpc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "cl-data.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.android.mms",
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "conf-cn.dc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "cubefs-norths3-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "日志存储",
+   "purpose": "Olc 日志包对象存储",
+   "risk": "建议屏蔽",
+   "apps": [
+    "com.oplus.statistics.rom"
+   ]
+  },
+  {
+   "host": "dragate-cn.dc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "epoch-cn.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.nearme.instant.platform",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "epoch-gl.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "epoch-id.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "epoch-in.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "epoch-my.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "epoch-ph.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "epoch-th.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "epoch-tw.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "epoch-vn.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "event.dc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "fupload-cn.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "gslb-cn.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.nearme.instant.platform",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "gslb-gl.cdo.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market",
+    "com.nearme.instant.platform",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "httpdns.ocloud.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "httpdns.push.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "kernel.cpc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "mdp-usertrace-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "埋点追踪",
+   "purpose": "用户行为轨迹上报",
+   "risk": "关掉统计开关后应消失；若仍出现说明有漏网",
+   "apps": [
+    "com.android.mms",
+    "com.coloros.assistantscreen",
+    "com.coloros.phonemanager",
+    "com.heytap.mcs",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform",
+    "com.oplus.metis",
+    "com.opos.ads"
+   ]
+  },
+  {
+   "host": "obus-cn.dc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "埋点上报",
+   "purpose": "OBUS 运营埋点(曝光/点击)",
+   "risk": "关个性化推荐可减；建议屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "obus-conft-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "埋点上报",
+   "purpose": "OBUS 运营埋点(曝光/点击)",
+   "risk": "关个性化推荐可减；建议屏蔽",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "obus-dct-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "埋点上报",
+   "purpose": "OBUS 运营埋点(曝光/点击)",
+   "risk": "关个性化推荐可减；建议屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "obus-jssdk-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "埋点上报",
+   "purpose": "OBUS 运营埋点(曝光/点击)",
+   "risk": "关个性化推荐可减；建议屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "ocloud-httpdns-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "sms.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.android.mms",
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "sport.health.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "健康",
+   "purpose": "健康数据",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.oplus.deepthinker"
+   ]
+  },
+  {
+   "host": "ssp-adx.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "stat.browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "统计",
+   "purpose": "统计上报",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "stg-data-f.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "stg-data-id.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "stg-data-in.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "stg-data-sg.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "stg-data.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.android.mms",
+    "com.android.packageinstaller",
+    "com.coloros.assistantscreen",
+    "com.coloros.phonemanager",
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform",
+    "com.oplus.appdetail",
+    "com.opos.ads"
+   ]
+  },
+  {
+   "host": "support.browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "uapi.ads.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "ums-telemetry-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "遥测",
+   "purpose": "UMS/遥测",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "bsp-di-in.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "bsp-di-sg.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "event-in-dc.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "event-sg-dc.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "httpdns-euex-push.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "httpdns-push.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "obus-jssdk-fr.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "埋点上报",
+   "purpose": "OBUS 运营埋点(曝光/点击)",
+   "risk": "关个性化推荐可减；建议屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "obus-jssdk-sg.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "埋点上报",
+   "purpose": "OBUS 运营埋点(曝光/点击)",
+   "risk": "关个性化推荐可减；建议屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "obus-sg.dc.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "埋点上报",
+   "purpose": "OBUS 运营埋点(曝光/点击)",
+   "risk": "关个性化推荐可减；建议屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "com.heytap.nearx.net",
+   "base": "nearx.net",
+   "cat": "埋点上报",
+   "purpose": "NearX 埋点框架",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "com.oplus.nearx.net",
+   "base": "nearx.net",
+   "cat": "埋点上报",
+   "purpose": "NearX 埋点框架",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.mcs",
+    "com.heytap.speechassist",
+    "com.oplus.ota",
+    "com.oplus.pay",
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "com.oplus.ai",
+   "base": "oplus.ai",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.android.launcher",
+    "com.android.mms",
+    "com.android.settings",
+    "com.android.settings.intelligence",
+    "com.coloros.bootreg",
+    "com.coloros.childrenspace",
+    "com.coloros.colordirectservice",
+    "com.coloros.floatassistant",
+    "com.coloros.gallery3d",
+    "com.coloros.smartsidebar",
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.heytap.mcs",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.oplus.aiunit",
+    "com.oplus.ocar",
+    "com.oplus.omoji",
+    "com.oplus.ovoicemanager"
+   ]
+  },
+  {
+   "host": "oplus.ai",
+   "base": "oplus.ai",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.android.incallui",
+    "com.android.phone",
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "hio.oppo.com",
+   "base": "oppo.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.coloros.ocrscanner"
+   ]
+  },
+  {
+   "host": "ua.prof.oppo.com",
+   "base": "oppo.com",
+   "cat": "设备画像",
+   "purpose": "设备指纹/用户画像",
+   "risk": "隐私敏感",
+   "apps": [
+    "com.android.mms"
+   ]
+  },
+  {
+   "host": "pantanal-mock.oppoer.me",
+   "base": "oppoer.me",
+   "cat": "AI/推荐",
+   "purpose": "AI 助手/场景推荐/用户画像",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.metis",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "adx.ads.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.coloros.assistantscreen"
+   ]
+  },
+  {
+   "host": "api.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.nearme.instant.platform",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api.dns.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "data.ads.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "广告",
+   "purpose": "广告投放/程序化竞价",
+   "risk": "强烈建议屏蔽，无副作用",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "epoch.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "event.dc.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "glepoch.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "gslb.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.nearme.instant.platform",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "httpdns.ocloud.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "★HTTPDNS",
+   "purpose": "★ HTTPDNS 服务 —— 埋点域名的 DNS 引导，绕过系统 DNS",
+   "risk": "强烈建议屏蔽；但需同时拦备用 IP（AdGuard 拦不住 IP 直连）",
+   "apps": [
+    "com.oplus.powermonitor"
+   ]
+  },
+  {
+   "host": "id-epoch.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "idepoch.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "iepoch.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "igslb.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "inepoch.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "intlapi.cdo.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "my-epoch.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "nearby.dc.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "ph-epoch.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "scene.dc.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.coloros.sceneservice"
+   ]
+  },
+  {
+   "host": "stat-in.dc.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "stat-sg.dc.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "DC 数据采集(事件/日志)",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "th-epoch.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "translate.apps.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "AI识别",
+   "purpose": "OCR/翻译/视频剪辑(AI 上云)",
+   "risk": "隐私敏感，建议屏蔽",
+   "apps": [
+    "com.coloros.translate.engine"
+   ]
+  },
+  {
+   "host": "tw-epoch.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "vn-epoch.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "数据收集",
+   "purpose": "CDO/epoch 统计流水",
+   "risk": "高价值屏蔽目标",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market"
+   ]
+  }
+ ],
+ "tierB": [
+  {
+   "host": "pagekitpage-cdnfs-cn.allawnfs.com",
+   "base": "allawnfs.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "dfs-server-gl.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.oplus.engineernetwork",
+    "com.oplus.postmanservice"
+   ]
+  },
+  {
+   "host": "ota-recruit-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "升级/下载",
+   "purpose": "系统升级/资源下载",
+   "risk": "屏蔽=收不到更新",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "qualitycloud-service-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.oplus.thirdkit"
+   ]
+  },
+  {
+   "host": "com.coloros.cloud",
+   "base": "coloros.cloud",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.android.mms",
+    "com.coloros.phonemanager",
+    "com.heytap.cloud",
+    "com.oplus.account",
+    "com.oplus.athena",
+    "com.oplus.notificationmanager"
+   ]
+  },
+  {
+   "host": "smartcardfs.coloros.com",
+   "base": "coloros.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.coloros.assistantscreen"
+   ]
+  },
+  {
+   "host": "com.heytap.cloud",
+   "base": "heytap.cloud",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.android.contacts",
+    "com.android.launcher",
+    "com.android.mms",
+    "com.android.providers.calendar",
+    "com.android.providers.contacts",
+    "com.android.settings",
+    "com.android.settings.intelligence",
+    "com.coloros.assistantscreen",
+    "com.coloros.bootreg",
+    "com.coloros.codebook",
+    "com.coloros.colordirectservice",
+    "com.coloros.digitalwellbeing",
+    "com.coloros.gallery3d",
+    "com.coloros.phonemanager",
+    "com.heytap.browser",
+    "com.heytap.cloud",
+    "com.heytap.market",
+    "com.heytap.openid",
+    "com.oplus.account",
+    "com.oplus.athena",
+    "com.oplus.blacklistapp",
+    "com.oplus.customize.coreapp",
+    "com.oplus.deepthinker",
+    "com.oplus.encryption",
+    "com.oplus.exsystemservice",
+    "com.oplus.metis",
+    "com.oplus.notificationmanager",
+    "com.oplus.pantanal.ums",
+    "com.oplus.screenshot",
+    "com.oplus.securitypermission",
+    "com.oplus.sos",
+    "com.oplus.trafficmonitor",
+    "com.oplus.wifibackuprestore",
+    "oplus"
+   ]
+  },
+  {
+   "host": "heytap.cloud",
+   "base": "heytap.cloud",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.heytap.cloud",
+    "com.oplus.account",
+    "com.oplus.encryption"
+   ]
+  },
+  {
+   "host": "brand.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.android.mms",
+    "com.coloros.colordirectservice",
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.oplus.notificationmanager",
+    "com.oplus.themestore",
+    "com.ted.number"
+   ]
+  },
+  {
+   "host": "chat.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.pictorial",
+    "com.heytap.tas",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "cloud.heytap.com",
+   "base": "heytap.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.android.contacts",
+    "com.android.mms",
+    "com.android.settings",
+    "com.coloros.codebook",
+    "com.coloros.findmyphone",
+    "com.coloros.gallery3d",
+    "com.coloros.phonemanager",
+    "com.heytap.browser",
+    "com.heytap.cloud",
+    "com.oplus.encryption",
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "e.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "game.heytap.com",
+   "base": "heytap.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "hd.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "id.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.oplus.account",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "muc.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.android.contacts",
+    "com.android.mms",
+    "com.coloros.accessibilityassistant",
+    "com.coloros.assistantscreen",
+    "com.coloros.bootreg",
+    "com.coloros.codebook",
+    "com.coloros.colordirectservice",
+    "com.coloros.gallery3d",
+    "com.coloros.operationManual",
+    "com.coloros.sceneservice",
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.oplus.account",
+    "com.oplus.owork",
+    "com.oplus.pantanal.ums",
+    "com.oplus.pay"
+   ]
+  },
+  {
+   "host": "pay.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "wj.heytap.com",
+   "base": "heytap.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.oplus.logkit"
+   ]
+  },
+  {
+   "host": "frontend-static-common-in.heytapdl.com",
+   "base": "heytapdl.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "static-common.heytapdl.com",
+   "base": "heytapdl.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "dl-gs.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "升级/下载",
+   "purpose": "系统升级/资源下载",
+   "risk": "屏蔽=收不到更新",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "fs-lehua-magazine.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "升级/下载",
+   "purpose": "系统升级/资源下载",
+   "risk": "屏蔽=收不到更新",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "magazine-staticapi-cn.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "magazine.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "news.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "升级/下载",
+   "purpose": "系统升级/资源下载",
+   "risk": "屏蔽=收不到更新",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "security-speed.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "升级/下载",
+   "purpose": "系统升级/资源下载",
+   "risk": "屏蔽=收不到更新",
+   "apps": [
+    "com.coloros.phonemanager"
+   ]
+  },
+  {
+   "host": "static-common.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "升级/下载",
+   "purpose": "系统升级/资源下载",
+   "risk": "屏蔽=收不到更新",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.heytap.pictorial",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "adsfs-sdkconfig.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.phonemanager",
+    "com.heytap.browser",
+    "com.heytap.cloud",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "adsfs.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "ai-chat.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "ai-search.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "cdofs.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "dhfs.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "magazine-detail-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "magazine.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "prod-search.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "static-doc-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.oplus.deepthinker"
+   ]
+  },
+  {
+   "host": "static-usop-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.oplus.metis",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "store.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "ai-repair.ocloud.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "ai-search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "api-cn-test.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-cn.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-cn.theme.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-gl.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-id.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-in.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-my.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-ph.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-th.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-tw.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-vn.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "appstore-openapi-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.coloros.phonemanager"
+   ]
+  },
+  {
+   "host": "bot-ttscloud-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "captcha-sec.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "cloudi.browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.heytap.browser",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "cloudkit-api-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "comsec-intelligence-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.ted.number"
+   ]
+  },
+  {
+   "host": "config-pre.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "config.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "datasec-kmsex-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.android.mms",
+    "com.coloros.ocrscanner",
+    "com.coloros.phonemanager",
+    "com.heytap.htms",
+    "com.oplus.pay",
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "dc.push.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "fs-gl.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "fs-id.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "fs-in.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "fs-my.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "fs-ph.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "fs-th.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "fs-tw.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "fs-vn.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "g.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "i-cn01a.ocloud.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "i-pre.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "i.browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "i.magazine.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "i.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "iapp.magazine.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "ibrowser.feeds.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "kernellog.browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.heytap.browser",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "logforward.browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "long.push.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "magazine-low-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "ms-eval.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "ms-pre.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "ms.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "ocloud-webdata-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "ocloud.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "ocna-cloud-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.oplus.acc.gac"
+   ]
+  },
+  {
+   "host": "omes-cableserver-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.fido.fido2client"
+   ]
+  },
+  {
+   "host": "omes-passkey-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.fido.fido2client"
+   ]
+  },
+  {
+   "host": "omes-sec-stdsrp-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.heytap.htms",
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "omes-sec.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.heytap.openid"
+   ]
+  },
+  {
+   "host": "omes-stdspa-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "omkms-sec.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.heytap.openid",
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "osec-srp-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "ouis-pre.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "ouis.search.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "push.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "readermode.browser.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.heytap.browser",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "share-cn01a.ocloud.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "short.push.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "static-cn01a.ocloud.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.findmyphone"
+   ]
+  },
+  {
+   "host": "tv-cn.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "virusinfo-sec.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.android.mms",
+    "com.coloros.ocrscanner",
+    "com.coloros.phonemanager"
+   ]
+  },
+  {
+   "host": "watch-cn.store.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "api-gl.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-id.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-in.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-my.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-ph.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-th.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-tw.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "api-vn.theme.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "captcha-ind-sec.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "captcha-sgp-sec.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "安全校验",
+   "purpose": "安全/风控校验",
+   "risk": "屏蔽可能影响支付/登录",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "dc-push.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "i-in.magazine.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "i-sg.magazine.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "内容推荐",
+   "purpose": "锁屏/杂志/主题内容",
+   "risk": "可屏蔽，观感下降",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "long-push.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "push.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "short-push.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "推送",
+   "purpose": "消息推送通道",
+   "risk": "屏蔽=收不到推送",
+   "apps": [
+    "com.heytap.mcs"
+   ]
+  },
+  {
+   "host": "appimg-search.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "dict-search.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "i2.store.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "i3.store.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "imgconvert-search.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "prod-search.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "sd-search.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "searchfs-origin-cbcff7.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "searchfs.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "static-bot.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.heytap.pictorial",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "static2-bot.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "chat.oppo.com",
+   "base": "oppo.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.healthcheck",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "cloud.oppo.com",
+   "base": "oppo.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.coloros.gallery3d",
+    "com.heytap.cloud",
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "hd.oppo.com",
+   "base": "oppo.com",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "cms.browser.oppoer.me",
+   "base": "oppoer.me",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "kernellog.browser.oppoer.me",
+   "base": "oppoer.me",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "static-common.oppoer.me",
+   "base": "oppoer.me",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "adsfs.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "cdofs.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.coloros.gallery3d",
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "cloudi.browser.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "dhfs.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "静态资源",
+   "purpose": "CDN/静态资源",
+   "risk": "屏蔽可能白屏",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "g-pre.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "g.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "game.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "gl-gamesdk.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "i-pre.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "i.browser.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "i.flow.browser.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "i.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "id-gamesdk.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "id-store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "idapi.store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "in-gamesdk.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "in-store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "inapi.store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "intlapi.store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "istore.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "kernellog.browser.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "浏览器",
+   "purpose": "浏览器内核/日志",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "m.store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "ms-pre.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "ms.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "my-store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "openapi.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "opsapi.store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "ph-store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "searchfsf.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.android.mms"
+   ]
+  },
+  {
+   "host": "th-store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "tw-store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "uploadapi.search.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "搜索",
+   "purpose": "搜索/热搜",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "vn-store.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "wap.game.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.android.packageinstaller"
+   ]
+  },
+  {
+   "host": "hd.opposhop.cn",
+   "base": "opposhop.cn",
+   "cat": "账号/内容",
+   "purpose": "账号与内容 API",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.sceneservice"
+   ]
+  },
+  {
+   "host": "cloud.realme.com",
+   "base": "realme.com",
+   "cat": "云服务",
+   "purpose": "云同步/云相册",
+   "risk": "屏蔽会失去云功能",
+   "apps": [
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "gl-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "id-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "in-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "my-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "ph-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "th-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "tw-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "vn-store.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "应用商店",
+   "purpose": "商店/游戏中心 API",
+   "risk": "屏蔽后商店不可用",
+   "apps": [
+    "com.heytap.market"
+   ]
+  }
+ ],
+ "tierC": [
+  {
+   "host": "pc-assistant-cn.allawnfs.com",
+   "base": "allawnfs.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.ocrscanner"
+   ]
+  },
+  {
+   "host": "pc-assistant-gl.allawnfs.com",
+   "base": "allawnfs.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.ocrscanner"
+   ]
+  },
+  {
+   "host": "allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.omoji"
+   ]
+  },
+  {
+   "host": "conn-service-eu-04.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "conn-service-eu-05.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "conn-service-in-04.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "conn-service-in-05.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "conn-service-us-04.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "conn-service-us-05.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "network-module-sg-01.allawnos.com",
+   "base": "allawnos.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.engineernetwork"
+   ]
+  },
+  {
+   "host": "aip-gw-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.gallery3d",
+    "com.coloros.translate.engine"
+   ]
+  },
+  {
+   "host": "aip-gw.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.viewtalk"
+   ]
+  },
+  {
+   "host": "aip-ws-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.translate.engine"
+   ]
+  },
+  {
+   "host": "air-provision-gl.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.fido.fido2client",
+    "com.oplus.engineermode"
+   ]
+  },
+  {
+   "host": "allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.omoji"
+   ]
+  },
+  {
+   "host": "autofill-server-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.codebook"
+   ]
+  },
+  {
+   "host": "calculator-api-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice"
+   ]
+  },
+  {
+   "host": "conn-service-cn-04.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "conn-service-cn-05.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.google.android.networkstack.overlay"
+   ]
+  },
+  {
+   "host": "conn-service-gl-01.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.nas"
+   ]
+  },
+  {
+   "host": "creators-h5-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "familyguard-api-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.remoteguardservice"
+   ]
+  },
+  {
+   "host": "familyguard-pre-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.remoteguardservice"
+   ]
+  },
+  {
+   "host": "fraud-feedback-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.phonemanager"
+   ]
+  },
+  {
+   "host": "highlightcard-h5-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "intelligent-platform-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "odin.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.deepthinker"
+   ]
+  },
+  {
+   "host": "omoji-apps-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.omoji"
+   ]
+  },
+  {
+   "host": "owork-alb-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "跨端工作台",
+   "purpose": "随身工作台",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "owork-api-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "跨端工作台",
+   "purpose": "随身工作台",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "preowork-alb-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "跨端工作台",
+   "purpose": "随身工作台",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "preowork-api-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "跨端工作台",
+   "purpose": "随身工作台",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "proxy-apps-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "scene-bind-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice"
+   ]
+  },
+  {
+   "host": "screenshot-svc-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.screenshot"
+   ]
+  },
+  {
+   "host": "traffic-operation-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "出行/车联",
+   "purpose": "车联/出行服务",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.colordirectservice",
+    "com.coloros.directui",
+    "com.coloros.gallery3d",
+    "com.coloros.ocrscanner",
+    "com.coloros.operationManual",
+    "com.coloros.phonemanager",
+    "com.coloros.sharescreen",
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.nearme.instant.platform",
+    "com.oplus.logkit",
+    "com.oplus.screenshot"
+   ]
+  },
+  {
+   "host": "travel-core-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "出行/车联",
+   "purpose": "车联/出行服务",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.travelengine"
+   ]
+  },
+  {
+   "host": "trip-server-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "出行/车联",
+   "purpose": "车联/出行服务",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.assistantscreen"
+   ]
+  },
+  {
+   "host": "weather-api-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "wls-tx-cn.allawntech.com",
+   "base": "allawntech.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.battery"
+   ]
+  },
+  {
+   "host": "after-sales-sg.coloros.com",
+   "base": "coloros.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "breeno.apps.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "com.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "conn1.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "conn2.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "disaster.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "fourier-carcontrol-cn.coloros.com",
+   "base": "coloros.com",
+   "cat": "出行/车联",
+   "purpose": "车联/出行服务",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.opluscarlink",
+    "com.oplus.cardigitalkey",
+    "com.oplus.ocar"
+   ]
+  },
+  {
+   "host": "h5.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "hsb.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.mms",
+    "com.oplus.blacklistapp"
+   ]
+  },
+  {
+   "host": "i.clonephone.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.colordirectservice"
+   ]
+  },
+  {
+   "host": "ilighthouse.apps.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.digitalwellbeing",
+    "com.coloros.phonemanager",
+    "com.coloros.securityguard",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "imsp.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.directui",
+    "com.coloros.ocrscanner"
+   ]
+  },
+  {
+   "host": "iremote-assistance.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sharescreen"
+   ]
+  },
+  {
+   "host": "iwisdom.apps.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.colordirectservice",
+    "com.coloros.directui",
+    "com.coloros.sceneservice"
+   ]
+  },
+  {
+   "host": "moa-upload-online.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.athena"
+   ]
+  },
+  {
+   "host": "newds01.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "newds02.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "sanjs-nlp-gray.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice"
+   ]
+  },
+  {
+   "host": "smartcard.apps.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "tips-h5.coloros.com",
+   "base": "coloros.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.operationManual",
+    "com.coloros.scenemode"
+   ]
+  },
+  {
+   "host": "weather.coloros.com",
+   "base": "coloros.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "www.coloros.com",
+   "base": "coloros.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "carlink.heytap.com",
+   "base": "heytap.com",
+   "cat": "出行/车联",
+   "purpose": "车联/出行服务",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.opluscarlink",
+    "com.heytap.tas",
+    "com.oplus.ocar"
+   ]
+  },
+  {
+   "host": "com.heytap.com",
+   "base": "heytap.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "find-pre.heytap.com",
+   "base": "heytap.com",
+   "cat": "查找手机",
+   "purpose": "查找设备",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.findmyphone"
+   ]
+  },
+  {
+   "host": "find.heytap.com",
+   "base": "heytap.com",
+   "cat": "查找手机",
+   "purpose": "查找设备",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.opluscarlink"
+   ]
+  },
+  {
+   "host": "heytap.com",
+   "base": "heytap.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.contacts",
+    "com.android.mms",
+    "com.coloros.directui",
+    "com.heytap.browser",
+    "com.heytap.cloud",
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.oplus.account",
+    "com.oplus.notificationmanager",
+    "com.oplus.pay",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "speechassist.heytap.com",
+   "base": "heytap.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.contacts",
+    "com.android.phone",
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.heytap.speechassist",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "www.heytap.com",
+   "base": "heytap.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.heytap.browser",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "ocs-cn-north1.heytapcs.com",
+   "base": "heytapcs.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "ocs-cn-south1.heytapcs.com",
+   "base": "heytapcs.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.phonemanager",
+    "com.heytap.pictorial",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform",
+    "com.oplus.ocar"
+   ]
+  },
+  {
+   "host": "jits5.heytapdownload.com",
+   "base": "heytapdownload.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "activity-cdo.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "cc-magezine-img.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "cdopic0.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "cpc-comment-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "gameunion.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "ie-activity-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.pictorial",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "img-c.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "iot-heythings-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.mydevices"
+   ]
+  },
+  {
+   "host": "play1.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "search-pic-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "search-picdev-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "store01.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "uc-avatar-cn.heytapimage.com",
+   "base": "heytapimage.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "actimg.heytapimg.com",
+   "base": "heytapimg.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "heytapimg.com",
+   "base": "heytapimg.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "a.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "alarmclock.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "api-audit.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.nearme.instant.platform",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "api-cn.instant.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.mms",
+    "com.coloros.assistantscreen",
+    "com.nearme.instant.platform",
+    "com.oplus.ovoicemanager",
+    "com.opos.ads"
+   ]
+  },
+  {
+   "host": "api-cn.open.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform",
+    "com.oplus.battery",
+    "com.oplus.thirdkit"
+   ]
+  },
+  {
+   "host": "api-cn.play.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "api.jits.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.heytap.pictorial",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "api.ois.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "api.sc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "api.sms.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "短信",
+   "purpose": "短信下发/校验",
+   "risk": "不要屏蔽",
+   "apps": [
+    "com.android.mms"
+   ]
+  },
+  {
+   "host": "browser-book-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "bs-front.sc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "bs.sc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "captcha-uc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "验证码",
+   "purpose": "人机校验",
+   "risk": "不要屏蔽，会坏登录",
+   "apps": [
+    "com.coloros.findmyphone",
+    "com.heytap.browser",
+    "com.heytap.market",
+    "com.heytap.speechassist",
+    "com.heytap.tas",
+    "com.nearme.instant.platform",
+    "com.oplus.account"
+   ]
+  },
+  {
+   "host": "client-uc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.findmyphone",
+    "com.heytap.htms",
+    "com.oplus.account",
+    "com.oplus.pay"
+   ]
+  },
+  {
+   "host": "cort-report-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "cpc-comment-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "cpc-gamecenter-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "cpc-message-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "cpc-topic-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "cpd.cc.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "crowd-push-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "data.sms.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "短信",
+   "purpose": "短信下发/校验",
+   "risk": "不要屏蔽",
+   "apps": [
+    "com.android.mms"
+   ]
+  },
+  {
+   "host": "demo.slp.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.directui"
+   ]
+  },
+  {
+   "host": "euler-saas-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.contacts",
+    "com.coloros.codebook",
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.heytap.pictorial",
+    "com.oplus.blacklistapp",
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "htms.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.codebook",
+    "com.coloros.operationManual",
+    "com.coloros.sharescreen",
+    "com.coloros.smartsidebar",
+    "com.heytap.accessory",
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.heytap.mydevices",
+    "com.heytap.opluscarlink",
+    "com.heytap.tas",
+    "com.nearme.instant.platform",
+    "com.oplus.cardigitalkey",
+    "com.oplus.encryption",
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "i.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "ifind.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "查找手机",
+   "purpose": "查找设备",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.findmyphone"
+   ]
+  },
+  {
+   "host": "iopen-gamecenter.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "iot-lc-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.mydevices"
+   ]
+  },
+  {
+   "host": "isdk.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "jits-cptestapi-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "jits-fincprod-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "jits-otherserver-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "jits-previewapi-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "jits-sa-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "jscatch.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "long.sms.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "短信",
+   "purpose": "短信下发/校验",
+   "risk": "不要屏蔽",
+   "apps": [
+    "com.android.mms"
+   ]
+  },
+  {
+   "host": "mdp-upgrade-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.findmyphone",
+    "com.heytap.cloud",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "near-field.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.assistantscreen"
+   ]
+  },
+  {
+   "host": "nebula-api-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.metis",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "oms-forward-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "open.jits.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "JITS RTC 信令",
+   "risk": "按需",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "openapi-slp.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.colordirectservice",
+    "com.coloros.directui",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "openapi.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "ortc-signal-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "RTC 音视频",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.sharescreen",
+    "com.nearme.instant.platform"
+   ]
+  },
+  {
+   "host": "owork-mqttpre-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "跨端工作台",
+   "purpose": "随身工作台",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "platform.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "rest-cn-feedback.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "反馈",
+   "purpose": "反馈工具箱/问题上报(用户主动提交才用)",
+   "risk": "非自动埋点，可不拦",
+   "apps": [
+    "com.coloros.accessibilityassistant",
+    "com.coloros.assistantscreen",
+    "com.coloros.colordirectservice",
+    "com.coloros.directui",
+    "com.coloros.gallery3d",
+    "com.coloros.operationManual",
+    "com.coloros.phonemanager",
+    "com.coloros.sceneservice",
+    "com.coloros.sharescreen",
+    "com.heytap.browser",
+    "com.heytap.cloud",
+    "com.heytap.market",
+    "com.heytap.mydevices",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.heytap.tas",
+    "com.nearme.instant.platform",
+    "com.oplus.account",
+    "com.oplus.metis",
+    "com.oplus.ocar",
+    "com.oplus.owork",
+    "com.oplus.pantanal.ums",
+    "com.oplus.screenrecorder",
+    "com.oplus.screenshot"
+   ]
+  },
+  {
+   "host": "rtcapi.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "实时通信",
+   "purpose": "RTC 音视频",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.sharescreen"
+   ]
+  },
+  {
+   "host": "search-content-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "search-proxy-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "sense-intent-cn-01.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "short.sms.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "短信",
+   "purpose": "短信下发/校验",
+   "risk": "不要屏蔽",
+   "apps": [
+    "com.android.mms"
+   ]
+  },
+  {
+   "host": "slideup-api-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "smarthome.iot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.mydevices"
+   ]
+  },
+  {
+   "host": "static-cn-feedback.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "反馈",
+   "purpose": "反馈工具箱/问题上报(用户主动提交才用)",
+   "risk": "非自动埋点，可不拦",
+   "apps": [
+    "com.coloros.accessibilityassistant",
+    "com.coloros.assistantscreen",
+    "com.coloros.colordirectservice",
+    "com.coloros.gallery3d",
+    "com.coloros.operationManual",
+    "com.coloros.phonemanager",
+    "com.coloros.sceneservice",
+    "com.coloros.sharescreen",
+    "com.heytap.browser",
+    "com.heytap.cloud",
+    "com.heytap.market",
+    "com.heytap.mydevices",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.heytap.tas",
+    "com.nearme.instant.platform",
+    "com.oplus.account",
+    "com.oplus.metis",
+    "com.oplus.ocar",
+    "com.oplus.owork",
+    "com.oplus.pantanal.ums",
+    "com.oplus.screenrecorder",
+    "com.oplus.screenshot"
+   ]
+  },
+  {
+   "host": "tel-num-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "定位",
+   "purpose": "定位/号码归属地",
+   "risk": "按需",
+   "apps": [
+    "com.ted.number"
+   ]
+  },
+  {
+   "host": "tts.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "u.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "usop-api-cn.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.metis"
+   ]
+  },
+  {
+   "host": "v.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "v2.bot.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "videoeditor-cn01a.soloop.heytapmobi.com",
+   "base": "heytapmobi.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.gallery3d"
+   ]
+  },
+  {
+   "host": "heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "htms.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sharescreen",
+    "com.heytap.tas",
+    "com.nearme.instant.platform",
+    "com.oplus.stdsp"
+   ]
+  },
+  {
+   "host": "jscatch-in-frontend.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "jscatch-sg-frontend.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "uc-oneplusclient-gl.heytapmobile.com",
+   "base": "heytapmobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms",
+    "com.oplus.pay"
+   ]
+  },
+  {
+   "host": "ad.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "browserimg.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "ec.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "i.uc.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "magzineimg.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "magzineimg2.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "opayfs.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "storedl1.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "storefinance3.nearme.com.cn",
+   "base": "nearme.com.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "oneplus.cn",
+   "base": "oneplus.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oneplus.camera"
+   ]
+  },
+  {
+   "host": "open.oneplus.cn",
+   "base": "oneplus.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "account.oneplus.com",
+   "base": "oneplus.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.bootreg",
+    "com.heytap.htms",
+    "com.oplus.logkit"
+   ]
+  },
+  {
+   "host": "bbs.oneplus.com",
+   "base": "oneplus.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.oplus.ocar"
+   ]
+  },
+  {
+   "host": "ns.oneplus.com",
+   "base": "oneplus.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.gallery3d",
+    "com.oneplus.camera",
+    "com.oneplus.camera.pictureprocessing"
+   ]
+  },
+  {
+   "host": "oneplus.com",
+   "base": "oneplus.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.contacts",
+    "com.android.mms",
+    "com.coloros.accessibilityassistant",
+    "com.coloros.assistantscreen",
+    "com.coloros.bootreg",
+    "com.coloros.colordirectservice",
+    "com.coloros.phonemanager",
+    "com.coloros.sceneservice",
+    "com.coloros.weather.service",
+    "com.heytap.cloud",
+    "com.heytap.htms",
+    "com.oneplus.camera",
+    "com.oplus.aiunit",
+    "com.oplus.deepthinker",
+    "com.oplus.location",
+    "com.oplus.logkit",
+    "com.oplus.metis",
+    "com.oplus.owork",
+    "com.oplus.pantanal.ums",
+    "com.oplus.securitypermission",
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "router.oneplus.com",
+   "base": "oneplus.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.omoji"
+   ]
+  },
+  {
+   "host": "uc-h5.oneplus.com",
+   "base": "oneplus.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms",
+    "com.oplus.pay"
+   ]
+  },
+  {
+   "host": "www.oneplus.com",
+   "base": "oneplus.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.phonemanager",
+    "com.coloros.sceneservice",
+    "com.coloros.weather.service",
+    "com.oneplus.camera",
+    "com.oneplus.camera.pictureprocessing",
+    "com.oneplus.wallpaper",
+    "com.oplus.location",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "com.oplus.app",
+   "base": "oplus.app",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.launcher",
+    "com.android.phone",
+    "com.android.server.telecom",
+    "com.android.settings",
+    "com.android.systemui",
+    "com.coloros.bootreg",
+    "com.coloros.childrenspace",
+    "com.coloros.sceneservice",
+    "com.coloros.sharescreen",
+    "com.heytap.market",
+    "com.heytap.mcs",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.nearme.instant.platform",
+    "com.oneplus.camera",
+    "com.oplus.athena",
+    "com.oplus.battery",
+    "com.oplus.deepthinker",
+    "com.oplus.engineermode",
+    "com.oplus.engineernetwork",
+    "com.oplus.exsystemservice",
+    "com.oplus.notificationmanager",
+    "com.oplus.ovoicemanager",
+    "com.oplus.pantanal.ums",
+    "com.oplus.smartengine",
+    "com.oplus.statistics.rom",
+    "com.oplus.stdsp",
+    "com.oplus.travelengine",
+    "com.oplus.wifibackuprestore"
+   ]
+  },
+  {
+   "host": "ns.oplus.com",
+   "base": "oplus.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.gallery3d",
+    "com.heytap.cloud",
+    "com.oplus.encryption"
+   ]
+  },
+  {
+   "host": "oplus.com",
+   "base": "oplus.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.ocrscanner",
+    "com.oplus.ocar"
+   ]
+  },
+  {
+   "host": "www.oplus.com",
+   "base": "oplus.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.oplus.dmp",
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "com.oplus.vip",
+   "base": "oplus.vip",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.launcher",
+    "com.android.settings",
+    "com.android.systemui",
+    "com.coloros.bootreg",
+    "com.coloros.childrenspace",
+    "com.coloros.digitalwellbeing",
+    "com.coloros.findmyphone",
+    "com.coloros.phonemanager",
+    "com.heytap.browser",
+    "com.heytap.cloud",
+    "com.heytap.htms",
+    "com.heytap.mydevices",
+    "com.nearme.instant.platform",
+    "com.oplus.account",
+    "com.oplus.athena",
+    "com.oplus.metis",
+    "com.oplus.notificationmanager",
+    "com.oplus.ocar",
+    "com.oplus.omoji",
+    "com.oplus.owork",
+    "com.oplus.pantanal.ums",
+    "com.oplus.screenshot",
+    "com.oplus.trafficmonitor",
+    "oplus"
+   ]
+  },
+  {
+   "host": "oppo.cn",
+   "base": "oppo.cn",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "www.oppo.cn",
+   "base": "oppo.cn",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.coloros.healthcheck",
+    "com.coloros.operationManual",
+    "com.oplus.ocar"
+   ]
+  },
+  {
+   "host": "connect.oppo.com",
+   "base": "oppo.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.mydevices",
+    "com.oplus.linker"
+   ]
+  },
+  {
+   "host": "mqtt-owork.oppo.com",
+   "base": "oppo.com",
+   "cat": "跨端工作台",
+   "purpose": "随身工作台",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.owork"
+   ]
+  },
+  {
+   "host": "oppo.com",
+   "base": "oppo.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.settings",
+    "com.coloros.gallery3d",
+    "com.coloros.operationManual",
+    "com.coloros.weather.service",
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist",
+    "com.oplus.account",
+    "com.oplus.logkit",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "privacy.oppo.com",
+   "base": "oppo.com",
+   "cat": "隐私政策",
+   "purpose": "隐私政策站点",
+   "risk": "可用作参考，不必屏蔽",
+   "apps": [
+    "com.coloros.bootreg",
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "support.oppo.com",
+   "base": "oppo.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.coloros.healthcheck",
+    "com.coloros.operationManual",
+    "com.coloros.scenemode"
+   ]
+  },
+  {
+   "host": "www.oppo.com",
+   "base": "oppo.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.android.mms",
+    "com.android.phone",
+    "com.coloros.accessibilityassistant",
+    "com.coloros.assistantscreen",
+    "com.coloros.bootreg",
+    "com.coloros.colordirectservice",
+    "com.coloros.gallery3d",
+    "com.coloros.ocrscanner",
+    "com.coloros.operationManual",
+    "com.coloros.phonemanager",
+    "com.coloros.sceneservice",
+    "com.coloros.weather.service",
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.pictorial",
+    "com.heytap.tas",
+    "com.oplus.aiunit",
+    "com.oplus.audiomonitor",
+    "com.oplus.deepthinker",
+    "com.oplus.logkit",
+    "com.oplus.metis",
+    "com.oplus.owork",
+    "com.oplus.pantanal.ums",
+    "com.oplus.securitypermission",
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "badjs.oppoer.me",
+   "base": "oppoer.me",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser"
+   ]
+  },
+  {
+   "host": "api.open.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.packageinstaller",
+    "com.coloros.digitalwellbeing",
+    "com.heytap.market",
+    "com.oplus.appdetail"
+   ]
+  },
+  {
+   "host": "api.snake.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "api.uc.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.codebook"
+   ]
+  },
+  {
+   "host": "cdopic.f.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "cdopic0.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "conn1.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.heytap.tas",
+    "com.nearme.instant.platform",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "conn2.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.tas",
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "cpc-setting-cn.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "dwz.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "e.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox",
+    "com.heytap.speechassist"
+   ]
+  },
+  {
+   "host": "fast-wallet.finz.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.tas"
+   ]
+  },
+  {
+   "host": "i.magzine.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "i5.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "i6-eu.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "i6-in.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "i6-kz.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "i6-ru.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "i6-vn.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "i6.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "i6f.weather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "ifind.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "查找手机",
+   "purpose": "查找设备",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.findmyphone"
+   ]
+  },
+  {
+   "host": "img.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "incdopic.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "instructionsfs1.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  },
+  {
+   "host": "intlapi.open.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "istoreid.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "istorein.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "iweather.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "天气",
+   "purpose": "天气数据",
+   "risk": "屏蔽后天气不更新",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "location.apps.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "定位",
+   "purpose": "定位/号码归属地",
+   "risk": "按需",
+   "apps": [
+    "com.oplus.sos"
+   ]
+  },
+  {
+   "host": "logistics.apps.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "open.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.coloros.phonemanager",
+    "com.heytap.pictorial",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.htms",
+    "com.heytap.market",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "proxy.apps.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.assistantscreen",
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "res-fin.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.tas"
+   ]
+  },
+  {
+   "host": "tips.apps.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "tipsfs.oppomobile.com",
+   "base": "oppomobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.oplus.ocar"
+   ]
+  },
+  {
+   "host": "www.opposhop.cn",
+   "base": "opposhop.cn",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.coloros.operationManual",
+    "com.oplus.battery"
+   ]
+  },
+  {
+   "host": "realme.com",
+   "base": "realme.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.android.phone",
+    "com.coloros.accessibilityassistant",
+    "com.coloros.assistantscreen",
+    "com.coloros.colordirectservice",
+    "com.coloros.gallery3d",
+    "com.coloros.ocrscanner",
+    "com.coloros.phonemanager",
+    "com.coloros.sceneservice",
+    "com.oplus.deepthinker",
+    "com.oplus.ocar",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "www.realme.com",
+   "base": "realme.com",
+   "cat": "官网",
+   "purpose": "官网/客服/论坛",
+   "risk": "可屏蔽",
+   "apps": [
+    "com.android.phone",
+    "com.coloros.accessibilityassistant",
+    "com.coloros.assistantscreen",
+    "com.coloros.colordirectservice",
+    "com.coloros.gallery3d",
+    "com.coloros.phonemanager",
+    "com.coloros.sceneservice",
+    "com.coloros.weather.service",
+    "com.oplus.aiunit",
+    "com.oplus.metis",
+    "com.oplus.owork",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "ifind.realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "查找手机",
+   "purpose": "查找设备",
+   "risk": "按需",
+   "apps": [
+    "com.coloros.findmyphone"
+   ]
+  },
+  {
+   "host": "realmemobile.com",
+   "base": "realmemobile.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.browser",
+    "com.heytap.quicksearchbox"
+   ]
+  },
+  {
+   "host": "oneplus-store-test.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "oppo-sea.store-test.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "oppo-sea.theme-test.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.oplus.themestore"
+   ]
+  },
+  {
+   "host": "oppo-sms-cn-test.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.sceneservice",
+    "com.oplus.pantanal.ums"
+   ]
+  },
+  {
+   "host": "opponews.test.browserproxy.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "realme-sea.store-test.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "realme.store-test.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.market"
+   ]
+  },
+  {
+   "host": "test2-opposhop.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.pictorial"
+   ]
+  },
+  {
+   "host": "uc-heytap-html.ucnewtest.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.heytap.htms"
+   ]
+  },
+  {
+   "host": "uc-heytap-web-test.wanyol.com",
+   "base": "wanyol.com",
+   "cat": "其他",
+   "purpose": "未归类",
+   "risk": "需人工判断",
+   "apps": [
+    "com.coloros.operationManual"
+   ]
+  }
+ ]
+}

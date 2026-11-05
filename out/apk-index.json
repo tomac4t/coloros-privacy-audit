@@ -1,0 +1,3107 @@
+[
+ {
+  "file": "3 Button Navigation Bar_com.android.internal.systemui.navbar.threebutton.apk",
+  "label": "3 Button Navigation Bar",
+  "pkg": "com.android.internal.systemui.navbar.threebutton",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "AI 服务引擎_com.oplus.aiunit.apk",
+  "label": "AI 服务引擎",
+  "pkg": "com.oplus.aiunit",
+  "size": 145136639,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1958,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "ARCore_com.google.ar.core.apk",
+  "label": "ARCore",
+  "pkg": "com.google.ar.core",
+  "size": 1147470,
+  "cert": "C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = Android",
+  "entries": 9,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "Adreno Graphics Drivers_com.qualcomm.qti.gpudrivers.kona.api30.apk",
+  "label": "Adreno Graphics Drivers",
+  "pkg": "com.qualcomm.qti.gpudrivers.kona.api30",
+  "size": 8503,
+  "cert": "subject=O = \"Qualcomm Technologies, Inc.\", OU = Qualcomm Cryptographic Operations, CN = Qualcomm Adreno Graphics",
+  "entries": 4,
+  "vendor": "Qualcomm"
+ },
+ {
+  "file": "Android Easter Egg_com.android.egg.apk",
+  "label": "Android Easter Egg",
+  "pkg": "com.android.egg",
+  "size": 2027546,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 190,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Android Services Library_android.ext.services.apk",
+  "label": "Android Services Library",
+  "pkg": "android.ext.services",
+  "size": 6276149,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 73,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Android Shared Library_com.google.android.ext.shared.apk",
+  "label": "Android Shared Library",
+  "pkg": "com.google.android.ext.shared",
+  "size": 16861,
+  "cert": "C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = extshared",
+  "entries": 7,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "Android 无障碍套件_com.google.android.marvin.talkback.apk",
+  "label": "Android 无障碍套件",
+  "pkg": "com.google.android.marvin.talkback",
+  "size": 33330321,
+  "cert": "subject=C = US, ST = CA, L = Mountain View, O = Google, OU = Google, CN = Google Eyes-Free Project",
+  "entries": 1408,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "Android 系统_android.apk",
+  "label": "Android 系统",
+  "pkg": "android",
+  "size": 36387676,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7901,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Android 系统_com.android.adservices.api.apk",
+  "label": "Android 系统",
+  "pkg": "com.android.adservices.api",
+  "size": 28638419,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 627,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Android 系统_com.android.ext.adservices.api.apk",
+  "label": "Android 系统",
+  "pkg": "com.android.ext.adservices.api",
+  "size": 18169764,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 949,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Android 系统_oplus.apk",
+  "label": "Android 系统",
+  "pkg": "oplus",
+  "size": 10777285,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1225,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Assistant_com.coloros.lockassistant.apk",
+  "label": "Assistant",
+  "pkg": "com.coloros.lockassistant",
+  "size": 6958862,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1534,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "Athena_com.oplus.athena.apk",
+  "label": "Athena",
+  "pkg": "com.oplus.athena",
+  "size": 3336957,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 90,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "AudioEffectCenter_com.oplus.audio.effectcenter.apk",
+  "label": "AudioEffectCenter",
+  "pkg": "com.oplus.audio.effectcenter",
+  "size": 5573221,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 288,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "BTtestmode_com.oplus.bttestmode.apk",
+  "label": "BTtestmode",
+  "pkg": "com.oplus.bttestmode",
+  "size": 161256,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 21,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Bluetooth MIDI Service_com.android.bluetoothmidiservice.apk",
+  "label": "Bluetooth MIDI Service",
+  "pkg": "com.android.bluetoothmidiservice",
+  "size": 29086,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Bookmark Provider_com.android.bookmarkprovider.apk",
+  "label": "Bookmark Provider",
+  "pkg": "com.android.bookmarkprovider",
+  "size": 25328,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 9,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CACertApp_vendor.qti.hardware.cacert.server.apk",
+  "label": "CACertApp",
+  "pkg": "vendor.qti.hardware.cacert.server",
+  "size": 41374,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CTAutoRegist_com.oppo.ctautoregist.apk",
+  "label": "CTAutoRegist",
+  "pkg": "com.oppo.ctautoregist",
+  "size": 210077,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 15,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "Camera Extensions Service_com.android.oemextensions.apk",
+  "label": "Camera Extensions Service",
+  "pkg": "com.android.oemextensions",
+  "size": 58873,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 19,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CameraExtensionsProxy_com.android.cameraextensions.apk",
+  "label": "CameraExtensionsProxy",
+  "pkg": "com.android.cameraextensions",
+  "size": 172446,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Car  车联_com.oplus.ocar.apk",
+  "label": "Car  车联",
+  "pkg": "com.oplus.ocar",
+  "size": 42233945,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5407,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CarLink_com.heytap.opluscarlink.apk",
+  "label": "CarLink",
+  "pkg": "com.heytap.opluscarlink",
+  "size": 19622356,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2298,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "Cell Broadcast Service_com.android.cellbroadcastservice.apk",
+  "label": "Cell Broadcast Service",
+  "pkg": "com.android.cellbroadcastservice",
+  "size": 205713,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 12,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CellBroadcastReceiverModuleOverlay_com.google.android.cellbroadcastreceiver.overlay.apk",
+  "label": "CellBroadcastReceiverModuleOverlay",
+  "pkg": "com.google.android.cellbroadcastreceiver.overlay",
+  "size": 12695,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CellBroadcastServiceModuleOverlay_com.google.android.cellbroadcastservice.overlay.apk",
+  "label": "CellBroadcastServiceModuleOverlay",
+  "pkg": "com.google.android.cellbroadcastservice.overlay",
+  "size": 12695,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CneApp_com.qualcomm.qti.cne.apk",
+  "label": "CneApp",
+  "pkg": "com.qualcomm.qti.cne",
+  "size": 323998,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Commercial Service_com.opos.ads.apk",
+  "label": "Commercial Service",
+  "pkg": "com.opos.ads",
+  "size": 3923355,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 560,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "Conference URI Dialer_com.qti.confuridialer.apk",
+  "label": "Conference URI Dialer",
+  "pkg": "com.qti.confuridialer",
+  "size": 37851,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 12,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "ConfigUpdater_com.google.android.configupdater.apk",
+  "label": "ConfigUpdater",
+  "pkg": "com.google.android.configupdater",
+  "size": 1137887,
+  "cert": "C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = Android",
+  "entries": 157,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "CrashBox_com.oplus.crashbox.apk",
+  "label": "CrashBox",
+  "pkg": "com.oplus.crashbox",
+  "size": 4525255,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 645,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Credential Manager_com.android.credentialmanager.apk",
+  "label": "Credential Manager",
+  "pkg": "com.android.credentialmanager",
+  "size": 5217452,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 570,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "CustCoreApp_com.oplus.customize.coreapp.apk",
+  "label": "CustCoreApp",
+  "pkg": "com.oplus.customize.coreapp",
+  "size": 3757571,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 394,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "DSF_com.oplus.ndsf.apk",
+  "label": "DSF",
+  "pkg": "com.oplus.ndsf",
+  "size": 7092498,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1613,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "DeliverServer_com.oppo.instant.local.service.apk",
+  "label": "DeliverServer",
+  "pkg": "com.oppo.instant.local.service",
+  "size": 94703,
+  "cert": "C = 86, ST = guangdong, L = shenzhen, O = oppo, OU = oppo, CN = nearme",
+  "entries": 7,
+  "vendor": "nearme"
+ },
+ {
+  "file": "Device Integration Service_com.microsoft.deviceintegrationservice.apk",
+  "label": "Device Integration Service",
+  "pkg": "com.microsoft.deviceintegrationservice",
+  "size": 2943748,
+  "cert": "C = US, O = Microsoft Corporation, CN = Microsoft Android Platform Root CA 2021",
+  "entries": 624,
+  "vendor": "Microsoft"
+ },
+ {
+  "file": "DeviceLockController_com.android.devicelockcontroller.apk",
+  "label": "DeviceLockController",
+  "pkg": "com.android.devicelockcontroller",
+  "size": 5750741,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 728,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Dynamic System Updates_com.android.dynsystem.apk",
+  "label": "Dynamic System Updates",
+  "pkg": "com.android.dynsystem",
+  "size": 164347,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Eid-Service_com.oplus.eid.apk",
+  "label": "Eid-Service",
+  "pkg": "com.oplus.eid",
+  "size": 16791,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Ether_com.oplus.ether.apk",
+  "label": "Ether",
+  "pkg": "com.oplus.ether",
+  "size": 2244418,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 487,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "FIDO UAF1.0 Client_com.fido.uafclient.apk",
+  "label": "FIDO UAF1.0 Client",
+  "pkg": "com.fido.uafclient",
+  "size": 304877,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 74,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Face Unlock_com.oneplus.faceunlock.apk",
+  "label": "Face Unlock",
+  "pkg": "com.oneplus.faceunlock",
+  "size": 3576129,
+  "cert": "C = CN, ST = Guangdong, L = Shenzhen, O = OnePlus, OU = SW, CN = OnePlus, emailAddress = oneplus@oneplus.cn",
+  "entries": 319,
+  "vendor": "OnePlus"
+ },
+ {
+  "file": "Gestural Navigation Bar_com.android.internal.systemui.navbar.gestural.apk",
+  "label": "Gestural Navigation Bar",
+  "pkg": "com.android.internal.systemui.navbar.gestural",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Gestural Navigation Bar_extra_wide_back.apk",
+  "label": "Gestural Navigation Bar_extra_wide",
+  "pkg": "back",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Gestural Navigation Bar_narrow_back.apk",
+  "label": "Gestural Navigation Bar_narrow",
+  "pkg": "back",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Gestural Navigation Bar_wide_back.apk",
+  "label": "Gestural Navigation Bar_wide",
+  "pkg": "back",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Google One Time Init_com.google.android.onetimeinitializer.apk",
+  "label": "Google One Time Init",
+  "pkg": "com.google.android.onetimeinitializer",
+  "size": 318713,
+  "cert": "C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = Android",
+  "entries": 162,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "HTML 查看程序_com.android.htmlviewer.apk",
+  "label": "HTML 查看程序",
+  "pkg": "com.android.htmlviewer",
+  "size": 11691286,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1355,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "HeySynergy_com.oplus.synergy.apk",
+  "label": "HeySynergy",
+  "pkg": "com.oplus.synergy",
+  "size": 3715786,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 321,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Intent Filter Verification Service_com.android.statementservice.apk",
+  "label": "Intent Filter Verification Service",
+  "pkg": "com.android.statementservice",
+  "size": 1918087,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 462,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "IntentResolver_com.android.intentresolver.apk",
+  "label": "IntentResolver",
+  "pkg": "com.android.intentresolver",
+  "size": 4060695,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 800,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "InterconnectCollectKit_com.oplus.interconnectcollectkit.apk",
+  "label": "InterconnectCollectKit",
+  "pkg": "com.oplus.interconnectcollectkit",
+  "size": 166020,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 28,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "LocationServices_com.qualcomm.location.apk",
+  "label": "LocationServices",
+  "pkg": "com.qualcomm.location",
+  "size": 3604262,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 41,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "MOTO FIDO UAF1.0 ASM_com.fido.asm.apk",
+  "label": "MOTO FIDO UAF1.0 ASM",
+  "pkg": "com.fido.asm",
+  "size": 366331,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 23,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "MTP 主机_com.android.mtp.apk",
+  "label": "MTP 主机",
+  "pkg": "com.android.mtp",
+  "size": 1344100,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 457,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "MapComFrame_com.coloros.mapcom.frame.apk",
+  "label": "MapComFrame",
+  "pkg": "com.coloros.mapcom.frame",
+  "size": 23965946,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 461,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "Module Metadata_com.android.modulemetadata.apk",
+  "label": "Module Metadata",
+  "pkg": "com.android.modulemetadata",
+  "size": 8615,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "NFC服务_com.android.nfc.apk",
+  "label": "NFC服务",
+  "pkg": "com.android.nfc",
+  "size": 13440203,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1384,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Notes Role enabled_com.android.role.notes.enabled.apk",
+  "label": "Notes Role enabled",
+  "pkg": "com.android.role.notes.enabled",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OBrain_com.oplus.obrain.apk",
+  "label": "OBrain",
+  "pkg": "com.oplus.obrain",
+  "size": 3241693,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 76,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OPPO智慧云加速_com.oplus.acc.gac.apk",
+  "label": "OPPO智慧云加速",
+  "pkg": "com.oplus.acc.gac",
+  "size": 36106264,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1544,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OPWallpaperResources_net.oneplus.wallpaperresources.apk",
+  "label": "OPWallpaperResources",
+  "pkg": "net.oneplus.wallpaperresources",
+  "size": 50677701,
+  "cert": "C = CN, ST = Guangdong, L = Shenzhen, O = OnePlus, OU = SW, CN = OnePlus, emailAddress = oneplus@oneplus.cn",
+  "entries": 44,
+  "vendor": "OnePlus"
+ },
+ {
+  "file": "OVoiceManagerSkillService_com.oplus.ovoicemanager.apk",
+  "label": "OVoiceManagerSkillService",
+  "pkg": "com.oplus.ovoicemanager",
+  "size": 4284725,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 410,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Olc_com.oplus.olc.apk",
+  "label": "Olc",
+  "pkg": "com.oplus.olc",
+  "size": 3240612,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 115,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Omoji_com.oplus.omoji.apk",
+  "label": "Omoji",
+  "pkg": "com.oplus.omoji",
+  "size": 57360785,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2042,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "OnePlus Camera Service_com.oneplus.camera.service.apk",
+  "label": "OnePlus Camera Service",
+  "pkg": "com.oneplus.camera.service",
+  "size": 49567,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OnePlus Wallpaper_com.oneplus.wallpaper.apk",
+  "label": "OnePlus Wallpaper",
+  "pkg": "com.oneplus.wallpaper",
+  "size": 92603640,
+  "cert": "C = CN, ST = Guangdong, L = Shenzhen, O = OnePlus, OU = SW, CN = OnePlus, emailAddress = oneplus@oneplus.cn",
+  "entries": 1461,
+  "vendor": "OnePlus"
+ },
+ {
+  "file": "OneTrace_com.oplus.onetrace.apk",
+  "label": "OneTrace",
+  "pkg": "com.oplus.onetrace",
+  "size": 3053219,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 195,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OpenCapabilityService_com.oplus.ocs.apk",
+  "label": "OpenCapabilityService",
+  "pkg": "com.oplus.ocs",
+  "size": 12647380,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1746,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OpenID_com.heytap.openid.apk",
+  "label": "OpenID",
+  "pkg": "com.heytap.openid",
+  "size": 12265561,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1666,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "OplusGpudriver_com.oplus.gpudrivers.sm8250.api30.apk",
+  "label": "OplusGpudriver",
+  "pkg": "com.oplus.gpudrivers.sm8250.api30",
+  "size": 8544,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OplusLFEHer_com.oplus.lfeh.apk",
+  "label": "OplusLFEHer",
+  "pkg": "com.oplus.lfeh",
+  "size": 177671,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 24,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OplusNrModeControl_com.oplus.nrMode.apk",
+  "label": "OplusNrModeControl",
+  "pkg": "com.oplus.nrMode",
+  "size": 135645,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OplusVirtualComm_com.oplus.virtualcomm.apk",
+  "label": "OplusVirtualComm",
+  "pkg": "com.oplus.virtualcomm",
+  "size": 1261982,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "OsuLogin_com.android.hotspot2.osulogin.apk",
+  "label": "OsuLogin",
+  "pkg": "com.android.hotspot2.osulogin",
+  "size": 281661,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 75,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Owk服务_com.oplus.owkservice.apk",
+  "label": "Owk服务",
+  "pkg": "com.oplus.owkservice",
+  "size": 66165,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 9,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "PacProcessor_com.android.pacprocessor.apk",
+  "label": "PacProcessor",
+  "pkg": "com.android.pacprocessor",
+  "size": 12702,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Print Service Recommendation Service_com.google.android.printservice.recommendation.apk",
+  "label": "Print Service Recommendation Service",
+  "pkg": "com.google.android.printservice.recommendation",
+  "size": 222827,
+  "cert": "C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = print_recommendation_service",
+  "entries": 104,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "ProxyApp_com.cmccslice.proxyapp.apk",
+  "label": "ProxyApp",
+  "pkg": "com.cmccslice.proxyapp",
+  "size": 15224445,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 679,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "ProxyHandler_com.android.proxyhandler.apk",
+  "label": "ProxyHandler",
+  "pkg": "com.android.proxyhandler",
+  "size": 20894,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "QCC_com.qti.qcc.apk",
+  "label": "QCC",
+  "pkg": "com.qti.qcc",
+  "size": 1361473,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 22,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "QualityProtect_com.oplus.qualityprotect.apk",
+  "label": "QualityProtect",
+  "pkg": "com.oplus.qualityprotect",
+  "size": 2671560,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 70,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "RemoteProvisioner_com.android.rkpdapp.apk",
+  "label": "RemoteProvisioner",
+  "pkg": "com.android.rkpdapp",
+  "size": 962884,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 131,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "SAUHelper_com.oplus.sauhelper.apk",
+  "label": "SAUHelper",
+  "pkg": "com.oplus.sauhelper",
+  "size": 37370,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "SIM 卡工具包_com.android.stk.apk",
+  "label": "SIM 卡工具包",
+  "pkg": "com.android.stk",
+  "size": 7655210,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1372,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "SIM卡联系人_com.qualcomm.qti.simcontacts.apk",
+  "label": "SIM卡联系人",
+  "pkg": "com.qualcomm.qti.simcontacts",
+  "size": 2945000,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 445,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "SOS 紧急联络_com.oplus.sos.apk",
+  "label": "SOS 紧急联络",
+  "pkg": "com.oplus.sos",
+  "size": 18377666,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2786,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "SecureElementApplication_com.android.se.apk",
+  "label": "SecureElementApplication",
+  "pkg": "com.android.se",
+  "size": 607054,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 11,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Shell_com.android.shell.apk",
+  "label": "Shell",
+  "pkg": "com.android.shell",
+  "size": 577019,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 165,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Sim App Dialog_com.android.simappdialog.apk",
+  "label": "Sim App Dialog",
+  "pkg": "com.android.simappdialog",
+  "size": 502622,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 249,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "SmartEngine_com.oplus.smartengine.apk",
+  "label": "SmartEngine",
+  "pkg": "com.oplus.smartengine",
+  "size": 19069596,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2464,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "StdSP Core_com.oplus.stdsp.apk",
+  "label": "StdSP Core",
+  "pkg": "com.oplus.stdsp",
+  "size": 126525904,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2194,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "System UWB Resources_com.android.uwb.resources.apk",
+  "label": "System UWB Resources",
+  "pkg": "com.android.uwb.resources",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Tags_com.android.apps.tag.apk",
+  "label": "Tags",
+  "pkg": "com.android.apps.tag",
+  "size": 637430,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 198,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Tethering_com.android.networkstack.tethering.apk",
+  "label": "Tethering",
+  "pkg": "com.android.networkstack.tethering",
+  "size": 1122917,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 43,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Transparent navigation bar_com.android.internal.systemui.navbar.transparent.apk",
+  "label": "Transparent navigation bar",
+  "pkg": "com.android.internal.systemui.navbar.transparent",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Usable Power Mode_com.qualcomm.qti.powersavemode.apk",
+  "label": "Usable Power Mode",
+  "pkg": "com.qualcomm.qti.powersavemode",
+  "size": 29333,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 9,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "VpnDialogs_com.android.vpndialogs.apk",
+  "label": "VpnDialogs",
+  "pkg": "com.android.vpndialogs",
+  "size": 213733,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 11,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "WAPI证书_com.wapi.wapicertmanage.apk",
+  "label": "WAPI证书",
+  "pkg": "com.wapi.wapicertmanage",
+  "size": 83294,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 18,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "Wfd Service_com.qualcomm.wfd.service.apk",
+  "label": "Wfd Service",
+  "pkg": "com.qualcomm.wfd.service",
+  "size": 127639,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 9,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "WifiBackupRestore_com.oplus.wifibackuprestore.apk",
+  "label": "WifiBackupRestore",
+  "pkg": "com.oplus.wifibackuprestore",
+  "size": 10190244,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1923,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "XRCB_com.qualcomm.qti.xrcb.apk",
+  "label": "XRCB",
+  "pkg": "com.qualcomm.qti.xrcb",
+  "size": 49907,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 10,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "XRVD_com.qualcomm.qti.xrvd.service.apk",
+  "label": "XRVD",
+  "pkg": "com.qualcomm.qti.xrvd.service",
+  "size": 82675,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 10,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "aidlserverdemo_com.tencent.soter.soterserver.apk",
+  "label": "aidlserverdemo",
+  "pkg": "com.tencent.soter.soterserver",
+  "size": 74826,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 13,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "android.frameworkres.overlay.Network_android.frameworkres.overlay.Network.apk",
+  "label": "android.frameworkres.overlay.Network",
+  "pkg": "android.frameworkres.overlay.Network",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "android.frameworkres.overlay.display.product_android.frameworkres.overlay.display.product.apk",
+  "label": "android.frameworkres.overlay.display.product",
+  "pkg": "android.frameworkres.overlay.display.product",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "android.frameworkres.overlay_android.frameworkres.overlay.apk",
+  "label": "android.frameworkres.overlay",
+  "pkg": "android.frameworkres.overlay",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "android.overlay.common_android.overlay.common.apk",
+  "label": "android.overlay.common",
+  "pkg": "android.overlay.common",
+  "size": 24926,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "android.overlay.target_android.overlay.target.apk",
+  "label": "android.overlay.target",
+  "pkg": "android.overlay.target",
+  "size": 16805,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "android.systemuithreekey.overlay.product_android.systemuithreekey.overlay.product.apk",
+  "label": "android.systemuithreekey.overlay.product",
+  "pkg": "android.systemuithreekey.overlay.product",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "atlasService_com.oplus.atlas.apk",
+  "label": "atlasService",
+  "pkg": "com.oplus.atlas",
+  "size": 578985,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 18,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.backupconfirm_com.android.backupconfirm.apk",
+  "label": "com.android.backupconfirm",
+  "pkg": "com.android.backupconfirm",
+  "size": 238133,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 8,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.bluetooth.oplus.overlay_com.android.bluetooth.oplus.overlay.apk",
+  "label": "com.android.bluetooth.oplus.overlay",
+  "pkg": "com.android.bluetooth.oplus.overlay",
+  "size": 627123,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.carrierconfig.oplus.overlay_com.android.carrierconfig.oplus.overlay.apk",
+  "label": "com.android.carrierconfig.oplus.overlay",
+  "pkg": "com.android.carrierconfig.oplus.overlay",
+  "size": 146221,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 71,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.carrierconfig.overlay.common_com.android.carrierconfig.overlay.common.apk",
+  "label": "com.android.carrierconfig.overlay.common",
+  "pkg": "com.android.carrierconfig.overlay.common",
+  "size": 33182,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.carrierconfig.platform_com.android.carrierconfig.platform.apk",
+  "label": "com.android.carrierconfig.platform",
+  "pkg": "com.android.carrierconfig.platform",
+  "size": 20909,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.carrierconfig_com.android.carrierconfig.apk",
+  "label": "com.android.carrierconfig",
+  "pkg": "com.android.carrierconfig",
+  "size": 259261,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 398,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.cellbroadcastreceiver.overlay.common_com.android.cellbroadcastreceiver.overlay.common.apk",
+  "label": "com.android.cellbroadcastreceiver.overlay.common",
+  "pkg": "com.android.cellbroadcastreceiver.overlay.common",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.cellbroadcastreceiver_com.android.cellbroadcastreceiver.apk",
+  "label": "com.android.cellbroadcastreceiver",
+  "pkg": "com.android.cellbroadcastreceiver",
+  "size": 1064560,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 446,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.connectivity.resources.overlay.oplus_com.android.connectivity.resources.overlay.oplus.apk",
+  "label": "com.android.connectivity.resources.overlay.oplus",
+  "pkg": "com.android.connectivity.resources.overlay.oplus",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.cts.ctsshim_com.android.cts.ctsshim.apk",
+  "label": "com.android.cts.ctsshim",
+  "pkg": "com.android.cts.ctsshim",
+  "size": 8542,
+  "cert": "C = US, ST = California, L = Mountain View, O = Android, OU = Android, CN = Android, emailAddress = android@android.com",
+  "entries": 5,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "com.android.cts.priv.ctsshim_com.android.cts.priv.ctsshim.apk",
+  "label": "com.android.cts.priv.ctsshim",
+  "pkg": "com.android.cts.priv.ctsshim",
+  "size": 157818,
+  "cert": "C = US, ST = California, L = Mountain View, O = Android, OU = Android, CN = Android, emailAddress = android@android.com",
+  "entries": 7,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "com.android.federatedcompute.services_com.android.federatedcompute.services.apk",
+  "label": "com.android.federatedcompute.services",
+  "pkg": "com.android.federatedcompute.services",
+  "size": 86519,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.health.connect.backuprestore_com.android.health.connect.backuprestore.apk",
+  "label": "com.android.health.connect.backuprestore",
+  "pkg": "com.android.health.connect.backuprestore",
+  "size": 16798,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.localtransport_com.android.localtransport.apk",
+  "label": "com.android.localtransport",
+  "pkg": "com.android.localtransport",
+  "size": 29086,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.nearby.halfsheet_com.android.nearby.halfsheet.apk",
+  "label": "com.android.nearby.halfsheet",
+  "pkg": "com.android.nearby.halfsheet",
+  "size": 3863497,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 824,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication_com.android.ondevicepersonalization.services.apk",
+  "label": "com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication",
+  "pkg": "com.android.ondevicepersonalization.services",
+  "size": 1917471,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 48,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.ons_com.android.ons.apk",
+  "label": "com.android.ons",
+  "pkg": "com.android.ons",
+  "size": 86537,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.phone.overlay.common_com.android.phone.overlay.common.apk",
+  "label": "com.android.phone.overlay.common",
+  "pkg": "com.android.phone.overlay.common",
+  "size": 12715,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.providers.media_com.android.providers.media.apk",
+  "label": "com.android.providers.media",
+  "pkg": "com.android.providers.media",
+  "size": 1105520,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 446,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.safetycenter.resources.overlay_com.android.safetycenter.resources.overlay.apk",
+  "label": "com.android.safetycenter.resources.overlay",
+  "pkg": "com.android.safetycenter.resources.overlay",
+  "size": 41525,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 8,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.safetycenter.styles.overlay_com.android.safetycenter.styles.overlay.apk",
+  "label": "com.android.safetycenter.styles.overlay",
+  "pkg": "com.android.safetycenter.styles.overlay",
+  "size": 13069,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 10,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.sdksandbox_com.android.sdksandbox.apk",
+  "label": "com.android.sdksandbox",
+  "pkg": "com.android.sdksandbox",
+  "size": 45551,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.server.telecom.overlay.common_com.android.server.telecom.overlay.common.apk",
+  "label": "com.android.server.telecom.overlay.common",
+  "pkg": "com.android.server.telecom.overlay.common",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.settings.overlay.common_com.android.settings.overlay.common.apk",
+  "label": "com.android.settings.overlay.common",
+  "pkg": "com.android.settings.overlay.common",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.sharedstoragebackup_com.android.sharedstoragebackup.apk",
+  "label": "com.android.sharedstoragebackup",
+  "pkg": "com.android.sharedstoragebackup",
+  "size": 16798,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.systemui.accessibility.accessibilitymenu_com.android.systemui.accessibility.accessibilitymenu.apk",
+  "label": "com.android.systemui.accessibility.accessibilitymenu",
+  "pkg": "com.android.systemui.accessibility.accessibilitymenu",
+  "size": 1628244,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 393,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.systemui.overlay.common_com.android.systemui.overlay.common.apk",
+  "label": "com.android.systemui.overlay.common",
+  "pkg": "com.android.systemui.overlay.common",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.virtualmachine.res_com.android.virtualmachine.res.apk",
+  "label": "com.android.virtualmachine.res",
+  "pkg": "com.android.virtualmachine.res",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.wallpaperbackup_com.android.wallpaperbackup.apk",
+  "label": "com.android.wallpaperbackup",
+  "pkg": "com.android.wallpaperbackup",
+  "size": 24990,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.wifi.dialog_com.android.wifi.dialog.apk",
+  "label": "com.android.wifi.dialog",
+  "pkg": "com.android.wifi.dialog",
+  "size": 966124,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 273,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.wifi.resources.overlay.common_com.android.wifi.resources.overlay.common.apk",
+  "label": "com.android.wifi.resources.overlay.common",
+  "pkg": "com.android.wifi.resources.overlay.common",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.wifi.resources.overlay.oplus_com.android.wifi.resources.overlay.oplus.apk",
+  "label": "com.android.wifi.resources.overlay.oplus",
+  "pkg": "com.android.wifi.resources.overlay.oplus",
+  "size": 16734,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.android.wifi.resources.overlay.target_com.android.wifi.resources.overlay.target.apk",
+  "label": "com.android.wifi.resources.overlay.target",
+  "pkg": "com.android.wifi.resources.overlay.target",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.google.android.networkstack.overlay_com.google.android.networkstack.overlay.apk",
+  "label": "com.google.android.networkstack.overlay",
+  "pkg": "com.google.android.networkstack.overlay",
+  "size": 82270,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.google.android.overlay.gmsconfig.common_com.google.android.overlay.gmsconfig.common.apk",
+  "label": "com.google.android.overlay.gmsconfig.common",
+  "pkg": "com.google.android.overlay.gmsconfig.common",
+  "size": 29103,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.google.android.overlay.gmsconfig.nosafetycenter_com.google.android.overlay.gmsconfig.nosafetycenter.apk",
+  "label": "com.google.android.overlay.gmsconfig.nosafetycenter",
+  "pkg": "com.google.android.overlay.gmsconfig.nosafetycenter",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.google.android.permissioncontroller.overlay.oplus_com.google.android.permissioncontroller.overlay.oplus.apk",
+  "label": "com.google.android.permissioncontroller.overlay.oplus",
+  "pkg": "com.google.android.permissioncontroller.overlay.oplus",
+  "size": 839005,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 291,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.google.android.wifi.resources.overlay.common_com.google.android.wifi.resources.overlay.common.apk",
+  "label": "com.google.android.wifi.resources.overlay.common",
+  "pkg": "com.google.android.wifi.resources.overlay.common",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.google.android.wifi.resources.overlay.target_com.google.android.wifi.resources.overlay.target.apk",
+  "label": "com.google.android.wifi.resources.overlay.target",
+  "pkg": "com.google.android.wifi.resources.overlay.target",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.microsoftsdk.crossdeviceservicebroker_com.microsoftsdk.crossdeviceservicebroker.apk",
+  "label": "com.microsoftsdk.crossdeviceservicebroker",
+  "pkg": "com.microsoftsdk.crossdeviceservicebroker",
+  "size": 16798,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.oneplus.camera.pictureprocessing_com.oneplus.camera.pictureprocessing.apk",
+  "label": "com.oneplus.camera.pictureprocessing",
+  "pkg": "com.oneplus.camera.pictureprocessing",
+  "size": 14613585,
+  "cert": "C = CN, ST = Guangdong, L = Shenzhen, O = OnePlus, OU = SW, CN = OnePlus, emailAddress = oneplus@oneplus.cn",
+  "entries": 1449,
+  "vendor": "OnePlus"
+ },
+ {
+  "file": "com.oplus.framework.rro.oneplus_com.oplus.framework.rro.oneplus.apk",
+  "label": "com.oplus.framework.rro.oneplus",
+  "pkg": "com.oplus.framework.rro.oneplus",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.oplus.framework_bluetooth.overlay_bluetooth.overlay.apk",
+  "label": "com.oplus.framework_bluetooth.overlay",
+  "pkg": "bluetooth.overlay",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.oplus.ocloud_com.oplus.ocloud.apk",
+  "label": "com.oplus.ocloud",
+  "pkg": "com.oplus.ocloud",
+  "size": 4565667,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 32,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.oplus.overlay.comms_com.oplus.overlay.comms.apk",
+  "label": "com.oplus.overlay.comms",
+  "pkg": "com.oplus.overlay.comms",
+  "size": 8542,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qti.qualcomm.datastatusnotification_com.qti.qualcomm.datastatusnotification.apk",
+  "label": "com.qti.qualcomm.datastatusnotification",
+  "pkg": "com.qti.qualcomm.datastatusnotification",
+  "size": 33182,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qti.service.colorservice_com.qti.service.colorservice.apk",
+  "label": "com.qti.service.colorservice",
+  "pkg": "com.qti.service.colorservice",
+  "size": 45463,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.atfwd2_com.qualcomm.atfwd2.apk",
+  "label": "com.qualcomm.atfwd2",
+  "pkg": "com.qualcomm.atfwd2",
+  "size": 49566,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.atfwd_com.qualcomm.atfwd.apk",
+  "label": "com.qualcomm.atfwd",
+  "pkg": "com.qualcomm.atfwd",
+  "size": 61854,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qcrilmsgtunnel_com.qualcomm.qcrilmsgtunnel.apk",
+  "label": "com.qualcomm.qcrilmsgtunnel",
+  "pkg": "com.qualcomm.qcrilmsgtunnel",
+  "size": 102814,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.devicestatisticsservice_com.qualcomm.qti.devicestatisticsservice.apk",
+  "label": "com.qualcomm.qti.devicestatisticsservice",
+  "pkg": "com.qualcomm.qti.devicestatisticsservice",
+  "size": 86430,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.ims_com.qualcomm.qti.ims.apk",
+  "label": "com.qualcomm.qti.ims",
+  "pkg": "com.qualcomm.qti.ims",
+  "size": 57828,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.lpa_com.qualcomm.qti.lpa.apk",
+  "label": "com.qualcomm.qti.lpa",
+  "pkg": "com.qualcomm.qti.lpa",
+  "size": 234040,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 8,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.remoteSimlockAuth_com.qualcomm.qti.remoteSimlockAuth.apk",
+  "label": "com.qualcomm.qti.remoteSimlockAuth",
+  "pkg": "com.qualcomm.qti.remoteSimlockAuth",
+  "size": 8607,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.telephonyservice_com.qualcomm.qti.telephonyservice.apk",
+  "label": "com.qualcomm.qti.telephonyservice",
+  "pkg": "com.qualcomm.qti.telephonyservice",
+  "size": 65950,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.uimGbaApp_com.qualcomm.qti.uimGbaApp.apk",
+  "label": "com.qualcomm.qti.uimGbaApp",
+  "pkg": "com.qualcomm.qti.uimGbaApp",
+  "size": 24990,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.uim_com.qualcomm.qti.uim.apk",
+  "label": "com.qualcomm.qti.uim",
+  "pkg": "com.qualcomm.qti.uim",
+  "size": 24990,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qti.workloadclassifier_com.qualcomm.qti.workloadclassifier.apk",
+  "label": "com.qualcomm.qti.workloadclassifier",
+  "pkg": "com.qualcomm.qti.workloadclassifier",
+  "size": 82334,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.qtil.btdsda_com.qualcomm.qtil.btdsda.apk",
+  "label": "com.qualcomm.qtil.btdsda",
+  "pkg": "com.qualcomm.qtil.btdsda",
+  "size": 61854,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.timeservice_com.qualcomm.timeservice.apk",
+  "label": "com.qualcomm.timeservice",
+  "pkg": "com.qualcomm.timeservice",
+  "size": 16798,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.uimremoteclient_com.qualcomm.uimremoteclient.apk",
+  "label": "com.qualcomm.uimremoteclient",
+  "pkg": "com.qualcomm.uimremoteclient",
+  "size": 139743,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "com.qualcomm.uimremoteserver_com.qualcomm.uimremoteserver.apk",
+  "label": "com.qualcomm.uimremoteserver",
+  "pkg": "com.qualcomm.uimremoteserver",
+  "size": 127455,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "dcf_com.qti.dcf.apk",
+  "label": "dcf",
+  "pkg": "com.qti.dcf",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "oplus.frameworkres.overlay.camera.product_oplus.frameworkres.overlay.camera.product.apk",
+  "label": "oplus.frameworkres.overlay.camera.product",
+  "pkg": "oplus.frameworkres.overlay.camera.product",
+  "size": 12638,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "org.codeaurora.ims.ImsApp_org.codeaurora.ims.apk",
+  "label": "org.codeaurora.ims.ImsApp",
+  "pkg": "org.codeaurora.ims",
+  "size": 1775269,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 20,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "uceShimService_com.qualcomm.qti.uceShimService.apk",
+  "label": "uceShimService",
+  "pkg": "com.qualcomm.qti.uceShimService",
+  "size": 369217,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 8,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "vendor.qti.imsdatachannel_vendor.qti.imsdatachannel.apk",
+  "label": "vendor.qti.imsdatachannel",
+  "pkg": "vendor.qti.imsdatachannel",
+  "size": 123294,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "vendor.qti.imsrcs_vendor.qti.imsrcs.apk",
+  "label": "vendor.qti.imsrcs",
+  "pkg": "vendor.qti.imsrcs",
+  "size": 426398,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "vendor.qti.iwlan_vendor.qti.iwlan.apk",
+  "label": "vendor.qti.iwlan",
+  "pkg": "vendor.qti.iwlan",
+  "size": 999838,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "vulkan_layer_com.oplus.vulkanLayer.apk",
+  "label": "vulkan_layer",
+  "pkg": "com.oplus.vulkanLayer",
+  "size": 5284134,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 9,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "一体化位置信息_com.android.location.fused.apk",
+  "label": "一体化位置信息",
+  "pkg": "com.android.location.fused",
+  "size": 33182,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "一加互传_com.coloros.oshare.apk",
+  "label": "一加互传",
+  "pkg": "com.coloros.oshare",
+  "size": 15671594,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1735,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "下载_com.android.providers.downloads.ui.apk",
+  "label": "下载",
+  "pkg": "com.android.providers.downloads.ui",
+  "size": 267144,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 11,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "下载管理服务_com.android.providers.downloads.apk",
+  "label": "下载管理服务",
+  "pkg": "com.android.providers.downloads",
+  "size": 513716,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 11,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "主题基础服务_com.oplus.themestore.apk",
+  "label": "主题基础服务",
+  "pkg": "com.oplus.themestore",
+  "size": 29437602,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2644,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "乐划锁屏_com.heytap.pictorial.apk",
+  "label": "乐划锁屏",
+  "pkg": "com.heytap.pictorial",
+  "size": 108212584,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 5543,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "云服务_com.heytap.cloud.apk",
+  "label": "云服务",
+  "pkg": "com.heytap.cloud",
+  "size": 33109028,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 2934,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "人像绘影_com.oplus.portrait.apk",
+  "label": "人像绘影",
+  "pkg": "com.oplus.portrait",
+  "size": 44831112,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1666,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "信息_com.android.mms.apk",
+  "label": "信息",
+  "pkg": "com.android.mms",
+  "size": 61577873,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 4443,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "信息服务_com.android.mms.service.apk",
+  "label": "信息服务",
+  "pkg": "com.android.mms.service",
+  "size": 1951310,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 23,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "健康数据平台_com.oplus.healthservice.apk",
+  "label": "健康数据平台",
+  "pkg": "com.oplus.healthservice",
+  "size": 640432,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 19,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "儿童模式_com.coloros.childrenspace.apk",
+  "label": "儿童模式",
+  "pkg": "com.coloros.childrenspace",
+  "size": 52988351,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1949,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "全局搜索_com.heytap.quicksearchbox.apk",
+  "label": "全局搜索",
+  "pkg": "com.heytap.quicksearchbox",
+  "size": 92298367,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 5146,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "凭证安装_com.android.certinstaller.apk",
+  "label": "凭证安装",
+  "pkg": "com.android.certinstaller",
+  "size": 2491803,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 455,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "升级指南_com.oplus.upgradeguide.apk",
+  "label": "升级指南",
+  "pkg": "com.oplus.upgradeguide",
+  "size": 13807116,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1666,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "双刘海屏_com.android.internal.display.cutout.emulation.double.apk",
+  "label": "双刘海屏",
+  "pkg": "com.android.internal.display.cutout.emulation.double",
+  "size": 24926,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "反馈工具箱_com.oplus.logkit.apk",
+  "label": "反馈工具箱",
+  "pkg": "com.oplus.logkit",
+  "size": 20579560,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1962,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "号码归属地_com.oplus.phonenoareainquire.apk",
+  "label": "号码归属地",
+  "pkg": "com.oplus.phonenoareainquire",
+  "size": 3460874,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1450,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "图片描述_com.oplus.viewtalk.apk",
+  "label": "图片描述",
+  "pkg": "com.oplus.viewtalk",
+  "size": 20261681,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1645,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "基本互动屏保_com.android.dreams.basic.apk",
+  "label": "基本互动屏保",
+  "pkg": "com.android.dreams.basic",
+  "size": 193674,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 15,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "壁纸_com.oplus.wallpapers.apk",
+  "label": "壁纸",
+  "pkg": "com.oplus.wallpapers",
+  "size": 37077899,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2066,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "壁纸与个性化_com.oplus.uxdesign.apk",
+  "label": "壁纸与个性化",
+  "pkg": "com.oplus.uxdesign",
+  "size": 20039583,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2050,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "外设融合框架_com.oplus.vdc.apk",
+  "label": "外设融合框架",
+  "pkg": "com.oplus.vdc",
+  "size": 9299125,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1388,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "外部存储设备_com.android.externalstorage.apk",
+  "label": "外部存储设备",
+  "pkg": "com.android.externalstorage",
+  "size": 61854,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "多彩引擎_com.heytap.colorfulengine.apk",
+  "label": "多彩引擎",
+  "pkg": "com.heytap.colorfulengine",
+  "size": 23177428,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 1712,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "天气服务_com.coloros.weather.service.apk",
+  "label": "天气服务",
+  "pkg": "com.coloros.weather.service",
+  "size": 12968617,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1946,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "媒体_com.android.providers.media.module.apk",
+  "label": "媒体",
+  "pkg": "com.android.providers.media.module",
+  "size": 12627804,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1425,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "媒体播放器_com.coloros.video.apk",
+  "label": "媒体播放器",
+  "pkg": "com.coloros.video",
+  "size": 25396241,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2277,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "子系统服务框架_com.oplus.subsys.apk",
+  "label": "子系统服务框架",
+  "pkg": "com.oplus.subsys",
+  "size": 61929,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 7,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "存储已屏蔽的号码_com.android.providers.blockednumber.apk",
+  "label": "存储已屏蔽的号码",
+  "pkg": "com.android.providers.blockednumber",
+  "size": 1893934,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 549,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "存储空间管理器_com.android.storagemanager.apk",
+  "label": "存储空间管理器",
+  "pkg": "com.android.storagemanager",
+  "size": 10949230,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1273,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "安全中心_com.oplus.safecenter.apk",
+  "label": "安全中心",
+  "pkg": "com.oplus.safecenter",
+  "size": 17796028,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2080,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "安全中心资源_com.android.safetycenter.resources.apk",
+  "label": "安全中心资源",
+  "pkg": "com.android.safetycenter.resources",
+  "size": 529541,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 13,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "安全事件_com.coloros.securityguard.apk",
+  "label": "安全事件",
+  "pkg": "com.coloros.securityguard",
+  "size": 10739932,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1658,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "安全支付_com.oplus.pay.apk",
+  "label": "安全支付",
+  "pkg": "com.oplus.pay",
+  "size": 26536550,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 3463,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "安全键盘_com.oplus.securitykeyboard.apk",
+  "label": "安全键盘",
+  "pkg": "com.oplus.securitykeyboard",
+  "size": 413419,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 129,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "密码本_com.coloros.codebook.apk",
+  "label": "密码本",
+  "pkg": "com.coloros.codebook",
+  "size": 14412454,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2473,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "密钥链_com.android.keychain.apk",
+  "label": "密钥链",
+  "pkg": "com.android.keychain",
+  "size": 2231391,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 234,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "小布助手_com.heytap.speechassist.apk",
+  "label": "小布助手",
+  "pkg": "com.heytap.speechassist",
+  "size": 120627067,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 7276,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "小布扫一扫_com.coloros.ocrscanner.apk",
+  "label": "小布扫一扫",
+  "pkg": "com.coloros.ocrscanner",
+  "size": 80796789,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2781,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "小布识屏_com.coloros.directui.apk",
+  "label": "小布识屏",
+  "pkg": "com.coloros.directui",
+  "size": 19402386,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2900,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "屏幕共享_com.coloros.sharescreen.apk",
+  "label": "屏幕共享",
+  "pkg": "com.coloros.sharescreen",
+  "size": 23119199,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 3699,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "屏幕录制_com.oplus.screenrecorder.apk",
+  "label": "屏幕录制",
+  "pkg": "com.oplus.screenrecorder",
+  "size": 7900358,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1776,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "工作设置_com.android.managedprovisioning.apk",
+  "label": "工作设置",
+  "pkg": "com.android.managedprovisioning",
+  "size": 5754256,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 668,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "工程模式_com.oplus.engineermode.apk",
+  "label": "工程模式",
+  "pkg": "com.oplus.engineermode",
+  "size": 26534903,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 938,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "工程相机_com.oplus.engineercamera.apk",
+  "label": "工程相机",
+  "pkg": "com.oplus.engineercamera",
+  "size": 26993662,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 369,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "帐号服务_com.heytap.vip.apk",
+  "label": "帐号服务",
+  "pkg": "com.heytap.vip",
+  "size": 469850,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 34,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "帮助与反馈_com.coloros.operationManual.apk",
+  "label": "帮助与反馈",
+  "pkg": "com.coloros.operationManual",
+  "size": 19795614,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 4077,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "常规检测_com.coloros.healthcheck.apk",
+  "label": "常规检测",
+  "pkg": "com.coloros.healthcheck",
+  "size": 13657746,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1898,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "应用分身_com.oplus.multiapp.apk",
+  "label": "应用分身",
+  "pkg": "com.oplus.multiapp",
+  "size": 7119622,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1492,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "应用包安装程序_com.android.packageinstaller.apk",
+  "label": "应用包安装程序",
+  "pkg": "com.android.packageinstaller",
+  "size": 8545548,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1545,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "应用增强服务_com.oplus.cosa.apk",
+  "label": "应用增强服务",
+  "pkg": "com.oplus.cosa",
+  "size": 36885384,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1482,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "应用安装器_com.oplus.appdetail.apk",
+  "label": "应用安装器",
+  "pkg": "com.oplus.appdetail",
+  "size": 22866021,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2395,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "应用服务_com.oplus.appplatform.apk",
+  "label": "应用服务",
+  "pkg": "com.oplus.appplatform",
+  "size": 1965558,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 242,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "开关控制_com.google.android.accessibility.switchaccess.apk",
+  "label": "开关控制",
+  "pkg": "com.google.android.accessibility.switchaccess",
+  "size": 10232586,
+  "cert": "subject=C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = Android",
+  "entries": 1994,
+  "vendor": "Google/AOSP"
+ },
+ {
+  "file": "开机注册_com.coloros.bootreg.apk",
+  "label": "开机注册",
+  "pkg": "com.coloros.bootreg",
+  "size": 39499128,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1768,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "强制门户登录_com.android.captiveportallogin.apk",
+  "label": "强制门户登录",
+  "pkg": "com.android.captiveportallogin",
+  "size": 552769,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 127,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "快应用_com.nearme.instant.platform.apk",
+  "label": "快应用",
+  "pkg": "com.nearme.instant.platform",
+  "size": 75702048,
+  "cert": "C = 86, ST = guangdong, L = shenzhen, O = oppo, OU = oppo, CN = nearme",
+  "entries": 6250,
+  "vendor": "nearme"
+ },
+ {
+  "file": "性能模式_com.qualcomm.qti.performancemode.apk",
+  "label": "性能模式",
+  "pkg": "com.qualcomm.qti.performancemode",
+  "size": 29253,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 8,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "息屏_com.oplus.aod.apk",
+  "label": "息屏",
+  "pkg": "com.oplus.aod",
+  "size": 48601626,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2922,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "悬浮球_com.coloros.floatassistant.apk",
+  "label": "悬浮球",
+  "pkg": "com.coloros.floatassistant",
+  "size": 36442752,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1993,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "截屏_com.oplus.screenshot.apk",
+  "label": "截屏",
+  "pkg": "com.oplus.screenshot",
+  "size": 26321272,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 3409,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "手势体感_com.oplus.gesture.apk",
+  "label": "手势体感",
+  "pkg": "com.oplus.gesture",
+  "size": 28896248,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1888,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "手势体感服务_com.oplus.exserviceui.apk",
+  "label": "手势体感服务",
+  "pkg": "com.oplus.exserviceui",
+  "size": 8750825,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1841,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "手机投屏_com.oplus.cast.apk",
+  "label": "手机投屏",
+  "pkg": "com.oplus.cast",
+  "size": 16824806,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1674,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "手机管家_com.coloros.phonemanager.apk",
+  "label": "手机管家",
+  "pkg": "com.coloros.phonemanager",
+  "size": 62420636,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 6171,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "打印处理服务_com.android.printspooler.apk",
+  "label": "打印处理服务",
+  "pkg": "com.android.printspooler",
+  "size": 8958982,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2157,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "打孔屏_com.android.internal.display.cutout.emulation.hole.apk",
+  "label": "打孔屏",
+  "pkg": "com.android.internal.display.cutout.emulation.hole",
+  "size": 24926,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "扫描输入_com.oplus.supertextinput.apk",
+  "label": "扫描输入",
+  "pkg": "com.oplus.supertextinput",
+  "size": 32734377,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2269,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "找回系统应用_com.oplus.apprecover.apk",
+  "label": "找回系统应用",
+  "pkg": "com.oplus.apprecover",
+  "size": 6472434,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1490,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "护眼模式_com.oplus.eyeprotect.apk",
+  "label": "护眼模式",
+  "pkg": "com.oplus.eyeprotect",
+  "size": 8436026,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1578,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "支付保护_com.coloros.securepay.apk",
+  "label": "支付保护",
+  "pkg": "com.coloros.securepay",
+  "size": 17753225,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1843,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "数字健康_com.coloros.digitalwellbeing.apk",
+  "label": "数字健康",
+  "pkg": "com.coloros.digitalwellbeing",
+  "size": 17566389,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2079,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "数字车钥匙服务_com.oplus.cardigitalkey.apk",
+  "label": "数字车钥匙服务",
+  "pkg": "com.oplus.cardigitalkey",
+  "size": 9773609,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1927,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "数据基础服务_com.oplus.statistics.rom.apk",
+  "label": "数据基础服务",
+  "pkg": "com.oplus.statistics.rom",
+  "size": 19106584,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 835,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "文件_com.android.documentsui.apk",
+  "label": "文件",
+  "pkg": "com.android.documentsui",
+  "size": 6095729,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 707,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "无动画_com.android.systemui.overlay.fingerprint.anim.none.apk",
+  "label": "无动画",
+  "pkg": "com.android.systemui.overlay.fingerprint.anim.none",
+  "size": 288802,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 61,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "无线紧急警报_com.android.cellbroadcastreceiver.module.apk",
+  "label": "无线紧急警报",
+  "pkg": "com.android.cellbroadcastreceiver.module",
+  "size": 15912640,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 942,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "无线设置_com.oplus.wirelesssettings.apk",
+  "label": "无线设置",
+  "pkg": "com.oplus.wirelesssettings",
+  "size": 16329923,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2357,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "日历存储_com.android.providers.calendar.apk",
+  "label": "日历存储",
+  "pkg": "com.android.providers.calendar",
+  "size": 1811896,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 19,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "智慧决策服务_com.oplus.metis.apk",
+  "label": "智慧决策服务",
+  "pkg": "com.oplus.metis",
+  "size": 33368775,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2816,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "智慧出行_com.oplus.travelengine.apk",
+  "label": "智慧出行",
+  "pkg": "com.oplus.travelengine",
+  "size": 4428753,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1926,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "智慧建议服务_com.oplus.pantanal.ums.apk",
+  "label": "智慧建议服务",
+  "pkg": "com.oplus.pantanal.ums",
+  "size": 84490585,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 3816,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "智慧数据增强服务_com.coloros.sceneservice.apk",
+  "label": "智慧数据增强服务",
+  "pkg": "com.coloros.sceneservice",
+  "size": 58192400,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 4020,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "智慧能力服务_com.oplus.deepthinker.apk",
+  "label": "智慧能力服务",
+  "pkg": "com.oplus.deepthinker",
+  "size": 13977487,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1787,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "智慧语音_com.oplus.audiomonitor.apk",
+  "label": "智慧语音",
+  "pkg": "com.oplus.audiomonitor",
+  "size": 7052301,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1791,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "智能侧边栏_com.coloros.smartsidebar.apk",
+  "label": "智能侧边栏",
+  "pkg": "com.coloros.smartsidebar",
+  "size": 12314974,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2855,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "智能应用检测_com.oplus.thirdkit.apk",
+  "label": "智能应用检测",
+  "pkg": "com.oplus.thirdkit",
+  "size": 8342335,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1692,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "智能解锁_com.coloros.smartlock.apk",
+  "label": "智能解锁",
+  "pkg": "com.coloros.smartlock",
+  "size": 7430873,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1668,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "智能识别陌生号码_com.ted.number.apk",
+  "label": "智能识别陌生号码",
+  "pkg": "com.ted.number",
+  "size": 19956499,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 774,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "更新服务_com.oplus.romupdate.apk",
+  "label": "更新服务",
+  "pkg": "com.oplus.romupdate",
+  "size": 2596438,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 358,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "权限控制器_com.android.permissioncontroller.apk",
+  "label": "权限控制器",
+  "pkg": "com.android.permissioncontroller",
+  "size": 22553762,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 3033,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "权限管理_com.oplus.securitypermission.apk",
+  "label": "权限管理",
+  "pkg": "com.oplus.securitypermission",
+  "size": 22488592,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2935,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "查找_com.coloros.findmyphone.apk",
+  "label": "查找",
+  "pkg": "com.coloros.findmyphone",
+  "size": 45787389,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2999,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "水纹_com.android.systemui.overlay.fingerprint.anim.sw.apk",
+  "label": "水纹",
+  "pkg": "com.android.systemui.overlay.fingerprint.anim.sw",
+  "size": 6160228,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 153,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "流量管理_com.oplus.trafficmonitor.apk",
+  "label": "流量管理",
+  "pkg": "com.oplus.trafficmonitor",
+  "size": 12409141,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2253,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "浏览器_com.heytap.browser.apk",
+  "label": "浏览器",
+  "pkg": "com.heytap.browser",
+  "size": 196765885,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 14296,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "浮游_com.android.systemui.overlay.fingerprint.anim.fy.apk",
+  "label": "浮游",
+  "pkg": "com.android.systemui.overlay.fingerprint.anim.fy",
+  "size": 6811268,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 151,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "涟漪_com.android.systemui.overlay.fingerprint.anim.xklc.apk",
+  "label": "涟漪",
+  "pkg": "com.android.systemui.overlay.fingerprint.anim.xklc",
+  "size": 7229122,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 152,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "漩涡_com.android.systemui.overlay.fingerprint.anim.xw.apk",
+  "label": "漩涡",
+  "pkg": "com.android.systemui.overlay.fingerprint.anim.xw",
+  "size": 7756543,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 143,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "瀑布刘海屏_com.android.internal.display.cutout.emulation.waterfall.apk",
+  "label": "瀑布刘海屏",
+  "pkg": "com.android.internal.display.cutout.emulation.waterfall",
+  "size": 24926,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "用户字典_com.android.providers.userdictionary.apk",
+  "label": "用户字典",
+  "pkg": "com.android.providers.userdictionary",
+  "size": 37278,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "电池_com.oplus.battery.apk",
+  "label": "电池",
+  "pkg": "com.oplus.battery",
+  "size": 23803111,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2335,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "电话_com.android.incallui.apk",
+  "label": "电话",
+  "pkg": "com.android.incallui",
+  "size": 18293454,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2635,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "电话服务_com.android.phone.apk",
+  "label": "电话服务",
+  "pkg": "com.android.phone",
+  "size": 25076190,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2728,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "电话本_com.android.contacts.apk",
+  "label": "电话本",
+  "pkg": "com.android.contacts",
+  "size": 57717218,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 4031,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "百变引擎_com.oplus.uiengine.apk",
+  "label": "百变引擎",
+  "pkg": "com.oplus.uiengine",
+  "size": 12629440,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1513,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "百度输入法定制版_oppo.apk",
+  "label": "百度输入法定制版",
+  "pkg": "oppo",
+  "size": 68744435,
+  "cert": "C = CN, ST = Shanghai, L = Shanghai, O = Baidu Inc., OU = Baidu Inc., CN = Baidu",
+  "entries": 10821,
+  "vendor": "Baidu"
+ },
+ {
+  "file": "相册_com.coloros.gallery3d.apk",
+  "label": "相册",
+  "pkg": "com.coloros.gallery3d",
+  "size": 199155342,
+  "cert": "C = CN, ST = GuangDong, L = ShenZhen View, O = Android, OU = Android, CN = Android, emailAddress = oppo@oppo.com",
+  "entries": 8702,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "相机_com.oneplus.camera.apk",
+  "label": "相机",
+  "pkg": "com.oneplus.camera",
+  "size": 148459295,
+  "cert": "C = CN, ST = Guangdong, L = Shenzhen, O = OnePlus, OU = SW, CN = OnePlus, emailAddress = oneplus@oneplus.cn",
+  "entries": 2468,
+  "vendor": "OnePlus"
+ },
+ {
+  "file": "私密保险箱_com.oplus.encryption.apk",
+  "label": "私密保险箱",
+  "pkg": "com.oplus.encryption",
+  "size": 9080502,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2268,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "移动服务_com.heytap.htms.apk",
+  "label": "移动服务",
+  "pkg": "com.heytap.htms",
+  "size": 31563425,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 5121,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "简易模式_com.coloros.scenemode.apk",
+  "label": "简易模式",
+  "pkg": "com.coloros.scenemode",
+  "size": 12975261,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1684,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "系统 WLAN 资源_com.android.wifi.resources.apk",
+  "label": "系统 WLAN 资源",
+  "pkg": "com.android.wifi.resources",
+  "size": 1376929,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 9,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "系统分身_com.coloros.systemclone.apk",
+  "label": "系统分身",
+  "pkg": "com.coloros.systemclone",
+  "size": 12534971,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1755,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "系统升级服务_com.oplus.sau.apk",
+  "label": "系统升级服务",
+  "pkg": "com.oplus.sau",
+  "size": 9963608,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1370,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "系统卡包_com.heytap.tas.apk",
+  "label": "系统卡包",
+  "pkg": "com.heytap.tas",
+  "size": 28326346,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTap, emailAddress = heytap@heytap.com",
+  "entries": 5952,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "系统服务_com.oplus.exsystemservice.apk",
+  "label": "系统服务",
+  "pkg": "com.oplus.exsystemservice",
+  "size": 9502286,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1482,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "系统桌面_com.android.launcher.apk",
+  "label": "系统桌面",
+  "pkg": "com.android.launcher",
+  "size": 48054310,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 4137,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "系统消息_com.heytap.mcs.apk",
+  "label": "系统消息",
+  "pkg": "com.heytap.mcs",
+  "size": 19597870,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1954,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "系统界面_com.android.systemui.apk",
+  "label": "系统界面",
+  "pkg": "com.android.systemui",
+  "size": 127390072,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 9259,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "系统网络连接资源_com.android.connectivity.resources.apk",
+  "label": "系统网络连接资源",
+  "pkg": "com.android.connectivity.resources",
+  "size": 152407,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 10,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "系统跟踪_com.android.traceur.apk",
+  "label": "系统跟踪",
+  "pkg": "com.android.traceur",
+  "size": 6709365,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 858,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "绽放_com.android.systemui.overlay.fingerprint.anim.ccyh.apk",
+  "label": "绽放",
+  "pkg": "com.android.systemui.overlay.fingerprint.anim.ccyh",
+  "size": 6616404,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 167,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "网络健康服务_com.oplus.nhs.apk",
+  "label": "网络健康服务",
+  "pkg": "com.oplus.nhs",
+  "size": 3696863,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 88,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "网络定位服务_com.oplus.location.apk",
+  "label": "网络定位服务",
+  "pkg": "com.oplus.location",
+  "size": 15161443,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1911,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "网络服务_com.oplus.nas.apk",
+  "label": "网络服务",
+  "pkg": "com.oplus.nas",
+  "size": 135800842,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 3941,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "网络管理器_com.android.networkstack.apk",
+  "label": "网络管理器",
+  "pkg": "com.android.networkstack",
+  "size": 1262959,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 30,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "翻译服务_com.coloros.translate.engine.apk",
+  "label": "翻译服务",
+  "pkg": "com.coloros.translate.engine",
+  "size": 29751400,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1580,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "耗电监控服务_com.oplus.powermonitor.apk",
+  "label": "耗电监控服务",
+  "pkg": "com.oplus.powermonitor",
+  "size": 2822778,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 305,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "耳机返听_com.coloros.karaoke.apk",
+  "label": "耳机返听",
+  "pkg": "com.coloros.karaoke",
+  "size": 12354556,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 1819,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "联系人存储_com.android.providers.contacts.apk",
+  "label": "联系人存储",
+  "pkg": "com.android.providers.contacts",
+  "size": 7386675,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 327,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "蓝牙_com.android.bluetooth.apk",
+  "label": "蓝牙",
+  "pkg": "com.android.bluetooth",
+  "size": 26629315,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1896,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "融合搜索服务_com.oplus.dmp.apk",
+  "label": "融合搜索服务",
+  "pkg": "com.oplus.dmp",
+  "size": 18724661,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1730,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "设备互联服务_com.oplus.linker.apk",
+  "label": "设备互联服务",
+  "pkg": "com.oplus.linker",
+  "size": 42353081,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1789,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "设备快连_com.heytap.accessory.apk",
+  "label": "设备快连",
+  "pkg": "com.heytap.accessory",
+  "size": 25590477,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1772,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "设备空间_com.heytap.mydevices.apk",
+  "label": "设备空间",
+  "pkg": "com.heytap.mydevices",
+  "size": 12785051,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2237,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "设置_com.android.settings.apk",
+  "label": "设置",
+  "pkg": "com.android.settings",
+  "size": 143106400,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 6809,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "设置存储_com.android.providers.settings.apk",
+  "label": "设置存储",
+  "pkg": "com.android.providers.settings",
+  "size": 4532116,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 279,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "设置建议_com.android.settings.intelligence.apk",
+  "label": "设置建议",
+  "pkg": "com.android.settings.intelligence",
+  "size": 7686103,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1483,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "识屏服务_com.coloros.colordirectservice.apk",
+  "label": "识屏服务",
+  "pkg": "com.coloros.colordirectservice",
+  "size": 31232180,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 3128,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "诊断工具服务_com.oplus.postmanservice.apk",
+  "label": "诊断工具服务",
+  "pkg": "com.oplus.postmanservice",
+  "size": 31791720,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1714,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "语音唤醒服务_com.oneplus.voicewakeup.apk",
+  "label": "语音唤醒服务",
+  "pkg": "com.oneplus.voicewakeup",
+  "size": 38633098,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 486,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "语音设置_com.iflytek.speechsuite.apk",
+  "label": "语音设置",
+  "pkg": "com.iflytek.speechsuite",
+  "size": 13428940,
+  "cert": "C = 86, ST = AnHui, L = Hefei, O = Iflytek Company Limited, OU = Iflytek Cloud Platform Research and Development Department, CN = SpeechService",
+  "entries": 98,
+  "vendor": "Iflytek"
+ },
+ {
+  "file": "语音识别文字_com.coloros.accessibilityassistant.apk",
+  "label": "语音识别文字",
+  "pkg": "com.coloros.accessibilityassistant",
+  "size": 10790611,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2261,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "账号中心_com.oplus.account.apk",
+  "label": "账号中心",
+  "pkg": "com.oplus.account",
+  "size": 90352545,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 3988,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "软件商店_com.heytap.market.apk",
+  "label": "软件商店",
+  "pkg": "com.heytap.market",
+  "size": 70086404,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = HeyTap, OU = HeyTap, CN = HeyTapTeam, emailAddress = heytap@heytap.com",
+  "entries": 5171,
+  "vendor": "HeyTap"
+ },
+ {
+  "file": "软件更新_com.oplus.ota.apk",
+  "label": "软件更新",
+  "pkg": "com.oplus.ota",
+  "size": 12708633,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1790,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "输入设备_com.android.inputdevices.apk",
+  "label": "输入设备",
+  "pkg": "com.android.inputdevices",
+  "size": 303348,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 53,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "边角刘海屏_com.android.internal.display.cutout.emulation.corner.apk",
+  "label": "边角刘海屏",
+  "pkg": "com.android.internal.display.cutout.emulation.corner",
+  "size": 20830,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "运营商通知_com.android.carrierdefaultapp.apk",
+  "label": "运营商通知",
+  "pkg": "com.android.carrierdefaultapp",
+  "size": 209890,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 13,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "远程守护服务_com.coloros.remoteguardservice.apk",
+  "label": "远程守护服务",
+  "pkg": "com.coloros.remoteguardservice",
+  "size": 2833223,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 343,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "连接至 Windows_com.microsoft.appmanager.apk",
+  "label": "连接至 Windows",
+  "pkg": "com.microsoft.appmanager",
+  "size": 95237438,
+  "cert": "C = US, ST = Washington, L = Redmond, O = Microsoft Corporation, CN = Microsoft Corporation Third Party Marketplace Root",
+  "entries": 4137,
+  "vendor": "Microsoft"
+ },
+ {
+  "file": "通信网络工模_com.oplus.engineernetwork.apk",
+  "label": "通信网络工模",
+  "pkg": "com.oplus.engineernetwork",
+  "size": 17935329,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1506,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "通知管理_com.oplus.notificationmanager.apk",
+  "label": "通知管理",
+  "pkg": "com.oplus.notificationmanager",
+  "size": 22400673,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2222,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "通行密钥_com.fido.fido2client.apk",
+  "label": "通行密钥",
+  "pkg": "com.fido.fido2client",
+  "size": 8312702,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2095,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "通话管理_com.android.server.telecom.apk",
+  "label": "通话管理",
+  "pkg": "com.android.server.telecom",
+  "size": 32770649,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1650,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "速览_com.coloros.assistantscreen.apk",
+  "label": "速览",
+  "pkg": "com.coloros.assistantscreen",
+  "size": 82662361,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 4717,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "配套设备管理器_com.android.companiondevicemanager.apk",
+  "label": "配套设备管理器",
+  "pkg": "com.android.companiondevicemanager",
+  "size": 2584920,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 501,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "长型刘海屏_com.android.internal.display.cutout.emulation.tall.apk",
+  "label": "长型刘海屏",
+  "pkg": "com.android.internal.display.cutout.emulation.tall",
+  "size": 20830,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 5,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "随身工作台_com.oplus.owork.apk",
+  "label": "随身工作台",
+  "pkg": "com.oplus.owork",
+  "size": 9588605,
+  "cert": "subject=C = CN, ST = GuangDong, L = DongGuan, O = OPPO, OU = ColorOS, CN = AndroidTeam, emailAddress = oppo@oppo.com",
+  "entries": 2542,
+  "vendor": "OPPO"
+ },
+ {
+  "file": "骚扰拦截_com.oplus.blacklistapp.apk",
+  "label": "骚扰拦截",
+  "pkg": "com.oplus.blacklistapp",
+  "size": 9776709,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 2736,
+  "vendor": "Oplus"
+ },
+ {
+  "file": "默认打印服务_com.android.bips.apk",
+  "label": "默认打印服务",
+  "pkg": "com.android.bips",
+  "size": 8394159,
+  "cert": "C = CN, ST = GuangDong, L = DongGuan, O = Oplus, OU = OSTeam, CN = AndroidTeam, emailAddress = oplus@oplus.com",
+  "entries": 1880,
+  "vendor": "Oplus"
+ }
+]

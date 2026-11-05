@@ -1,0 +1,1133 @@
+{
+ "com.oplus.aiunit": {
+  "privacy_links": [
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/"
+  ],
+  "toggle_keys": [
+   "PREF_KEY_PRIVACY"
+  ]
+ },
+ "com.google.android.marvin.talkback": {
+  "privacy_links": [
+   "http://www.google.com/policies/privacy/",
+   "https://www.google.com/policies/privacy/",
+   "https://www.google.com/policies/terms/"
+  ],
+  "toggle_keys": []
+ },
+ "com.android.adservices.api": {
+  "privacy_links": [
+   "https://policies.google.com/privacy",
+   "https://publickeyservice.aws.privacysandboxservices.com/v1alpha/publicKeys",
+   "https://support.google.com/android?p=ad_privacy"
+  ],
+  "toggle_keys": [
+   "key_ad_id"
+  ]
+ },
+ "com.android.ext.adservices.api": {
+  "privacy_links": [
+   "https://policies.google.com/privacy",
+   "https://publickeyservice.aws.privacysandboxservices.com/v1alpha/publicKeys",
+   "https://support.google.com/android?p=ad_privacy"
+  ],
+  "toggle_keys": [
+   "key_ad_id"
+  ]
+ },
+ "com.oplus.ocar": {
+  "privacy_links": [
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/13001000/open_source_protocol.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_permissions_protocol_en_us.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_privacy_policy_en.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_privacy_policy_zh.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_privacy_policy_zh_hk.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_privacy_policy_zh_tw.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_third_party_list_en_us.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_third_party_list_zh.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_third_party_list_zh_hk.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_third_party_list_zh_tw.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_union_permissions_protocol_zh.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_union_user_protocol_en_us.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_union_user_protocol_zh.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_user_protocol_en_us.html",
+   "https://ocs-cn-south1.heytapcs.com/car-control/agreement/ocar_user_protocol_zh.html"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK",
+   "key_track"
+  ]
+ },
+ "com.heytap.opluscarlink": {
+  "privacy_links": [
+   "https://fourier-carcontrol-cn.coloros.com/authorization_agreement.html"
+  ],
+  "toggle_keys": [
+   "KEY_OAID",
+   "KEY_TRACK",
+   "USER_EXPERIENCE_IMPROVE",
+   "key_track"
+  ]
+ },
+ "com.opos.ads": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_AD_ID"
+  ]
+ },
+ "com.android.dynsystem": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KeyRevoke"
+  ]
+ },
+ "com.qualcomm.location": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.android.nfc": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_RECOMMEND",
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.acc.gac": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.ovoicemanager": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "PrivacySwitch"
+  ]
+ },
+ "com.oplus.olc": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.omoji": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "https://www.faceunity.com/policy.html"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oneplus.wallpaper": {
+  "privacy_links": [
+   "https://www.oneplus.com/global/legal/privacy-policy"
+  ],
+  "toggle_keys": []
+ },
+ "com.heytap.openid": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_OAID"
+  ]
+ },
+ "com.android.stk": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.sos": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK",
+   "collect_personal_info",
+   "key_withdraw",
+   "pref_key_collect"
+  ]
+ },
+ "com.oplus.smartengine": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.wifibackuprestore": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oneplus.camera.pictureprocessing": {
+  "privacy_links": [
+   "https://www.oneplus.com/global/legal/privacy-policy"
+  ],
+  "toggle_keys": []
+ },
+ "com.oplus.themestore": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "personalized_recommend"
+  ]
+ },
+ "com.heytap.pictorial": {
+  "privacy_links": [
+   "https://cgi.connect.qq.com/qqconnectopen/openapi/policy_conf",
+   "https://dhfs-test-cpc.wanyol.com/userfiles/uploads/jslib/magazine_user_agreement.html",
+   "https://dhfs.heytapimage.com/userfiles/uploads/jslib/magazine_user_agreement.html",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html"
+  ],
+  "toggle_keys": [
+   "KEY_AD_ID",
+   "KEY_TRACK",
+   "KEY_WITHDRAW",
+   "PersonalizedRecommend",
+   "PrivacySwitch",
+   "collect_personal_info",
+   "personalized_recommend"
+  ]
+ },
+ "com.heytap.cloud": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "KEY_OAID",
+   "KEY_TRACK",
+   "key_track"
+  ]
+ },
+ "com.android.mms": {
+  "privacy_links": [
+   "https://muc.heytap.com/agreement/privacy-policy/account/mainland/v20230829/index.html?language=%s"
+  ],
+  "toggle_keys": [
+   "KEY_AD_ID",
+   "KEY_OAID",
+   "KEY_RECOMMEND",
+   "KEY_TRACK",
+   "collect_personal_info",
+   "key_revoke",
+   "pref_key_collect",
+   "pref_key_privacy"
+  ]
+ },
+ "com.coloros.childrenspace": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_RECOMMEND",
+   "key_recommend"
+  ]
+ },
+ "com.heytap.quicksearchbox": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "KEY_AD_ID",
+   "KEY_TRACK",
+   "PERSONALIZED_RECOMMEND",
+   "PersonalizedRecommend",
+   "key_recommend",
+   "personalized_recommend"
+  ]
+ },
+ "com.oplus.upgradeguide": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.logkit": {
+  "privacy_links": [
+   "https://account.oneplus.com/cn/agreement_privacy?from=foot",
+   "https://www.oppo.com/cn/privacy-feedback"
+  ],
+  "toggle_keys": [
+   "KEY_WITHDRAW"
+  ]
+ },
+ "com.oplus.wallpapers": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "key_revoke"
+  ]
+ },
+ "com.heytap.colorfulengine": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.coloros.weather.service": {
+  "privacy_links": [
+   "http://m.weathercn.com/privacy.do",
+   "https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-h4h5-3hr4-j3g2",
+   "https://html5.moji.com/tpd/agreement/privacy-zh_CN.html",
+   "https://html5.moji.com/tpd/agreement/privacy-zh_TW.html",
+   "https://www.oneplus.com/us/legal/state-privacy-policy",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback",
+   "https://www.realme.com/global/privacy-feedback"
+  ],
+  "toggle_keys": [
+   "KEY_OAID",
+   "key_track"
+  ]
+ },
+ "com.android.providers.media.module": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": []
+ },
+ "com.coloros.video": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.coloros.securityguard": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.pay": {
+  "privacy_links": [
+   "https://muc.heytap.com/agreement/app-permission/pay/mainland/newest/index.html?language=zh-CN",
+   "https://muc.heytap.com/agreement/privacy-policy/pay/mainland/final/index.html?language=zh-CN",
+   "https://muc.heytap.com/agreement/shared-list/pay/mainland/newest/index.html?language=zh-CN"
+  ],
+  "toggle_keys": [
+   "KEY_ADID",
+   "KEY_TRACK"
+  ]
+ },
+ "com.coloros.codebook": {
+  "privacy_links": [
+   "https://muc.heytap.com/document/account/auth/authProtocol_en-US.html",
+   "https://muc.heytap.com/document/account/auth/authProtocol_zh-CN.html",
+   "https://muc.heytap.com/document/account/auth/authProtocol_zh-HK.html",
+   "https://muc.heytap.com/document/account/auth/authProtocol_zh-TW.html"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.heytap.speechassist": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "CollectPersonalInfo",
+   "KEY_ADID",
+   "KEY_AD_ID",
+   "KEY_RECOMMEND",
+   "KEY_STATISTIC",
+   "KEY_TRACK",
+   "PrivacySwitch",
+   "USER_EXPERIENCE_IMPROVE",
+   "collect_personal_info",
+   "key_personalize",
+   "personalized_recommend",
+   "user_experience_improve"
+  ]
+ },
+ "com.coloros.ocrscanner": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK",
+   "KEY_WITHDRAW",
+   "collect_personal_info",
+   "key_improve",
+   "key_withdraw"
+  ]
+ },
+ "com.oplus.screenrecorder": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.engineermode": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK",
+   "KEY_USAGE_DATA"
+  ]
+ },
+ "com.coloros.operationManual": {
+  "privacy_links": [
+   "https://cgi.connect.qq.com/qqconnectopen/openapi/policy_conf",
+   "https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_zh-CN.html",
+   "https://privacy.weibo.com/policy",
+   "https://support.oppo.com/cn/privacy-detail/",
+   "https://www.oppo.com/cn/privacy-feedback/"
+  ],
+  "toggle_keys": [
+   "PersonalInfoCollect",
+   "personal_info_collect"
+  ]
+ },
+ "com.oplus.cosa": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.appdetail": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_AD_ID"
+  ]
+ },
+ "com.google.android.accessibility.switchaccess": {
+  "privacy_links": [
+   "https://www.google.com/policies/privacy/"
+  ],
+  "toggle_keys": [
+   "pref_key_privacy"
+  ]
+ },
+ "com.coloros.bootreg": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "https://account.oneplus.com/cn/agreement_privacy?from=foot",
+   "https://account.oneplus.com/cn/agreement_privacy?from=foot-",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html)",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html-",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html.",
+   "https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_en-US.html)",
+   "https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_en-US.html).",
+   "https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_en-US.htmll)",
+   "https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_en-US.htmll).",
+   "https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_zh-CN.html",
+   "https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_zh-CN.html)",
+   "https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy'",
+   "https://privacy.oppo.com/cn/policy",
+   "https://privacy.oppo.com/cn/policy/",
+   "https://www.oppo.com/cn/privacy-feedback",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/cn/privacy-feedback/)",
+   "https://www.oppo.com/cn/privacy-feedback/-",
+   "https://www.oppo.com/cn/privacy-feedback/.",
+   "https://www.oppo.com/en/privacy-feedback.",
+   "https://www.oppo.com/en/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/)",
+   "https://www.oppo.com/en/privacy-feedback/-",
+   "https://www.oppo.com/en/privacy-feedback/.",
+   "https://www.oppo.com/fr/privacy-feedback/."
+  ],
+  "toggle_keys": [
+   "KEY_ADID",
+   "KEY_IMPROVE",
+   "KEY_TRACK"
+  ]
+ },
+ "com.nearme.instant.platform": {
+  "privacy_links": [
+   "http://m.weibo.cn/reg/privacyagreement?from=h5&wm=3349",
+   "http://m.weibo.cn/reg/privacyagreement?from=h5&wm=3349&lang=",
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "http://weibo.cn/dpool/ttt/h5/regagreement.php?from=h5",
+   "http://weibo.cn/dpool/ttt/h5/regagreement.php?from=h5&lang=",
+   "https://cgi.connect.qq.com/qqconnectopen/openapi/policy_conf",
+   "https://ie-activity-cn.heytapimage.com/static/202208/15/policy/dist/index.html",
+   "https://jits5.heytapdownload.com/cms-jits-heytapmobi-com/var/jits/engine/h5/agreement_en.html",
+   "https://jits5.heytapdownload.com/cms-jits-heytapmobi-com/var/jits/engine/h5/agreement_zh.html",
+   "https://jits5.heytapdownload.com/cms-jits-heytapmobi-com/var/jits/engine/h5/agreement_zh_hk.html",
+   "https://jits5.heytapdownload.com/cms-jits-heytapmobi-com/var/jits/engine/h5/agreement_zh_tw.html",
+   "https://m.baidu.com/sf?pd=sd_privacy_terms&ms=1&ms=1&word=%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E&title=%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E&openapi=1&from_sf=1&resource_id=37483&dsp=iphone&tn=wisexmlnew&ext=%7B"
+  ],
+  "toggle_keys": [
+   "KEY_ADID",
+   "KEY_AD_ID",
+   "KEY_RECOMMEND",
+   "KEY_STATISTIC",
+   "KEY_TRACK",
+   "USER_EXPERIENCE_IMPROVE"
+  ]
+ },
+ "com.oplus.screenshot": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_STATISTIC",
+   "pref_key_privacy"
+  ]
+ },
+ "com.oplus.cast": {
+  "privacy_links": [
+   "https://cdn.hpplay.com.cn/xm/privacy.html"
+  ],
+  "toggle_keys": []
+ },
+ "com.coloros.phonemanager": {
+  "privacy_links": [
+   "https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-h4h5-3hr4-j3g2",
+   "https://www.avast.com/privacy-policy",
+   "https://www.avast.com/privacy-policy'",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback",
+   "https://www.realme.com/cn/privacy-feedback/",
+   "https://www.realme.com/global/privacy-feedback",
+   "https://www.realme.com/global/privacy-feedback/"
+  ],
+  "toggle_keys": [
+   "CollectPersonalInfo",
+   "KEY_AD_ID",
+   "KEY_RECOMMEND",
+   "KEY_STATISTIC",
+   "KEY_TRACK",
+   "KEY_WITHDRAW",
+   "PRIVACY_SWITCH",
+   "PersonalizedRecommend",
+   "PrivacySwitch",
+   "USER_EXPERIENCE_IMPROVE",
+   "collect_personal_info",
+   "key_track",
+   "personalizedRecommend"
+  ]
+ },
+ "com.oplus.cardigitalkey": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK",
+   "KeyTrack",
+   "keyTrack",
+   "key_track"
+  ]
+ },
+ "com.oplus.metis": {
+  "privacy_links": [
+   "http://jena.hpl.hp.com/schemas/2003/03/ont-manager#DocumentManagerPolicy",
+   "http://purl.org/dc/terms/",
+   "http://purl.org/dc/terms/Agent",
+   "http://purl.org/dc/terms/AgentClass",
+   "http://purl.org/dc/terms/BibliographicResource",
+   "http://purl.org/dc/terms/FileFormat",
+   "http://purl.org/dc/terms/Frequency",
+   "http://purl.org/dc/terms/Jurisdiction",
+   "http://purl.org/dc/terms/LicenseDocument",
+   "http://purl.org/dc/terms/LinguisticSystem",
+   "http://purl.org/dc/terms/Location",
+   "http://purl.org/dc/terms/LocationPeriodOrJurisdiction",
+   "http://purl.org/dc/terms/MediaType",
+   "http://purl.org/dc/terms/MediaTypeOrExtent",
+   "http://purl.org/dc/terms/MethodOfAccrual",
+   "http://purl.org/dc/terms/MethodOfInstruction",
+   "http://purl.org/dc/terms/PeriodOfTime",
+   "http://purl.org/dc/terms/PhysicalMedium",
+   "http://purl.org/dc/terms/PhysicalResource",
+   "http://purl.org/dc/terms/Policy",
+   "http://purl.org/dc/terms/ProvenanceStatement",
+   "http://purl.org/dc/terms/RightsStatement",
+   "http://purl.org/dc/terms/SizeOrDuration",
+   "http://purl.org/dc/terms/Standard",
+   "http://purl.org/dc/terms/abstract",
+   "http://purl.org/dc/terms/accessRights",
+   "http://purl.org/dc/terms/accrualMethod",
+   "http://purl.org/dc/terms/accrualPeriodicity",
+   "http://purl.org/dc/terms/accrualPolicy",
+   "http://purl.org/dc/terms/alternative",
+   "http://purl.org/dc/terms/audience",
+   "http://purl.org/dc/terms/available",
+   "http://purl.org/dc/terms/bibliographicCitation",
+   "http://purl.org/dc/terms/conformsTo",
+   "http://purl.org/dc/terms/contributor",
+   "http://purl.org/dc/terms/coverage",
+   "http://purl.org/dc/terms/created",
+   "http://purl.org/dc/terms/creator",
+   "http://purl.org/dc/terms/date",
+   "http://purl.org/dc/terms/dateAccepted",
+   "http://purl.org/dc/terms/dateCopyrighted",
+   "http://purl.org/dc/terms/dateSubmitted",
+   "http://purl.org/dc/terms/description",
+   "http://purl.org/dc/terms/educationLevel",
+   "http://purl.org/dc/terms/extent",
+   "http://purl.org/dc/terms/format",
+   "http://purl.org/dc/terms/hasFormat",
+   "http://purl.org/dc/terms/hasPart",
+   "http://purl.org/dc/terms/hasVersion",
+   "http://purl.org/dc/terms/identifier",
+   "http://purl.org/dc/terms/instructionalMethod",
+   "http://purl.org/dc/terms/isFormatOf",
+   "http://purl.org/dc/terms/isPartOf",
+   "http://purl.org/dc/terms/isReferencedBy",
+   "http://purl.org/dc/terms/isReplacedBy",
+   "http://purl.org/dc/terms/isRequiredBy",
+   "http://purl.org/dc/terms/isVersionOf",
+   "http://purl.org/dc/terms/issued",
+   "http://purl.org/dc/terms/language",
+   "http://purl.org/dc/terms/license",
+   "http://purl.org/dc/terms/mediator",
+   "http://purl.org/dc/terms/medium",
+   "http://purl.org/dc/terms/modified",
+   "http://purl.org/dc/terms/provenance",
+   "http://purl.org/dc/terms/publisher",
+   "http://purl.org/dc/terms/references",
+   "http://purl.org/dc/terms/relation",
+   "http://purl.org/dc/terms/replaces",
+   "http://purl.org/dc/terms/requires",
+   "http://purl.org/dc/terms/rights",
+   "http://purl.org/dc/terms/rightsHolder",
+   "http://purl.org/dc/terms/source",
+   "http://purl.org/dc/terms/spatial",
+   "http://purl.org/dc/terms/subject",
+   "http://purl.org/dc/terms/tableOfContents",
+   "http://purl.org/dc/terms/temporal",
+   "http://purl.org/dc/terms/title",
+   "http://purl.org/dc/terms/type",
+   "http://purl.org/dc/terms/valid",
+   "http://www.w3.org/TR/rdf-syntax-grammar#coreSyntaxTerms",
+   "http://www.w3.org/TR/rdf-syntax-grammar#oldTerms",
+   "http://www.w3.org/TR/rdf-syntax-grammar#syntaxTerms",
+   "https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-h4h5-3hr4-j3g2",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/"
+  ],
+  "toggle_keys": [
+   "KEY_RECOMMEND",
+   "KEY_TRACK",
+   "PrivacySwitch",
+   "key_track"
+  ]
+ },
+ "com.oplus.pantanal.ums": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "http://www.qunar.com/site/zh/privacy.shtml",
+   "http://www.umetrip.com/PrivacyOptimization/privacy.html",
+   "https://about.jd.com/privacy/",
+   "https://activity-cpc.heytapimage.com/userfiles/uploads/assistantscreenpipl/assistantscreen_app_user_agreement_21c8653c.html?language=",
+   "https://appstatic.ankerjiedian.com/app/dist/privacy.html",
+   "https://cftweb.3g.qq.com/privacy/agreement?appid=52482835",
+   "https://contents.ctrip.com/huodong/privacypolicypc/index?type=1",
+   "https://kyfw.12306.cn/otn/gonggao/PrivacyPolicy.html",
+   "https://lbs.amap.com/pages/privacy/",
+   "https://ma.pupumall.com/docs/private_policy",
+   "https://map.baidu.com/zt/client/privacy/index.html",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html",
+   "https://page.udache.com/driver-activity-biz/baichuan-policy-agreement/index.html?mode=1&cnt_id=22082002733#/xpub",
+   "https://render.alipay.com/p/yuyan/180020010000960013/policy.html",
+   "https://static.ccrgt.com/doc/privacy.html",
+   "https://static.ccrgt.com/doc/privacy_crgt.html",
+   "https://static.umetrip.com/PrivacyOptimization/privacy.html",
+   "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201903051859_43484.html?spm=a2f95.17632747.0.0.501a30d7A1qczW",
+   "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html",
+   "https://www.ly.com/public/Lawprotocols",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/",
+   "https://www.realme.com/en/privacy-feedback/",
+   "https://www.sanmaoyou.com/index.php/Home2/index/privacypolicy.html",
+   "https://www.tripadvisor.cn/common/footer/privacy"
+  ],
+  "toggle_keys": [
+   "CollectPersonalInfo",
+   "KEY_OAID",
+   "KEY_RECOMMEND",
+   "KEY_TRACK",
+   "PersonalizedRecommend",
+   "PrivacySwitch",
+   "collect_personal_info",
+   "privacySwitch"
+  ]
+ },
+ "com.coloros.sceneservice": {
+  "privacy_links": [
+   "http://www.qunar.com/site/zh/privacy.shtml",
+   "http://www.umetrip.com/PrivacyOptimization/privacy.html",
+   "https://about.jd.com/privacy/",
+   "https://activity-cpc.heytapimage.com/userfiles/uploads/assistantscreenpipl/assistantscreen_app_user_agreement_21c8653c.html?language=",
+   "https://appstatic.ankerjiedian.com/app/dist/privacy.html",
+   "https://cftweb.3g.qq.com/privacy/agreement?appid=52482835",
+   "https://contents.ctrip.com/huodong/privacypolicypc/index?type=1",
+   "https://kyfw.12306.cn/otn/gonggao/PrivacyPolicy.html",
+   "https://lbs.amap.com/pages/privacy/",
+   "https://ma.pupumall.com/docs/private_policy",
+   "https://map.baidu.com/zt/client/privacy/index.html",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html",
+   "https://page.udache.com/driver-activity-biz/baichuan-policy-agreement/index.html?mode=1&cnt_id=22082002733#/xpub",
+   "https://render.alipay.com/p/yuyan/180020010000960013/policy.html",
+   "https://static.ccrgt.com/doc/privacy.html",
+   "https://static.ccrgt.com/doc/privacy_crgt.html",
+   "https://static.umetrip.com/PrivacyOptimization/privacy.html",
+   "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_other/suit_bu1_other201903051859_43484.html?spm=a2f95.17632747.0.0.501a30d7A1qczW",
+   "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html",
+   "https://www.ly.com/public/Lawprotocols",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/",
+   "https://www.realme.com/en/privacy-feedback/",
+   "https://www.sanmaoyou.com/index.php/Home2/index/privacypolicy.html",
+   "https://www.tripadvisor.cn/common/footer/privacy"
+  ],
+  "toggle_keys": [
+   "CollectPersonalInfo",
+   "KEY_OAID",
+   "KEY_RECOMMEND",
+   "KEY_TRACK",
+   "PrivacySwitch",
+   "collectPersonalInfo",
+   "collect_personal_info"
+  ]
+ },
+ "com.oplus.deepthinker": {
+  "privacy_links": [
+   "https://developers.google.com/protocol-buffers/",
+   "https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-h4h5-3hr4-j3g2",
+   "https://issues.apache.org/jira/browse/LEGAL-175.",
+   "https://lbsyun.baidu.com/index.php?title=openprivacy",
+   "https://lbsyun.baidu.com/index.php?title=openprivacy.",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/."
+  ],
+  "toggle_keys": [
+   "KEY_RECOMMEND"
+  ]
+ },
+ "com.oplus.audiomonitor": {
+  "privacy_links": [
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/",
+   "https://www.oppo.com/tw/privacy-feedback/"
+  ],
+  "toggle_keys": []
+ },
+ "com.coloros.smartsidebar": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_RECOMMEND",
+   "key_recommend",
+   "personalized_recommend"
+  ]
+ },
+ "com.ted.number": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_STATISTIC"
+  ]
+ },
+ "com.android.permissioncontroller": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.securitypermission": {
+  "privacy_links": [
+   "https://www.oppo.com/cn/privacy-feedback/"
+  ],
+  "toggle_keys": [
+   "key_recommend",
+   "privacy_switch"
+  ]
+ },
+ "com.coloros.findmyphone": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK",
+   "collect_personal_info",
+   "pref_key_collect",
+   "pref_key_privacy"
+  ]
+ },
+ "com.oplus.trafficmonitor": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.heytap.browser": {
+  "privacy_links": [
+   "http://cgi.connect.qq.com/qqconnectopen/openapi/policy_conf",
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "https://sf1-amtos-cdn.bytesmanager.com/obj/ad-app-package/personal-privacy-page.html",
+   "https://sf6-ttcdn-tos.pstatp.com/obj/ad-tetris-site/personal-privacy-page.html",
+   "https://www.pangle.cn/privacy/partner"
+  ],
+  "toggle_keys": [
+   "CollectPersonalInfo",
+   "KEY_AD_ID",
+   "KEY_AD_PERSONAL",
+   "KEY_OAID",
+   "PRIVACY_SWITCH",
+   "PrivacySwitch",
+   "collectPersonalInfo",
+   "collect_personal_info",
+   "key_recommend",
+   "personalInfoCollect",
+   "personal_info_collect",
+   "personalized_recommend",
+   "pref_key_collect",
+   "privacy_switch"
+  ]
+ },
+ "com.oplus.battery": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_RECOMMEND"
+  ]
+ },
+ "com.android.phone": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "PERSONAL_INFO_COLLECT",
+   "PersonalInfoCollect",
+   "PrivacySwitch",
+   "personal_info_collect"
+  ]
+ },
+ "com.android.contacts": {
+  "privacy_links": [
+   "https://muc.heytap.com/agreement/privacy-policy/account/mainland/v20230829/index.html?language=%s"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK",
+   "key_revoke"
+  ]
+ },
+ "com.oplus.uiengine": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "oppo": {
+  "privacy_links": [
+   "https://cgi.connect.qq.com/qqconnectopen/openapi/policy_conf",
+   "https://ms.zzx9.cn/html/oauth/protocol2.html",
+   "https://privacy.baidu.com/policy/children-privacy-policy/index.html",
+   "https://srf.baidu.com/privacy/oppo/index.html",
+   "https://wappass.baidu.com/passport/agreement?adapter=3",
+   "https://wappass.baidu.com/passport/agreement?personal=1&adapter=3",
+   "https://www.facemojikeyboard.com/page/privacy/googleplay/privacy.html",
+   "https://www.facemojikeyboard.com/page/terms/facemoji_agreement.html"
+  ],
+  "toggle_keys": [
+   "KEY_PERSONALIZE",
+   "KEY_RECOMMEND",
+   "KEY_STATISTIC",
+   "key_Personalize",
+   "key_WITHDRAW",
+   "key_statistic",
+   "pref_key_PRIVACY",
+   "pref_key_privacy"
+  ]
+ },
+ "com.coloros.gallery3d": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-h4h5-3hr4-j3g2",
+   "https://map.baidu.com/zt/client/privacy/index.html",
+   "https://muc.heytap.com/agreement/privacy-policy/account/mainland/v20240331/index.html?language=%s",
+   "https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy",
+   "https://www.meishesdk.com/privacy-v2.html",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.realme.com/global/privacy-feedback"
+  ],
+  "toggle_keys": [
+   "KEY_OAID",
+   "KEY_RECOMMEND",
+   "KEY_STATISTIC",
+   "KEY_TRACK",
+   "PERSONAL_INFO_COLLECT",
+   "PersonalInfoCollect",
+   "key_oaid",
+   "key_recommend",
+   "personal_info_collect",
+   "pref_key_privacy"
+  ]
+ },
+ "com.oneplus.camera": {
+  "privacy_links": [
+   "https://www.oneplus.com/global/legal/privacy-policy"
+  ],
+  "toggle_keys": []
+ },
+ "com.oplus.encryption": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "COLLECT_PERSONAL_INFO",
+   "CollectPersonalInfo",
+   "KEY_TRACK",
+   "collect_personal_info"
+  ]
+ },
+ "com.heytap.htms": {
+  "privacy_links": [
+   "https://cdofs.heytapimage.com/cdo-activity/static/gamecenter/sdk/doc/child-privacy.html?c=0",
+   "https://muc.heytap.com/agreement/app-permission/pay/mainland/newest/index.html?language=zh-CN",
+   "https://muc.heytap.com/agreement/privacy-policy/pay/mainland/final/index.html?language=zh-CN",
+   "https://muc.heytap.com/agreement/shared-list/pay/mainland/newest/index.html?language=zh-CN",
+   "https://muc.heytap.com/document/heytap/oversea/privacyPolicy/privacyPolicy_",
+   "https://uc-heytap-html.ucnewtest.wanyol.com/document/heytap/oversea/privacyPolicy/privacyPolicy_"
+  ],
+  "toggle_keys": [
+   "KEY_ADID",
+   "KEY_TRACK",
+   "KEY_WITHDRAW",
+   "USER_EXPERIENCE_IMPROVE",
+   "key_track"
+  ]
+ },
+ "com.heytap.tas": {
+  "privacy_links": [
+   "https://base.95516.com/s/wl/WebAPP/helpAgree/page/agreement/user.html?cntryCode=86",
+   "https://rwallet-test1.wanyol.com/platform-front/agreement/protocol/?type=personal&wbff=true",
+   "https://rwallet-test1.wanyol.com/platform-front/agreement/protocol/?type=secret&wbff=true",
+   "https://rwallet-test2.wanyol.com/platform-front/agreement/download/?type=personal&wbff=true",
+   "https://rwallet-test2.wanyol.com/platform-front/agreement/download/?type=secret&wbff=true",
+   "https://rwallet.finzfin.com/platform-front/agreement/download/?type=personal&wbff=true",
+   "https://rwallet.finzfin.com/platform-front/agreement/download/?type=secret&wbff=true",
+   "https://rwallet.finzfin.com/platform-front/agreement/protocol/?type=personal&wbff=true",
+   "https://rwallet.finzfin.com/platform-front/agreement/protocol/?type=secret&wbff=true"
+  ],
+  "toggle_keys": [
+   "KEY_ADID",
+   "KEY_OAID",
+   "KEY_STATISTIC",
+   "KEY_TRACK",
+   "keyRecommend",
+   "key_track",
+   "personalized_recommend"
+  ]
+ },
+ "com.oplus.exsystemservice": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.android.launcher": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_RECOMMEND",
+   "KEY_REVOKE",
+   "PRIVACY_SWITCH",
+   "PrivacySwitch",
+   "key_revoke",
+   "privacy_switch"
+  ]
+ },
+ "com.heytap.mcs": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_STATISTIC",
+   "KEY_TRACK",
+   "USER_EXPERIENCE_IMPROVE"
+  ]
+ },
+ "com.android.systemui": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_RECOMMEND",
+   "KEY_SMART_SERVICE",
+   "KEY_TRACK",
+   "PrivacySwitch"
+  ]
+ },
+ "com.oplus.location": {
+  "privacy_links": [
+   "https://lbs.qq.com/userAgreements/",
+   "https://lbs.qq.com/userAgreements/agreements/rtkSdkPrivacy",
+   "https://newclient.map.baidu.com/client/mecppartner/privacy/nlpprivacy",
+   "https://privacy.qq.com/document/preview/",
+   "https://privacy.qq.com/document/preview/dbd484ce652c486cb6d7e43ef12cefb0",
+   "https://www.oneplus.com/cn/agreement_privacy",
+   "https://www.qxwz.com/terms/statement"
+  ],
+  "toggle_keys": [
+   "key_track"
+  ]
+ },
+ "com.oplus.nas": {
+  "privacy_links": [
+   "http://jena.hpl.hp.com/schemas/2003/03/ont-manager#DocumentManagerPolicy",
+   "http://purl.org/dc/terms/",
+   "http://www.w3.org/TR/rdf-syntax-grammar#coreSyntaxTerms",
+   "http://www.w3.org/TR/rdf-syntax-grammar#oldTerms",
+   "http://www.w3.org/TR/rdf-syntax-grammar#syntaxTerms",
+   "http://xml.org/sax/properties/declaration-handler"
+  ],
+  "toggle_keys": [
+   "KEY_RECOMMEND",
+   "KEY_TRACK"
+  ]
+ },
+ "com.android.providers.contacts": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KeyStatistic"
+  ]
+ },
+ "com.heytap.accessory": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.android.settings": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_COLLECT_DIAG",
+   "KEY_OAID",
+   "KEY_PERSONALIZE",
+   "KEY_RECOMMEND",
+   "KEY_TRACK",
+   "KEY_USER_EXPERIENCE",
+   "key_collect_diag",
+   "key_personalize",
+   "key_recommend",
+   "key_track",
+   "key_user_experience"
+  ]
+ },
+ "com.coloros.colordirectservice": {
+  "privacy_links": [
+   "https://oppo-h5.allsaints.top/#/privacy-policy_v1_0.html",
+   "https://platform.stepfun.com/legal/privacy-policy.html",
+   "https://www.oppo.com/cn/legal/form/",
+   "https://www.oppo.com/cn/legal/form/)",
+   "https://www.oppo.com/cn/legal/form/."
+  ],
+  "toggle_keys": [
+   "CollectPersonalInfo",
+   "KEY_TRACK",
+   "PrivacySwitch",
+   "collect_personal_info"
+  ]
+ },
+ "com.oneplus.voicewakeup": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.coloros.accessibilityassistant": {
+  "privacy_links": [
+   "https://muc.heytap.com/agreement/privacy-policy/account/mainland/main/index.html?language=zh-CN",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/"
+  ],
+  "toggle_keys": [
+   "CollectPersonalInfo",
+   "collect_personal_info"
+  ]
+ },
+ "com.oplus.account": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "https://cgi.connect.qq.com/qqconnectopen/openapi/policy_conf"
+  ],
+  "toggle_keys": [
+   "KEY_ADID",
+   "KEY_STATISTIC",
+   "KEY_TRACK",
+   "KeyStatistic"
+  ]
+ },
+ "com.heytap.market": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense"
+  ],
+  "toggle_keys": [
+   "KEY_AD_ID",
+   "KEY_OAID",
+   "KEY_RECOMMEND",
+   "KEY_TRACK",
+   "PersonalInfoCollect",
+   "USER_EXPERIENCE_IMPROVE",
+   "keyTrack",
+   "key_track",
+   "personal_info_collect",
+   "personalinfocollect",
+   "personalized_recommend"
+  ]
+ },
+ "com.microsoft.appmanager": {
+  "privacy_links": [
+   "https://firebase.google.com/support/privacy/init-options."
+  ],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.oplus.engineernetwork": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ },
+ "com.android.server.telecom": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_DIAGNOSTIC"
+  ]
+ },
+ "com.coloros.assistantscreen": {
+  "privacy_links": [
+   "http://schemas.microsoft.com/DRM/2007/03/protocols/AcquireLicense",
+   "http://www.qunar.com/site/zh/privacy.shtml",
+   "http://www.umetrip.com/PrivacyOptimization/privacy.html",
+   "https://activity-cpc.heytapimage.com/userfiles/uploads/assistantscreenpipl/assistantscreen_app_user_agreement_21c8653c.html?language=",
+   "https://appstatic.ankerjiedian.com/app/dist/privacy.html",
+   "https://cftweb.3g.qq.com/privacy/agreement?appid=52482835",
+   "https://contents.ctrip.com/huodong/privacypolicypc/index?type=1",
+   "https://lbs.amap.com/pages/privacy/",
+   "https://map.baidu.com/zt/client/privacy/index.html",
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html",
+   "https://static.ccrgt.com/doc/privacy.html",
+   "https://static.umetrip.com/PrivacyOptimization/privacy.html",
+   "https://www.ly.com/public/Lawprotocols",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/",
+   "https://www.sanmaoyou.com/index.php/Home2/index/privacypolicy.html"
+  ],
+  "toggle_keys": [
+   "COLLECT_PERSONAL_INFO",
+   "CollectPersonalInfo",
+   "KEY_ADID",
+   "KEY_AD_ID",
+   "KEY_TRACK",
+   "PrivacySwitch",
+   "collect_personal_info",
+   "key_recommend"
+  ]
+ },
+ "com.oplus.owork": {
+  "privacy_links": [
+   "https://muc.heytap.com/document/heytap/accountPolicyUpdate/accountSDK/privacyPolicySdk_zh-CN.html",
+   "https://privacy.wps.cn/policies/privacy/kdocs",
+   "https://www.kdocs.cn/privacy/privacyprotect",
+   "https://www.oppo.com/cn/privacy-feedback/",
+   "https://www.oppo.com/en/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/",
+   "https://www.realme.com/cn/privacy-feedback/./",
+   "https://www.realme.com/en/privacy-feedback/"
+  ],
+  "toggle_keys": []
+ },
+ "com.oplus.blacklistapp": {
+  "privacy_links": [],
+  "toggle_keys": [
+   "KEY_TRACK"
+  ]
+ }
+}

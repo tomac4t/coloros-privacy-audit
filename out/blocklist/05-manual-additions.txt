@@ -1,0 +1,11 @@
+# 手动补充的域名
+# 这些不在静态扫描结果里（被 XOR 编码 / 动态拼接 / 运行时生成），
+# 但在反编译中被确认存在，需要手工加入黑名单。
+
+# ── 来自 u5/n.java:113 (DomainManager.i())，XOR 0x08 解码 ──
+# private static final int f9699d 分支（devTools 环境），release 不生效但兜底
+dcc-httpdns-cn.wanyol.com
+
+# ── 同上，测试/内网同族（防御性）──
+httpdns.wanyol.com
+ocloud-httpdns-cn.wanyol.com
