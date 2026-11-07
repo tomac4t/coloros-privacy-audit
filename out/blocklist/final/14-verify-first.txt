@@ -1,0 +1,27 @@
+# ══════════════════════════════════════════════════════════════
+# 需先真机验证再决定
+# ══════════════════════════════════════════════════════════════
+
+# ──────────────────────────────────────────────────────────────
+# 1. crashbox 崩溃上传域名 —— 代码里没有，存 Settings
+# 先查这四个 key，看到了再决定拦不拦
+# ──────────────────────────────────────────────────────────────
+# adb shell settings get secure com.oplus.eap.release_host
+# adb shell settings get secure com.oplus.eap.pre_host
+# adb shell settings get secure com.oplus.eap.cloud_storage_release_host_v3
+# adb shell settings get secure com.oplus.eap.cloud_storage_pre_host
+
+# ──────────────────────────────────────────────────────────────
+# 2. 埋点真实上报域名 —— 由 mdp-appconf*.heytapdl.com 动态下发
+# 代码里看到的可能不是实际域名，必须抓包看 SNI
+# ──────────────────────────────────────────────────────────────
+# adb shell settings get system com.oplus.dcs.data.url
+# adb shell settings get system com.oplus.dcs.tech.url
+# adb shell settings get system com.oplus.dcs.eap.url
+
+# ──────────────────────────────────────────────────────────────
+# 3. 待确认归属
+# ──────────────────────────────────────────────────────────────
+# fnos.net                            # 相册 3 次命中，疑似用户自己的飞牛 NAS 分享
+# comsec-intelligence-cn.heytapmobi.com  # ted.number 常量，用途未知
+# aos.wanyol.com                      # 未查

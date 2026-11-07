@@ -1,0 +1,83 @@
+# B 组「互联网服务」新增黑名单
+# 来源：phase10 反编译扫描（18 个包，32 万 Java 文件）
+# 生成：2026-11-05
+
+# ══════════════════════════════════════════════════════════
+# 【第一段】OPPO 自家追踪/广告类 —— 建议直接拦
+# ══════════════════════════════════════════════════════════
+
+# AI/图片上云
+aiscan.ocloud.heytapmobi.com
+# IoT 设备数据
+iot-heythings-cn.heytapimage.com
+iot-lc-cn.heytapmobi.com
+smarthome.iot.heytapmobi.com
+# 游戏联运/广告
+gameunion.heytapimage.com
+gl-gamesdk.oppomobile.com
+isdk.heytapmobi.com
+# 分析/推荐
+euler-saas-cn.heytapmobi.com
+nebula-api-cn.heytapmobi.com
+bot-ttscloud-cn.heytapmobi.com
+breeno.apps.coloros.com
+smartcard.apps.coloros.com
+sceneservice-model.coloros.com
+# 内容推荐（一点资讯）
+heytap.go2yd.com
+heytap.yidianzixun.com
+oppo.yidianzixun.com
+nearme.yidianzixun.com
+oplus.yidianzixun.com
+# 其他
+vip.heytap.pictorial.com
+oppo-mbi.allsaintsmusic.com
+nearme.atlas.com
+heytap.cn
+
+# ══════════════════════════════════════════════════════════
+# 【第二段】百度 —— 只拦追踪/广告/HTTPDNS，不拦内核和地图
+# ══════════════════════════════════════════════════════════
+
+# 百度统计/日志
+als.baidu.com
+hmma.baidu.com
+pimlog.baidu.com
+pimc.baidu.com
+pimc2.baidu.com
+# 百度广告
+mobads.baidu.com
+mobads-logs.baidu.com
+bzclk.baidu.com
+bxzclk.baidu.com
+# 拍照识图（上传图片）
+graph.baidu.com
+# ★ 百度 HTTPDNS（绕过系统 DNS）
+httpsdns.baidu.com
+
+# ⚠️ 以下【不要拦】—— 拦了浏览器/搜索/小布会坏
+# browserkernel.baidu.com   浏览器内核
+# api.map.baidu.com         地图
+# loc.map.baidu.com         定位
+# ofloc.map.baidu.com       离线定位
+# daup.map.baidu.com        定位上报（可考虑拦）
+# m.baidu.com / www.baidu.com  搜索结果
+
+# ══════════════════════════════════════════════════════════
+# 【第三段】高德 —— 只拦广告和上报
+# ══════════════════════════════════════════════════════════
+
+adiu.amap.com
+apilocate.amap.com
+yuntuapi.amap.com
+abroad.apilocate.amap.com
+
+# ⚠️ 不要拦：restapi.amap.com / lbs.amap.com / restsdk.amap.com（功能依赖）
+
+# ══════════════════════════════════════════════════════════
+# 【第四段】腾讯 —— 只拦统计
+# ══════════════════════════════════════════════════════════
+
+bugly.qq.com
+astat.bugly.qcloud.com
+astat.bugly.cros.wr.pvp.net

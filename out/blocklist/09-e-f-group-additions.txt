@@ -1,0 +1,42 @@
+# E/F 组新增黑名单
+# 来源：phase13 反编译扫描（10 个包，7.6 万 Java 文件）
+# 生成：2026-11-06
+
+# ══════════════════════════════════════════════════════════
+# 【F 组 · 相册 OCR 云端上传】★ 核心发现
+# 系统 OCR 服务 com.coloros.ocrservice 把图片以 JPEG-100 上传
+# 相册「超级文本/识别文字」默认就走云端（z=true 硬编码）
+# 定时文本索引默认 7 秒超时即上传（cloudResultTimeOut=7）
+# 屏蔽后：降级为本地 OCR，功能不失败，准确率略降
+# ══════════════════════════════════════════════════════════
+aiscan.ocloud.heytapmobi.com              # 点击识别 OCR（上传 JPEG-100 + IMEI）
+airecognition-ocr-cn.heytapmobi.com       # 定时文本索引（上传 image.jpg + 机型）
+aitool-cuiocr-cn.heytapmobi.com           # OCR 工具
+aitool-curocr-cn.wanyol.com               # OCR 工具（测试环境）
+
+# 【敏感证件】身份证识别，慎用则拦
+album-idcard.heytapmobi.com
+
+# ══════════════════════════════════════════════════════════
+# 【E 组 · 运营商合规】
+# ══════════════════════════════════════════════════════════
+# 入网备案：明文上报 IMEI1/IMEI2/MEID/IMSI/ICCID/MAC/基站ID
+# ⚠️ 工信部合规要求，拦截可能影响入网备案
+zzhc.vnet.cn
+
+# 智能识别陌生号码的 crypto host（号码库加密下发）
+tel-num-cn.heytapmobi.com
+
+# ══════════════════════════════════════════════════════════
+# 【待确认，先别拦】
+# ══════════════════════════════════════════════════════════
+# fnos.net                     # 相册内 3 次命中，疑似飞牛 NAS，需确认
+# comsec-intelligence-cn.heytapmobi.com  # ted.number 常量，包内无网络代码
+
+# ══════════════════════════════════════════════════════════
+# 【不要屏蔽】XMP/EXIF 元数据命名空间，不发请求
+# ══════════════════════════════════════════════════════════
+# ns.adobe.com / aiim.org / npes.org / purl.org / iptc.org
+# ns.google.com / ns.oneplus.com / w3.org
+# exoplayer.dev / dashif.org / aomedia.org
+# schemas.microsoft.com / developer.apple.com

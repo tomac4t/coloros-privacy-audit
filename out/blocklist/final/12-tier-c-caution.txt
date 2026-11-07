@@ -1,0 +1,54 @@
+# ══════════════════════════════════════════════════════════════
+# Tier C —— 功能相关（拦了会掉功能）
+# ══════════════════════════════════════════════════════════════
+
+# ──────────────────────────────────────────────────────────────
+# 网络定位三家地图 SDK（G 组）
+# 三家并行上报 WiFi SSID/MAC + BLE 信标，结果融合
+# ⚠️ 拦了室内/无 GPS 场景定位会失效，导航冷启动变慢
+# 折中方案：只拦最敏感的上报端点（见下方"折中"）
+# ──────────────────────────────────────────────────────────────
+
+# 【折中版】只拦上传 WiFi/BLE 的端点，保留逆地理
+# lbs.map.qq.com                          # 腾讯：唯一上传 ssid + bles
+# adiu.amap.com                           # 高德：设备 ID 上报
+# daup.map.baidu.com                      # 百度：离线定位数据上报
+
+# 【彻底版】全部拦（GPS 定位仍可用，只是没网络定位辅助）
+# lbs.map.qq.com
+# lbs6.map.qq.com
+# lbs-trpc.map.qq.com
+# cs.map.qq.com
+# mt.map.qq.com
+# analytics.map.qq.com
+# rgeorest.map.qq.com
+# nlp.map.qq.com
+# rttgpsreport.map.qq.com
+# flpst.map.qq.com
+# regionlbs.map.qq.com
+# loc.map.baidu.com
+# newclient.map.baidu.com
+# daup.map.baidu.com
+# blg.map.baidu.com
+# adiu.amap.com
+# rgeo-aloc.amap.com
+# aps.amap.com
+# offline.aps.amap.com
+# cgicol.amap.com
+
+# ──────────────────────────────────────────────────────────────
+# 云同步 / 云服务
+# 拦了 = 失去云相册、云备份
+# ──────────────────────────────────────────────────────────────
+# cloud.heytap.com
+# cloudkit-api-cn.heytapmobi.com
+# i-cn01a.ocloud.heytapmobi.com
+# share-cn01a.ocloud.heytapmobi.com
+
+# ──────────────────────────────────────────────────────────────
+# 系统升级 / CDN
+# 拦了 = 收不到更新 / 可能白屏
+# ──────────────────────────────────────────────────────────────
+# ota-recruit-cn.allawntech.com
+# pagekitpage-cdnfs-cn.allawnfs.com
+# dfs-server-gl.allawntech.com

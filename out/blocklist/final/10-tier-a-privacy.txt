@@ -1,0 +1,82 @@
+# ══════════════════════════════════════════════════════════════
+# ColorOS 14 隐私审计 —— Tier A（强烈建议拦截）
+# 生成: 2026-11-06 | 综合 15 轮 + 5 次补挖的结论
+# ══════════════════════════════════════════════════════════════
+
+# ──────────────────────────────────────────────────────────────
+# 1. 相册 OCR 云端上传（F 组）
+# 系统 OCR 服务把图片以 JPEG-100 上传，带 IMEI
+# 拦后：降级本地 OCR，功能不失败，准确率略降
+# ──────────────────────────────────────────────────────────────
+aiscan.ocloud.heytapmobi.com              # 点识别 OCR（JPEG-100 + IMEI）
+airecognition-ocr-cn.heytapmobi.com       # 文本索引备用通道（等 7 秒）
+aitool-cuiocr-cn.heytapmobi.com           # OCR 工具
+aitool-curocr-cn.wanyol.com               # OCR 工具（测试域名，生产包内）
+
+# ──────────────────────────────────────────────────────────────
+# 2. 数字健康 —— 上传已安装应用列表（G 组）
+# WellBeingProvider → 每批 50 个包名 POST
+# ⚠️ 同一份代码里 TLS 校验被禁用（cert.verify(cert.getPublicKey())）
+# 拦后：新装 App 分类走本地已知库，可能显示"其他"
+# ──────────────────────────────────────────────────────────────
+api.open.oppomobile.com                   # 应用分类查询 ★ 上传包名列表
+ilighthouse.apps.coloros.com              # 灯塔（A/B 配置平台）
+
+# ──────────────────────────────────────────────────────────────
+# 3. 号码上云（H 组）
+# 本地号码库未命中 → 把被查询的号码上传
+# 拦后：陌生号码识别降级为纯本地库
+# ──────────────────────────────────────────────────────────────
+tel-num-cn.heytapmobi.com                 # 号码识别/标记/纠错/库下载
+
+# ──────────────────────────────────────────────────────────────
+# 4. 智能短信广告体系（H 组）
+# com.android.mms 内嵌 TeddyMobile 广告，18 个端点
+# 拦后：智能短信卡片不显示，普通短信完全正常
+# ──────────────────────────────────────────────────────────────
+sms.ads.heytapmobi.com                    # 短信广告主域
+api.sms.heytapmobi.com                    # 广告激活
+cl-data.ads.heytapmobi.com                # 广告数据上传
+data.sms.heytapmobi.com                   # 短信数据上报
+commerce-ads.wanyol.com                   # 电商广告
+push1.teddymobile.cn                      # TeddyMobile 推送
+h-push1.teddymobile.cn                    # TeddyMobile 推送（备用）
+
+# ──────────────────────────────────────────────────────────────
+# 5. 耗电监控日志上传（G 组）
+# 功耗/热日志打包上传，主机运行时下发
+# 拦后：日志上传失败，本地记录仍在
+# ──────────────────────────────────────────────────────────────
+httpdns.ocloud.oppomobile.com             # 耗电监控固主 + HTTPDNS
+
+# ──────────────────────────────────────────────────────────────
+# 6. 埋点 / 广告 / 用户画像（A/B/C 组，早前结论）
+# 统一埋点入口：statistics.rom + nearx + olc + onetrace
+# 140+ 个包都引用，拦这几个覆盖绝大部分
+# ──────────────────────────────────────────────────────────────
+pantanal-svcres-cn.allawnfs.com           # AI 助手/场景推荐/用户画像
+pantanal-intelli-cn.allawntech.com        # 同上
+pantanal-intent-cn.allawntech.com         # 同上
+pantanal-sys-cn.allawntech.com            # 同上
+adps-sys-cn.allawntech.com                # 设备指纹
+odin-inference-cn.allawntech.com          # AI 推理（含语音反诈，国行未启用）
+odin-distrib-cn.allawntech.com            # AI 模型分发
+
+# ──────────────────────────────────────────────────────────────
+# 7. 金融变现 SDK（D/H 组）
+# 碎屏险推销（带 OAID）、通讯录里的变现 SDK
+# 拦后：无功能损失
+# ──────────────────────────────────────────────────────────────
+i-insurance.finzfin.com                   # 碎屏险购买状态查询（带 OAID）
+i-insurance-test.wanyol.com               # 同上（测试域名）
+i-monetization.finzfin.com                # 变现
+i-monetization-pre.finzfin.com            # 变现（预发布）
+configx.finzfin.com                       # 变现配置
+epoch.finzfin.com                         # 变现埋点
+tepoch.finzfin.com                        # 变现埋点（测试）
+gslb.finzfin.com                          # 变现 GSLB
+i.finzfin.com                             # 变现
+rplatform.finzfin.com                     # 变现平台
+rwallet-pre.finzfin.com                   # 钱包（预发布）
+rwealth.finzfin.com                       # 理财
+rwealth-gray.finzfin.com                  # 理财（灰度）

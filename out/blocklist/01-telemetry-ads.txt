@@ -144,3 +144,52 @@ vn-epoch.oppomobile.com  # 数据收集 | CDO/epoch 统计流水
 
 # ── 来自 u5/n.java （XOR 0x08 解码，静态扫描抓不到）──
 dcc-httpdns-cn.wanyol.com  # ★HTTPDNS | devTools 分支硬编码，release 不生效，兜底屏蔽
+
+# ── B 组新增（phase10）：OPPO自研 + 百度追踪/广告 + 高德广告 + 腾讯统计 ──
+aiscan.ocloud.heytapmobi.com
+iot-heythings-cn.heytapimage.com
+iot-lc-cn.heytapmobi.com
+smarthome.iot.heytapmobi.com
+gameunion.heytapimage.com
+gl-gamesdk.oppomobile.com
+isdk.heytapmobi.com
+euler-saas-cn.heytapmobi.com
+nebula-api-cn.heytapmobi.com
+bot-ttscloud-cn.heytapmobi.com
+breeno.apps.coloros.com
+smartcard.apps.coloros.com
+heytap.go2yd.com
+heytap.yidianzixun.com
+oppo.yidianzixun.com
+nearme.yidianzixun.com
+oplus.yidianzixun.com
+vip.heytap.pictorial.com
+oppo-mbi.allsaintsmusic.com
+nearme.atlas.com
+heytap.cn
+als.baidu.com
+hmma.baidu.com
+pimlog.baidu.com
+pimc.baidu.com
+pimc2.baidu.com
+mobads.baidu.com
+mobads-logs.baidu.com
+bzclk.baidu.com
+bxzclk.baidu.com
+graph.baidu.com
+httpsdns.baidu.com
+adiu.amap.com
+apilocate.amap.com
+yuntuapi.amap.com
+abroad.apilocate.amap.com
+bugly.qq.com
+astat.bugly.qcloud.com
+astat.bugly.cros.wr.pvp.net
+
+# ── C 组新增（phase11）：AI/感知类 画像+意图+运营 ──
+intelligent-platform-cn.allawntech.com
+scene-bind-cn.allawntech.com
+sense-intent-cn-01.heytapmobi.com
+iwisdom.apps.coloros.com
+traffic-operation-cn.allawntech.com
+odin.allawntech.com

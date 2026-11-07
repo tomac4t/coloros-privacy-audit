@@ -1,0 +1,67 @@
+# C 组「AI / 感知类」新增黑名单
+# 来源：phase11 反编译扫描（17 个包，16 万 Java 文件）
+# 生成：2026-11-05
+
+# ══════════════════════════════════════════════════════════
+# 【Tier A】画像/意图/追踪类 —— 建议直接拦
+# ══════════════════════════════════════════════════════════
+
+# 设备画像（aiunit 唯一的真实域名）
+adps-sys-cn.allawntech.com
+
+# 智能感知/画像（metis + sceneservice）
+pantanal-intelli-cn.allawntech.com
+intelligent-platform-cn.allawntech.com
+scene-bind-cn.allawntech.com
+sense-intent-cn-01.heytapmobi.com
+
+# AI 大脑/意图
+bot-brain-cn.heytapmobi.com
+bot-claw-cn.heytapmobi.com
+bot-intent-cn.heytapmobi.com
+
+# 智慧/流量运营
+iwisdom.apps.coloros.com
+traffic-operation-cn.allawntech.com
+
+# 设备画像（扫一扫）
+hio.oppo.com
+
+# 健康数据（deepthinker）
+sport.health.heytapmobi.com
+
+# ══════════════════════════════════════════════════════════
+# 【Tier B】功能依赖 —— 拦了会降级，按需选择
+# ══════════════════════════════════════════════════════════
+
+# ★ 云端 OCR（识屏/扫一扫）—— 拦了只能用本地 OCR
+aitool-cuiocr-cn.heytapmobi.com
+aitool-curocr-cn.wanyol.com
+
+# ★ 云端翻译 —— 拦了屏翻译/拍照翻译失效
+translate-service-cn.allawntech.com
+compass-translate.apps.coloros.com
+translate.apps.oppomobile.com
+aip-gw-cn.allawntech.com
+aip-ws-cn.allawntech.com
+
+# 小布全系（breeno）—— 拦了语音/识屏/场景都没了
+# breeno.apps.coloros.com      ← 已在 01 里
+
+# 推理服务
+odin.allawntech.com
+
+# 智能卡片/近场
+smartcard.apps.coloros.com
+near-field.heytapmobi.com
+
+# 推送/提示
+imsp.coloros.com
+tips-h5.coloros.com
+
+# 数据安全/病毒库（可能是功能必需）
+datasec-kmsex-cn.heytapmobi.com
+virusinfo-sec.heytapmobi.com
+
+# 内容分发（速览依赖，拦了负一屏内容会空）
+# ocs-cn-north1.heytapcs.com
