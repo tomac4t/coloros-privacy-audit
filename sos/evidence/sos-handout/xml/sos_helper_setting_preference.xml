@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/app_name" android:key="pref_key_sos_helper_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_key_sos_head_guide_function" app:isFirstCategory="true" app:isPreferenceVisible="false">
+        <com.oplus.sos.ui.SOSHelperSettingHeadGuidePreference android:selectable="false" android:key="pref_key_sos_head_guide" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_key_basic_help_function">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/emergency_help" android:key="pref_key_sos_emergency" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/location_share" android:key="pref_key_sos_emergency_sharing" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/emergency_contact" android:key="pref_key_sos_contacts" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/medical_emergency_information" android:key="pref_key_display_personal_medical_information" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_key_non_basic_help_function">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/earthquake_warning" android:key="pref_key_natural_disasters_warning" app:isPreferenceVisible="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:title="@string/google_play_service" android:key="pref_key_google_play_function" app:isPreferenceVisible="false">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/wireless_emergency_alert" android:key="pref_key_wireless_emergency_alert" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/emergency_alert_history" android:key="pref_key_emergency_alert_history" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIBottomPreference />
+</androidx.preference.PreferenceScreen>

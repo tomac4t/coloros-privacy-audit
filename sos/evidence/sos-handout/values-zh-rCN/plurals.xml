@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="count_down_seconds">
+        <item quantity="other">%d 秒</item>
+        <item quantity="one">%d 秒</item>
+    </plurals>
+    <plurals name="earthquake_warning_time_new">
+        <item quantity="other">发震时刻 %1$s，预警时间 %2$d 秒</item>
+        <item quantity="one">发震时刻 %1$s，预警时间 %2$d 秒</item>
+    </plurals>
+    <plurals name="emergency_contact_number">
+        <item quantity="other">%1$s 个</item>
+        <item quantity="one">%1$s 个</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 条新通知</item>
+        <item quantity="one">%d 条新通知</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d条新通知</item>
+        <item quantity="one">%d条新通知</item>
+    </plurals>
+</resources>

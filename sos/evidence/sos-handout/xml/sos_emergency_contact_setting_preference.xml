@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/emergency_contact" android:key="pref_screen_key_emergency_contact_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPagerHeaderPreference android:selectable="false" android:summary="@string/contact_tips" />
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_emergency_contacts_category">
+        <com.coui.appcompat.preference.COUIPreference android:layout="@layout/coui_preference_focus" android:title="@string/add_new_emergency_contact" android:key="pref_add_emergency_contacts" android:order="10" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_category_add_allow_unlocked_viewing">
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/allow_unlocked_viewing" android:key="pref_key_contacts_allow_unlocked_viewing" android:summary="@string/contact_item_allow_unlocked_viewing_summery" android:defaultValue="true" app:isPreferenceVisible="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIBottomPreference />
+</androidx.preference.PreferenceScreen>

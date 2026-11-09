@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/about" android:key="pref_key_sos_about_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreferenceCategory app:isFirstCategory="true">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/application_area" android:key="pref_key_about_application_area" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/earthquake_disclaimer" android:key="pref_key_about_earthquake_disclaimer" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/personal_info_protection_policy" android:key="pref_key_about_sos_policy" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory app:isFirstCategory="true">
+        <com.coui.appcompat.preference.COUIJumpPreference android:layout="@layout/withdrawal_personal_info_preference" android:title="@string/Withdrawal_consent_personal_info_protection_policy" android:key="pref_key_withdrawal_consent_personal_info" app:coui_jump_mark="@null" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+</androidx.preference.PreferenceScreen>

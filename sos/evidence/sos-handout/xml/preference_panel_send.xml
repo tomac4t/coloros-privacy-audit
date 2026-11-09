@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.sos.lowbattery.LowbatterySendPanelMessagePreference android:key="prefer_key_low_battery_panel_message" />
+    <com.oplus.sos.lowbattery.LowbatterySendPanelActionPreference android:title="@string/send" android:key="prefer_key_low_battery_panel_send" />
+    <com.oplus.sos.lowbattery.LowbatterySendPanelActionPreference android:title="@string/edit" android:key="prefer_key_low_battery_panel_edit" />
+    <com.coui.appcompat.preference.COUIPreference android:layout="@layout/lowbattery_send_panel_divider" />
+    <com.oplus.sos.lowbattery.LowbatterySendPanelActionPreference android:key="prefer_key_low_battery_panel_cancel" />
+    <com.coui.appcompat.preference.COUIPreference android:layout="@layout/lowbattery_send_pane_actionl_margin" />
+</androidx.preference.PreferenceScreen>

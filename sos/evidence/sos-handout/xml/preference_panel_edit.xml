@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.sos.lowbattery.LowbatteryInputPreference android:key="prefer_key_low_battery_panel_message_content" app:title="@string/low_battery_message_title" />
+    <com.coui.appcompat.preference.COUIPreference android:layout="@layout/lowbattery_panel_edit_margin" />
+    <com.coui.appcompat.preference.COUISwitchPreference android:persistent="false" android:title="@string/add_location_message_switch" android:key="prefer_key_low_battery_panel_location_switch" android:defaultValue="false" />
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_lowbattery_contacts_category">
+        <com.oplus.sos.lowbattery.ContactsListPreference android:selectable="false" android:key="prefer_key_low_battery_panel_contacts" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+</androidx.preference.PreferenceScreen>

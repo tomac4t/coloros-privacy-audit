@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:key="edit_first_aid_info"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPagerHeaderPreference android:selectable="false" android:summary="@string/ambulance_tips" />
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_first_aid_info_report_category">
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/allow_unlocked_viewing" android:key="pref_first_aid_allow_unlocked_viewing" android:summary="@string/ambulance_item_allow_unlocked_viewing_summery" android:defaultValue="true" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:title="@string/basic_information">
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_name" app:couiHint="@string/name" />
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_height" app:couiHint="@string/height_cm_edit" />
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_weight" app:couiHint="@string/weight_kg" />
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_address" app:couiHint="@string/ambulance_address" app:couiIsLastCard="true" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory app:isFirstCategory="true">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/sex" android:key="pref_first_aid_info_sex" app:couiAssignment="@string/not_set" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/blood_type" android:key="pref_first_aid_info_blood_type" app:couiAssignment="@string/not_set" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/blood_rh" android:key="pref_first_aid_info_blood_rh_type" app:couiAssignment="@string/not_set" app:isPreferenceVisible="false" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/date_of_birth" android:key="pref_first_aid_info_year_of_birth" app:couiAssignment="@string/not_set" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/organ_donation_volunteers" android:key="pref_first_aid_info_organ_donor" app:couiAssignment="@string/not_set" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:title="@string/health_and_medical_information">
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_medical_condition" app:couiHint="@string/ambulance_note" />
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_medication" app:couiHint="@string/medication" />
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_allergies" app:couiHint="@string/ambulance_allergic_reaction" />
+        <com.coui.appcompat.preference.COUIInputPreference android:selectable="false" android:key="pref_first_aid_info_remarks" app:couiHint="@string/remarks" app:couiIsLastCard="true" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIBottomPreference />
+</androidx.preference.PreferenceScreen>

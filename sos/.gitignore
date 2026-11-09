@@ -1,0 +1,5 @@
+apktool/
+jadx/
+*.apk
+__pycache__/
+*.pyc

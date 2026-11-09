@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="coui_datepicker_width_day">@dimen/coui_numberpicker_width_middle</item>
+    <item type="dimen" name="coui_datepicker_width_month">@dimen/coui_number_picker_width_big</item>
+    <item type="dimen" name="coui_datepicker_width_year">@dimen/coui_numberpicker_width_big</item>
+    <item type="dimen" name="coui_time_picker_date_width">@dimen/coui_number_picker_width_bigger</item>
+</resources>

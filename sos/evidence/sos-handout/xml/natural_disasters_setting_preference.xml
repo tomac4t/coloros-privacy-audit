@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/earthquake_warning" android:key="pref_key_natural_disasters_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_key_earthquake_warning_head_demo_category" app:isFirstCategory="true">
+        <com.oplus.earthquake.ui.EarthquakeHeadPreference android:selectable="false" android:key="pref_key_earthquake_head_demo" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_key_earthquake_warning_category">
+        <com.oplus.earthquake.ui.NaturalDisastersSwitchPreference android:title="@string/earthquake_warning" android:key="pref_key_earthquake_warning" android:defaultValue="false" />
+        <com.oplus.sos.ui.SOSSwitchPreference android:title="@string/pref_title_warning_flash" android:key="pref_key_warning_flash" android:summary="@string/pref_subtitle_warning_flash" android:dependency="pref_key_earthquake_warning" android:defaultValue="false" />
+        <com.oplus.sos.ui.SOSSwitchPreference android:title="@string/earthquake_intensity_prediction" android:key="pref_key_earthquake_weak" android:summary="@string/earthquake_intensity_prediction_subtitle" android:dependency="pref_key_earthquake_warning" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIBottomPreference />
+</androidx.preference.PreferenceScreen>

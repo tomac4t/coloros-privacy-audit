@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.coloros.regservice" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <compatible-screens/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.LOCAL_MAC_ADDRESS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="oppo.permission.OPPO_COMPONENT_SAFE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.USE_EXACT_ALARM"/>
+    <uses-permission android:name="com.oppo.permission.safe.SECURITY"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.MAINLINE_NETWORK_STACK"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS"/>
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <permission android:name="com.dm.permission.THIRD_SEND" android:protectionLevel="signature"/>
+    <application android:allowBackup="false" android:extractNativeLibs="false" android:label="@string/app_name" android:name="com.dmyk.android.telephony.DMApplication">
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <uses-library android:name="vendor.oplus.hardware.charger-V1.0" android:required="false"/>
+        <uses-library android:name="vendor.oplus.hardware.charger-V1" android:required="false"/>
+        <meta-data android:name="versionCommit" android:value="ae1bc90"/>
+        <meta-data android:name="versionDate" android:value="240605"/>
+        <meta-data android:name="dmkey" android:value="A100000357"/>
+        <meta-data android:name="br" android:value="1"/>
+        <meta-data android:name="area" android:value="domestic"/>
+        <meta-data android:name="maxAndroidApiLevel" android:value="34"/>
+        <meta-data android:name="minAndroidApiLevel" android:value="33"/>
+        <meta-data android:name="maxColorOSApiLevel" android:value="null"/>
+        <meta-data android:name="minColorOSApiLevel" android:value="26"/>
+        <meta-data android:name="ForbidStop" android:value="true"/>
+        <service android:exported="true" android:name="cn.richinfo.dm.service.DMService" android:permission="oppo.permission.OPPO_COMPONENT_SAFE"/>
+        <receiver android:exported="true" android:name="com.dmyk.android.telephony.OppoReceiver" android:permission="oppo.permission.OPPO_COMPONENT_SAFE">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.dmyk.android.telephony.action.SIM_STATE_CHANGED"/>
+                <action android:name="oplus.intent.action.ACTIVATE_STATISTICS"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.dmyk.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="cn.richinfo.dmyk.action.APPINFO"/>
+                <action android:name="cn.richinfo.dmyk.action.APPINFO_RETRY"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="cn.richinfo.dmyk.action.REGISITER"/>
+                <action android:name="cn.richinfo.dmyk.action.REGISITER_RETRY"/>
+                <action android:name="cn.richinfo.dmyk.action.HEARTBEAT"/>
+                <action android:name="cn.richinfo.dmyk.action.HEARTBEAT_RETRY"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="cn.richinfo.dmyk.action.APN"/>
+                <action android:name="cn.richinfo.dmyk.action.APN_RETRY"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.dmyk.android.telephony.action.VOLTE_STATE_CHANGE"/>
+                <action android:name="com.dmyk.android.telephony.action.APN_STATE_CHANGE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="cn.richinfo.dmyk.action.HEARTBEAT_SUCCESS"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.dmyk.action.ACTION_NETWORK_COLLECT"/>
+                <action android:name="android.dmyk.action.BATTERY_CHARGE_STATE_CHANGE"/>
+                <action android:name="android.dmyk.action.BLUETOOTH_CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.dmyk.android.telephony.OppoDMReceiver" android:permission="com.dm.permission.THIRD_SEND">
+            <intent-filter>
+                <action android:name="cn.richinfo.dmyk.action.THIRD_REQUEST"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

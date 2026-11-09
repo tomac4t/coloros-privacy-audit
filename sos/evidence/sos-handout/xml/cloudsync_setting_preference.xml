@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/sos_cloud_sync"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.coui.appcompat.preference.COUIPreferenceCategory>
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/preference_setting_sync_auto" android:key="pref_auto_sync" android:summary="@string/sync_auto_description" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIBottomPreference />
+</androidx.preference.PreferenceScreen>

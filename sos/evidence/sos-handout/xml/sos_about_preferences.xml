@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/about_sos" android:key="pref_key_sos_about_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_category_key_personal_info_checklist" app:isFirstCategory="true">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/collect_personal_info_checklist" android:key="pref_key_collect_personal_info_checklist" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/third_party_info_share_checklist" android:key="pref_key_third_party_info_share_checklist" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory app:isFirstCategory="true">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/about_alarm_assistance" android:key="pref_key_about_alarm_assistance" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/about_location_share" android:key="pref_key_about_location_share" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/about_earthquake_warning" android:key="pref_key_about_earthquake_warning" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+</androidx.preference.PreferenceScreen>

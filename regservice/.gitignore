@@ -1,0 +1,7 @@
+raw/
+apktool/
+jadx/
+regservice_data/
+__pycache__/
+*.pyc
+*.apk

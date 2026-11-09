@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:layout_width="fill_parent" android:layout_height="fill_parent" android:title="@string/low_battery_message" android:key="pref_key_lowbattery_preference_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.sos.lowbattery.GifExplainPreference android:selectable="false" android:key="lowbattery_gif_explain" />
+    <com.coui.appcompat.preference.COUISpannablePreference android:selectable="false" android:key="pref_key_lowbattery_detail" android:summary="@string/low_battery_settings_detail" />
+    <com.coui.appcompat.preference.COUIPreferenceCategory>
+        <com.coui.appcompat.preference.COUISwitchPreference android:layout="@layout/coui_preference" android:title="@string/low_battery_message" android:key="switch_key_lowbattery_settings" android:defaultValue="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_lowbattery_edit_message_category">
+        <com.oplus.sos.lowbattery.EditMessagePreference android:layout="@layout/lowbattery_edit_message_preference" android:selectable="false" android:key="pref_lowbattery_edit_message" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUISwitchPreference android:layout="@layout/coui_preference" android:title="@string/add_location_message_switch" android:key="pref_switch_key_lowbattery_location" android:summary="@string/low_battery_location_switch_description" android:defaultValue="false" />
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_lowbattery_contacts_category">
+        <com.oplus.sos.lowbattery.widget.NewContactListPreference android:layout="@layout/lowbattery_new_contacts_preference" android:selectable="false" android:key="pref_lowbattery_contacts" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreference android:layout="@layout/lowbattery_panel_edit_margin" />
+    <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/set_not_disturb_time" android:key="pref_switch_key_lowbattery_not_remind_time" android:summary="@string/low_battery_not_remind_during_set_time" android:defaultValue="false" />
+    <com.oplus.sos.lowbattery.SetNotRemindTimePreference android:layout="@layout/lowbattery_settings_switch_not_remind_time" android:key="pref_key_lowbattery_not_remind_time_from" android:dependency="pref_switch_key_lowbattery_not_remind_time" />
+    <com.coui.appcompat.preference.COUIPreferenceCategory>
+        <com.coui.appcompat.preference.COUIPreference android:title="@string/send_now" android:key="pref_lowbattery_contacts_send_now" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_lowbattery_bottom_driver" />
+</androidx.preference.PreferenceScreen>

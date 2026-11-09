@@ -1,6 +1,16 @@
-# ColorOS 14 隐私审计（一加 8T）
+# ColorOS 隐私审计（一加 8T）
 
-对一加 8T（ColorOS 14）出厂系统应用做隐私安全审计：看有没有埋点、收集什么、发到哪儿，最终产出可用的 DNS 黑名单（AdGuard Home）。
+对一加（OnePlus）8T 出厂 ColorOS 系统应用做隐私安全审计：看有没有埋点、收集什么、发到哪儿，
+最终产出可用的 DNS 黑名单（AdGuard Home）。
+
+**两轮研究，同一台机器**：
+
+| 轮次 | 机型 / ROM | 范围 |
+|---|---|---|
+| 第一轮 | 一加 8T / ColorOS 14 | 全量 345 包，产出黑名单 |
+| 第二轮 | 一加 8T / ColorOS 14 | 两个高危组件深挖（运营商 DM / 报警辅助） |
+
+> 两轮 APK **都从同一台一加 8T 提取**。不涉及其他机型。
 
 ---
 
@@ -32,9 +42,34 @@
 
 **术语表**：[`glossary.md`](glossary.md) —— DCS/DCC/CDO/dwd/dws/DUID/ONEID 等全部缩写。
 
+### 第二轮：系统组件精扫（2026-11-07 ~ 11-08）
+
+第一轮解决的是“哪些包在采集、发到哪儿”。第二轮换了个问法：**盯住单个高危组件，把机制挖到底**。
+
+| # | 目标 | 设备/ROM | 报告 |
+|---|---|---|---|
+| R1 | `com.coloros.regservice`（运营商 DM SDK） | 一加 8T / ColorOS 14 | [`regservice/README.md`](regservice/README.md) |
+| R2 | `com.oplus.sos`（SOS 紧急联络 / 报警辅助） | 一加 8T / ColorOS 14 | [`sos/README.md`](sos/README.md) |
+
+配套产出（不入本文，按需查）：
+
+| 文件 | 内容 |
+|---|---|
+| [`regservice/BLOCKING.md`](regservice/BLOCKING.md) | 阻断方案四档（DNS / 按 App 断网 / 卸载 / root）+ 拉库取证的 A~E 方案 |
+| [`regservice/REPORT-TO-ADGUARD.md`](regservice/REPORT-TO-ADGUARD.md) | 上报 AdGuard 的完整稿件（含驳回预判与对策） |
+| [`regservice/SUBMIT-COPY-PASTE.md`](regservice/SUBMIT-COPY-PASTE.md) | 纯粘贴版：规则 + 英文正文 + 中文正文 |
+| [`regservice/README-public.md`](regservice/README.md) | 对外公开版（剔除可操作敏感细节） |
+| [`regservice/tools/dm_decode.py`](regservice/tools/dm_decode.py) | AES 解码 + `cmcc_dm.db` 分析（`decrypt`/`db`/`scan` 子命令） |
+| [`regservice/tools/pull_db.sh`](regservice/tools/pull_db.sh) | 拉库脚本（run-as → su → adb root 逐级降级） |
+| [`sos/DEEPDIVE-QA.md`](sos/DEEPDIVE-QA.md) | 七个追问的深入核查（含三处自我更正） |
+| [`sos/tools/alarm_sms.py`](sos/tools/alarm_sms.py) | 报警辅助短信二进制结构解析器（含自测） |
+
 **仍未完成**（需要真机/网络环境，静态分析做不了）：
 - ⬜ 抓包验证（SNI 看真实域名）
 - ⬜ 隐私政策正文比对（需抓 `muc.heytap.com`）
+- ⬜ `cmcc_dm.db` 实库分析（手机无 root，`run-as` 被系统应用封禁）
+- ⬜ `disaster.coloros.com` 的后端转发链路（反编译看不到）
+- ⬜ 两轮数据未合并到同一份黑名单：`fxltsbl.com` 需手加入 `final/10-tier-a-privacy.txt`
 
 ---
 
@@ -286,6 +321,115 @@ PC 下发 `start_catch_log` → `OlcHelper.sendLogCatch()` → 系统 Olc 抓日
 
 **合法售后功能，但一旦签名密钥泄露 = 远程控制通道。**
 
+### 🔴 15. `com.coloros.regservice` = 运营商 DM SDK，带远程代码下发
+
+**来源**：一加 8T / ColorOS 14，`/my_bigball/app/RegService/RegService.apk`（855 KB），
+Tom 本机 `adb pull` 取得。
+OPPO 官方平台签名（`CN=AndroidTeam, O=Oplus`）—— **不是第三方塞进来的，是随 ROM 预置的系统组件**。
+
+> v2ex 原帖（t/1255189）描述的是网友在一加 ACE / ColorOS 15 上的现象。
+> 本文结论全部基于**一加 8T 的真实 APK**，两台机器的包是否一致未验证。
+
+它是**彩讯科技**（`cn.richinfo.dm`，SDK v4.0.7）的中国移动 DM（Device Management）SDK，
+所有上报走 `*.fxltsbl.com`（`a.` 生产 / `b.` 调试 / `auc.` 授权）。
+
+**它采什么**：
+- 全量应用列表（`getInstalledPackages(8197)`，**含系统应用**）
+- 每个应用的前台时长、**启动次数**（反射读被隐藏的 `UsageStats.mLaunchCount`）、移动/WiFi 收发字节
+- Wi-Fi 扫描列表（SSID/BSSID/RSSI）、IMEI1/2、IMSI1/2、ICCID1/2、MEID、WLAN/BT MAC
+- 基站 cellId/lac/RSRP/SINR（4G+5G × 双卡）、已配对蓝牙设备、充电状态、传感器逐项探测
+
+**最高风险：远程下发并加载代码**
+
+```java
+// service/DMService.java
+new DexClassLoader(patch.jar, getCacheDir(), null, classLoader)
+    .loadClass("cn.richinfo.dmpatch.business.DMController")
+    .getMethod("getInstance", Context.class).invoke(null, this);
+```
+
+服务端通过 `?func=tsdk:checkupdate` 下发 `{version, filePath, md5, size}`，
+`filePath` 是**任意 URL**，下载到 `files/dynamic/patch.jar` 后直接加载替换整个 `DMController`。
+**只校验 MD5，不验签名。** RAT 形态。
+
+**加密实际等于没加密**：AES 密钥以明文常量写在 `libaes-jni.so` 的 `.rodata`
+（`134e3265829ff82daf16e7b740a600b5`）。JNI 函数 `keyFromJNI()` 反汇编后只有一条数据引用：
+直接 `NewStringUTF(.rodata)`，无 XOR、无混淆。
+URL 签名 `token = MD5(imei1 + 时间戳后8位)` —— **密钥就是 IMEI 本身**，任何人可伪造请求。
+
+**其他**：
+- 采集开关/频率/休眠期全部由服务端 `terminalConf` 下发，本地不可控
+- `OppoActivityManager.addBackgroundRestrictedInfo()` 主动申请后台豁免；Manifest `ForbidStop=true`
+- AES/ECB 无 IV；`.DMLog` 日志上传是 **multipart 明文 POST**，文件名里直接拼 IMEI
+- `getLocationMsg()`（经纬度）有实现但当前 SDK 未调用 —— 动态包里可启用
+- “隐藏名单看不到”只成立一半：无 launcher 入口本就不显示图标，**代码里没找到 `pm hide` 自我隐藏**
+
+### 🔴 16. 「报警辅助」= 拨打 110/120/119/122 自动把位置发给深圳位置网
+
+`com.oplus.sos`（SOS 紧急联络）。用户问的是：设置 → SOS 紧急联络 → 位置共享 里的两个开关。
+
+**关键认知：那两个开关是两条完全独立的链路。**
+
+| | 自动发送位置信息 | 报警辅助 |
+|---|---|---|
+| 开关 key | `pref_key_sos_send_message_merge` | `pref_key_alarm_assistance` |
+| 接收方 | **你的紧急联系人** | **接处警中心**（经位置网） |
+| 短信发往 | 通讯录里的号码 | `1069030089933`（1069 短信接入号） |
+| 内容 | 明文 + **高德地图链接** | 网络 ECIES JSON / 短信 RSA 二进制 |
+
+**触发三道闸门**（`xc/c.java`）：
+```java
+号码 ∈ ["110","119","120","122"]        // PEM 配置
+&& TelephonyManager.getNetworkCountryIso() == "cn"   // 注意：不看 SIM 归属，看注册网络
+&& c0.L() >= 2                                  // 协议版本 v2
+&& !checkSuppressConfig()                       // 服务端未下发抑制
+```
+
+**网络通道** POST 到 `https://disaster.coloros.com/v4/warning/uploadCaseInfo`：
+```
+{ nationCode, mobilePrefix, mobile(明文手机号), emergencyNum, channelName:"OPPO",
+  deviceId: <auid_value>, locationList:[{longtitude, latitude, gmtCreated}],
+  netLocation:{ macs:"aa:bb:cc:dd:ee:ff|..." },   ← 周边 Wi-Fi 的 BSSID，最多 10 个
+  pushData: <ECIES 密文>, aesKey: <ECIES 加密的随机 AES key> }
+```
+
+**定位节流**（不是每个回调都发）：位移 **≥100 米**才再发；静止基本只发首定位 1 次，挂断补 1 次；
+GPS 45 秒超时则 0 次；`network` provider 最小间隔 120 秒。**无硬性次数上限。**
+
+**短信通道**（无网 / 取不到本机号）：131 字节结构，要跟着 **7-bit 转义**才能进一条长短信。
+```
+[0:3] 魔数 06 0D 03
+[3:131] RSA-1024 加密块（PKCS#1 v1.5，公钥硬编码在源码里）
+  → 明文 117B：紧急号码(2) + 区号(2) + 纬度f64 + 经度f64
+                   + 时间位域(低14位=拨号后秒数, 高位=拨号时刻)
+                   + 标志位(bit2=是否120) + SIM槽位 + Wi-Fi数量n
+                   + 7×n 个 [BSSID(6)+RSSI(1)]
+```
+解析工具：[`sos/tools/alarm_sms.py`](sos/tools/alarm_sms.py)。
+
+**四个问题**（按严重度）：
+
+1. 🔴 **医疗信息捆绑上传，且无独立开关**。120 呼叫时自动带 `name/血型/Rh/身高体重/出生年份/
+   器官捐献意愿/病史/用药/过敏/怀孕/健康卡号`，上传到 `/aidCard/upload`。
+   开关说明只写“当前位置等信息”，**没提医疗信息**；想不上传只能**把填的内容删干净**。
+2. 🔴 **接口无鉴权 + 公钥硬编码**，拿到 APK 就能构造任意手机号 + 任意经纬度的合法上报包。
+3. 🟠 **`WRITE_SECURE_SETTINGS` 权限给得过宽**。SOS 功能只需 3 处写入，其中只有
+   `exit_zen_mode`（退出勿扰让铃声能响）是本用途；另两处是 key 由调用方传入的通用封装，无白名单。
+4. 🟡 测试域名 `disaster.romtest.wanyol.com` + 明文 HTTP 配置进了正式包，
+   但由 `test_key_for_sos` / `test_key_for_first_aid_info` 控制，**App 自己从不写这两个键**
+   （全包搜 `putBoolean("test_key` 零命中），零售机上是死代码，永远走 HTTPS。
+
+**埋点**：`2107`(点开关) / `2108`(触发) / `2109`(上报结果) / `2110`(医疗上报结果) / `1025`(协议同意)。
+`2109` 的 `response_msg` 会把**服务端返回的 `body` 原样**带进埋点。
+`service_provider_used` 透出两家：`weizhiwang`（深圳位置网）+ `gongxinbu`（中国信通院，协议 v2 起）。
+
+**`auid_value` 不可重置**：来自 `HeytapIDSDK.getAUID()`，是**欢太账号维度**的设备 ID。
+清数据后下次仍返回同值，改 `android_id` 完全不影响，只有退账号才会变。
+
+**关掉报警辅助的效果**：这个 App 一个字节都不发（全包无 `getCellLocation`/`getAllCellInfo`）。
+但**运营商侧的基站定位本来就存在**（三角测量 100–500 米，不需要手机配合），
+所以关掉的不是“位置暴露”，而是“精度”。
+
 ---
 
 ## 三、域名与黑名单
@@ -321,6 +465,8 @@ out/blocklist/09-e-f-group-additions.txt    # ★ E/F 组（相册 OCR + 入网�
 
 ### 域名主战场
 
+**第一轮（ColorOS 埋点体系）**：
+
 | 域族 | 用途 |
 |---|---|
 | `*.cdo.heytapmobi.com` / `*.dc.*` | 统计流水（实时 JSON） |
@@ -339,6 +485,33 @@ out/blocklist/09-e-f-group-additions.txt    # ★ E/F 组（相册 OCR + 入网�
 | 抹掉 HTTPDNS 会回落吗 | **会**。`s6/b.java:211` 有 `Dns.SYSTEM.lookup(hostname)` 兜底 |
 | HTTPDNS 服务域名 | `support.browser.heytapmobi.com`（主）+ `apisnd.heytapmobi.com`（备） |
 | 备用 IP（需防火墙） | `120.246.123.112` / `106.3.18.112` / `111.206.136.5` / `120.238.145.15` / `119.147.175.11` / `157.148.79.10` |
+
+### 第二轮新增的高危域名
+
+**`com.coloros.regservice`（运营商 DM）**
+
+| 域 | 用途 | 建议 |
+|---|---|---|
+| `*.fxltsbl.com` | 全部上报（注册/应用/心跳/WiFi/蓝牙/基站） | ★ 必拦 |
+| `a.fxltsbl.com` | 生产 + `/getIpAddr` | ★ 必拦 |
+| `b.fxltsbl.com` | 调试环境 | 拦 |
+| `auc.fxltsbl.com` | 授权中心 / 拍照上报 | 拦 |
+
+对应 8 条上报路径：`/sdkService?func=tsdk:postreglog|posthblog|postapplylog|configlog`、
+`/TerminalConfigService/terminalConf|auth`、`/wifiInfo`、`/bluetooth`、`/flowCollectService`、
+`/preInstalledApp`、`/network`、`/batteryCharging`、`/internationalRoaming`、`/errorDiagnosis`、`/logReport`。
+
+> ⚠️ 纯 DNS 拦截够挡解析，挡不住 IP 直连。**最可靠是按 App 断网**。
+
+**`com.oplus.sos`（报警辅助）**
+
+| 域 | 用途 | 建议 |
+|---|---|---|
+| `disaster.coloros.com` | 报警辅助上报 / 医疗卡上传 / 灾害预警 | ⚠️ **不建议拦**，会破救护/报警功能 |
+| `disaster.romtest.wanyol.com` | 测试域名（零售机不启用） | 可拦（无影响） |
+
+**这个域名属于“宁可不拦”的类型** —— 拦了 Emergency 服务会失去定位能力。
+若担心隐私，正确做法是关开关，不是拦域名。
 
 ---
 
@@ -363,6 +536,30 @@ out/blocklist/09-e-f-group-additions.txt    # ★ E/F 组（相册 OCR + 入网�
 | 屏幕用时 | 健康 App → 设置 → 关闭 | 停上传（正常路径） |
 | 广告个性化 | 设置 → 隐私 → 广告与隐私 → 关闭 | 至少拿回 OAID 控制权 |
 
+### 4.2b 第二轮两个组件的开关（补充）
+
+**`com.coloros.regservice`（运营商 DM）**
+
+| 目标 | 操作 | 效果 |
+|---|---|---|
+| DNS 层拦截 | AdGuard 加 `||fxltsbl.com^` | 拦解析，挡不住 IP 直连 |
+| **按 App 断网（推荐）** | AdGuard 安卓版 / RethinkDNS / NetGuard 里禁用该 App | 含 IP 直连，最可靠 |
+| 卸载 | `adb shell pm uninstall --user 0 com.coloros.regservice` | `my_bigball` 分区可卸；回滚 `cmd package install-existing` |
+| root 彻底 | `mv /my_bigball/app/RegService` + Magisk overlay | OTA 会刷回，必须 overlay |
+
+> ⚠️ **顺序**：先查 `files/dynamic/patch.jar` 是否存在。已存在则光断网无效，必须先删或卸载。
+
+**`com.oplus.sos`（报警辅助）**
+
+| 功能 | 退出方式 | 备注 |
+|---|---|---|
+| 报警辅助 | 设置 → 位置共享 → 关开关 | 同时撤回协议，`version` 变 -1 |
+| 自动发送位置信息 | 同页面顶部开关 | 独立的另一条链路 |
+| **医疗信息** | **只能删掉填的内容** | ⚠️ **没有独立开关** |
+| 地震预警 | 独立开关 | — |
+| 服务端抑制 | **无法退出** | `suppressEmergencyAssistant` 远程下发 |
+| 卸载/禁用整个 App | `pm disable-user --user 0 com.oplus.sos` | ⚠️ SOS 紧急呼叫一起废掉 |
+
 ### 4.3 「关掉就真停了吗」的答案
 
 **大部分不是。** 详见下方「结论的局限」。
@@ -371,13 +568,16 @@ out/blocklist/09-e-f-group-additions.txt    # ★ E/F 组（相册 OCR + 入网�
 
 ## 五、方法论与经验（后续维护必读）
 
-### 5.1 三次踩过的坑
+### 5.1 六次踩过的坑
 
 | # | 坑 | 教训 |
 |---|---|---|
 | 1 | 看到「上传函数」就断定"会自动上传" | **必须追到调用方入口**，看有没有定时器/JobScheduler |
 | 2 | 说"没有开关"，实际有三层 | **要查 UI 资源 + 存储键**（`res/xml/*.xml` 的 `android:key`），不能只看判断函数 |
 | 3 | 说 `ted.number` "不联网" | **必须扫 dex 里的完整 URL 字符串**，不能只扫 `BuildConfig` 常量 |
+| 4 | 说“每收到一次定位回调就上报一次”（报警辅助） | 实际有 **100 米位移节流**；静态判断漏掉了距离判据 |
+| 5 | 把「自动发送位置信息」和「报警辅助」的文案/实现混着说 | **多个相邻开关逐个确认代码路径**，别凭文案相似就归并 |
+| 6 | 说“测试域名和明文 HTTP 进了正式包”（暗示在用） | **「代码里有」≠「运行时在用」**，要说清开关条件 |
 
 ### 5.2 判断"是否联网"的正确姿势
 
@@ -388,6 +588,8 @@ out/blocklist/09-e-f-group-additions.txt    # ★ E/F 组（相册 OCR + 入网�
    （定位服务代码只扫到 3 家，官方声明列了 6 个）
 
 ### 5.3 工具链
+
+第一轮的工具在 `scripts/`（批量扫 345 包）；第二轮的工具在各自子目录里。
 
 ```bash
 # 单包体检（权限 + 域名 + URL）
@@ -404,6 +606,23 @@ bash scripts/decompile_g.sh /tmp/g-apk /tmp/gref
 
 # ⚠️ jadx 失败的用 apktool 出 smali
 java -jar ~/.openclaw/workspace/tools/apktool.jar d -f app.apk -o smali/
+```
+
+**第二轮专用工具**：
+
+```bash
+# 运营商 DM SDK：解上报体 / 分析本地数据库 / 扫整个数据目录
+python3 regservice/tools/dm_decode.py decrypt --file body.b64 --json
+python3 regservice/tools/dm_decode.py db cmcc_dm.db --out db-report.md
+python3 regservice/tools/dm_decode.py scan ./regservice_data
+python3 regservice/tools/selftest.py        # 算法自测
+
+# 报警辅助短信二进制结构
+python3 sos/tools/alarm_sms.py self-test    # 构造样例并解析回来
+python3 sos/tools/alarm_sms.py parse "<短信文本>"
+
+# 拉库（run-as → su → adb root 逐级降级，失败会告诉你卡在哪）
+bash regservice/tools/pull_db.sh ./regservice_data
 ```
 
 ### 5.4 jadx 已知失败点
@@ -452,6 +671,9 @@ adb shell settings get system com.oplus.eap.cloud_storage_release_host_v3
 | 定位 | 三家 SDK 谁实际请求最多 |
 | crashbox | `com.oplus.eap.release_host` 实际值 |
 | 天气 | 界面 App 包名（system/app 预装，不在备份里） |
+| RegService | `files/dynamic/patch.jar` 是否已下发（无 root、`run-as` 被封，未拿到） |
+| RegService | `cmcc_dm.db` 实库内容（同上） |
+| 报警辅助 | `disaster.coloros.com` 的后端转发链路（客户端看不到） |
 
 ### 结论的局限
 
@@ -465,9 +687,18 @@ adb shell settings get system com.oplus.eap.cloud_storage_release_host_v3
 
 ### 样本
 
+**第一轮（345 包全量）**
+
 - 原始包：`/home/admin/Downloads/app_backup.zip`（3.1 GB）
 - 解压位置：`/tmp/app_backup/`（4.9 GB，345 个 APK，**重启会清空**）
 - 索引：`out/apk-index.json`
+
+**第二轮（两个组件）**
+
+| 组件 | 来源 |
+|---|---|
+| `com.oplus.sos` | 同一个 `app_backup.zip`（18.4 MB） |
+| `com.coloros.regservice` | 一加 8T，`adb pull /my_bigball/app/RegService/RegService.apk`（855 KB） |
 
 ```bash
 # 解压（务必用 Python，别用 unzip）
@@ -492,6 +723,8 @@ EOF
 | `/tmp/ajadx/` | A 组 4 包 |
 | `/tmp/locsmali/` | 定位 smali（`wb/i.smali` 关键） |
 | `/tmp/hsmali/` | ted.number smali |
+| `sos/apktool/`、`sos/jadx/` | 报警辅助（已提交在项目里，`.gitignore` 排除体型大的，但目录保留） |
+| `regservice/apktool/`、`regservice/jadx/` | 运营商 DM SDK（同上） |
 
 ### 复现脚本
 
@@ -531,6 +764,24 @@ scripts/
   decompile_g.sh               批量反编译
   split_phase13.py             合并报告拆分
   build_final_blocklist.py     ★ 生成 final/ 最终黑名单（含来源校验）
+regservice/                    一加 8T 运营商 DM SDK 审计
+  README.md                    主报告（内部完整版）
+  README-public.md             对外公开版
+  BLOCKING.md                  网络阻断 / 卸载 / 验证清单 + 拉库取证 A~E 方案
+  REPORT-TO-ADGUARD.md         上报 AdGuard 的完整稿件（含驳回预判）
+  SUBMIT-COPY-PASTE.md         纯粘贴版：规则 + 英文正文 + 中文正文
+  SHA256SUMS                   原包校验值
+  tools/
+    dm_decode.py               AES 解码 + cmcc_dm.db 分析
+    selftest.py                算法自测（AES/GZIP/token）
+    test_db.py                 合成数据库测试（不接触真实数据）
+    pull_db.sh                 拉库脚本（逐级降级）
+  raw/ apktool/ jadx/          反编译产物（.gitignore 排除）
+sos/                           一加 8T / ColorOS 14 SOS 紧急联络审计
+  README.md                    主报告
+  DEEPDIVE-QA.md               七个追问的深入核查（含三处更正）
+  tools/alarm_sms.py           报警辅助短信二进制结构解析器
+  apktool/ jadx/               反编译产物（.gitignore 排除）
 ```
 
 ---
@@ -554,3 +805,18 @@ scripts/
 1. v1：「随机分流」—— 错
 2. v2：「三家并行只取高德」—— 仍错
 3. v3：**三家并行 → 结果全部融合**（漏看 `xb/i.java` 生成 type=32）
+
+**第二轮（RegService / 报警辅助）的自我更正**：
+
+| # | 错误 | 正确 |
+|---|---|---|
+| 1 | 把「自动发送位置信息」和「报警辅助」的文案/实现混着说 | 两条独立链路；前者的位置是**高德链接**，后者才发 1069 |
+| 2 | “每收到一次定位回调就上报一次” | 有 **100 米位移节流**；静止基本 1 次 + 挂断补 1 次 |
+| 3 | 暗示测试域名/明文 HTTP 在用 | 由 `test_key_for_sos` 控制，**App 自己从不写这个键**，零售机上是死代码 |
+| 4 | “医疗信息上传”只说了一句 | 实际包含**怀孕、健康卡号**等字段，且**无独立开关** |
+
+### 本文合并说明（2026-11-08）
+
+第二轮的两个组件报告已压缩合并到本文第二、四、五、六节，
+详细内容仍保留在 `regservice/` 与 `sos/` 子目录。
+合并原则：**全局结论进本文，可复现的细节留在子目录**。

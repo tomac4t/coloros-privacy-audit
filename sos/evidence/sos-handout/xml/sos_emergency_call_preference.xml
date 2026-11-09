@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/location_share" android:key="pref_key_sos_emergency_call_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreferenceCategory>
+        <com.oplus.sos.ui.SOSSwitchPreference android:title="@string/pref_title_auto_send_location_information" android:key="pref_key_sos_send_message_merge" android:summary="@string/auto_send_location_information_summery" />
+        <com.coui.appcompat.preference.COUIPreference android:title="@string/sos_send_time" android:key="pref_key_sos_send_time" android:defaultValue="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="low_battery_layout">
+        <com.oplus.sos.ui.SOSSwitchPreference android:title="@string/low_battery_notification" android:key="switch_key_lowbattery_settings" android:summary="@string/low_battery_notification_summery" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory>
+        <com.oplus.sos.ui.SOSSwitchPreference android:title="@string/alarm_assistance_title" android:key="pref_key_alarm_assistance" android:summary="@string/alarm_assistance_switch_summery" android:defaultValue="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory>
+        <com.coui.appcompat.preference.COUIPreference android:layout="@layout/coui_preference_focus" android:title="@string/share_immediately" android:key="pref_key_sos_share_immediately" android:defaultValue="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIBottomPreference />
+</androidx.preference.PreferenceScreen>

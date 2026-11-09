@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/embassy_contact_information" android:key="pref_key_consulate_protection_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreference android:layout="@layout/consulate_protection_header_view" android:selectable="false" android:key="pref_key_consular_protection_detail" android:summary="@string/sos_consulate_number_trip" />
+    <com.coui.appcompat.preference.COUIPreference android:layout="@layout/sos_preference_category_layout" />
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_key_consulate_protection_category" app:isFirstCategory="true">
+        <com.coui.appcompat.preference.COUIPreference android:title="@string/sos_global_hotline" android:key="pref_key_consular_protection_global_hotline" android:defaultValue="false" />
+        <com.coui.appcompat.preference.COUIPreference android:title="@string/sos_consular_protection_number_of_the_local_embassy" android:key="pref_key_consular_protection_number_of_the_local_embassy" android:defaultValue="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+</androidx.preference.PreferenceScreen>

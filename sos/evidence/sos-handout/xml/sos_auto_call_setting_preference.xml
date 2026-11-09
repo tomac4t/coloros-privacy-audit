@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/auto_call" android:key="pref_key_sos_auto_call_setting_root"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_key_sos_emergency_call_category">
+        <com.oplus.sos.ui.UsePowerBtnPreference android:title="@string/continually_press_to_enter_emergency_call_new" android:key="pref_key_sos_use_power_btn" android:summary="@string/press_five_times_to_enter_emergency_call" android:defaultValue="true" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory>
+        <com.coui.appcompat.preference.COUISwitchPreference android:persistent="false" android:title="@string/auto_call" android:key="pref_key_sos_auto_call_redundant" android:summary="@string/auto_call_help_when_trigger_SOS_emergency_call" />
+        <com.coui.appcompat.preference.COUIPreference android:title="@string/pref_title_dial_number" android:key="pref_key_sos_dial_number" app:couiAssignment="@string/not_set" />
+        <com.coui.appcompat.preference.COUIPreference android:title="@string/custom_phone_number" android:key="pref_key_custom_phone_number" />
+        <com.coui.appcompat.preference.COUIPreference android:title="@string/phone_call_countdown" android:key="pref_key_count_down_before_dial" />
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/count_down_warning_tone" android:key="pref_key_sos_play_warning_tone" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIBottomPreference />
+</androidx.preference.PreferenceScreen>
